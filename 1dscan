@@ -1,0 +1,59 @@
+#Main parameters for solving the Hybrid model dispersion relation
+
+#wavevector_mode=1: use kperp, kpar; =2: use k, theta
+wavevector_mode= 2
+kperp= 0.01
+kpar= 1e-4
+
+k= 0.01
+theta= 85
+
+beta= 0.2    # beta_i||
+tau= 1.    # T_i|| / T_e
+Tpar_Tperp= 1.    # T_i|| / T_i_perp
+gam= 1.    #1=isothermal electrons; 5/3=adiabatic electrons
+eta= 0.    #normalized resistivity
+
+#Maximum number of terms in Bessel sums, will automatically truncate
+#to achieve an accuracy of <1e-12
+nb= 2000
+
+#initial guess for complex frequency
+start= [1.4 , -0.]
+
+normalization=2          #1=d_i, Omega_ci;  2=rho_i||, k_||*rho_i||
+
+
+#====SCAN SETTINGS=====================================
+scan_type= '1d'
+
+#options: '1d', '2d', 'DR-map': creates a complex omega, gamma plot
+#for a single point in parameter space
+
+
+
+#====SETTINGS FOR FIRST SCAN DIMENSION=================
+scanvar= 'k'
+scan_range= (0.01,20)
+nval= 400         #number of scanned values
+log= 1           #logarithmic spacing
+scan_list1= []	  #instead of using the scan range, specify fixed values
+
+#====SETTINGS FOR SECOND SCAN DIMENSION================
+scanvar2= 'beta'      
+scan_range2= (-1,1.)  
+nval2= 20          #number of scanned values
+log2= 1
+scan_list2= []
+
+#====ACCURACY CONSTRAINTS==============================
+radius= 1.          #radius used for searching alternative roots
+dev_limit= 0.5         #limit on allowed deviations in amplitude and frequency, logarithmic distance
+cp_limit= 0.3         #limit on allowed deviations in cross phases, fraction of 2pi
+method= 'predict'   #prediction method for root position
+
+#====OUTPUT OPTIONS====================================
+resultfile= '1dscan.log'
+logfile= 'output.log'
+
+
