@@ -1,0 +1,5261 @@
+
+=====================================================================
+
+Computing index no. 1, k =    0.01
+Running with k_par=0.0008716 and k_perp=0.009962.
+Converged after 39 iterations
+
+ RESULT: (2.2361388317436424, -8.0662702751046116e-07) 
+
+DR residual: (-9.71257535321e-19-2.79864780234e-21j)
+Smallest eigenvalue 8.16129593444e-15
+
+=====================================================================
+
+Computing index no. 2, k =  0.0102
+start = [2.2361388317436424, -8.0662702751046116e-07]
+Running with k_par=0.0008883 and k_perp=0.01015.
+Converged after 62 iterations
+
+ RESULT: (2.2361415832932581, -8.3793413097826417e-07) 
+
+DR residual: (-5.01085568251e-16+1.26752190381e-15j)
+Smallest eigenvalue 1.10257160464e-11
+
+=====================================================================
+
+Computing index no. 3, k =  0.0104
+start = [2.2361443877620175, -8.6984334792321523e-07]
+Running with k_par=0.0009054 and k_perp=0.01035.
+Converged after 10 iterations
+
+ RESULT: (2.2361444416978804, -8.7046704761007015e-07) 
+
+DR residual: (-3.08481037087e-17-1.49857302107e-18j)
+Smallest eigenvalue 2.4049760879e-13
+
+=====================================================================
+
+Computing index no. 4, k =  0.0106
+start = [2.2361474111071882, -9.0427357413456614e-07]
+Running with k_par=0.0009228 and k_perp=0.01055.
+Converged after 7 iterations
+
+ RESULT: (2.236147411100998, -9.0425666810801333e-07) 
+
+DR residual: (-7.66432425307e-18-1.45190359151e-19j)
+Smallest eigenvalue 5.74605808211e-14
+
+=====================================================================
+
+Computing index no. 5, k =  0.0108
+start = [2.2361504958130807, -9.3935166739317328e-07]
+Running with k_par=0.0009406 and k_perp=0.01075.
+Converged after 5 iterations
+
+ RESULT: (2.2361504958116591, -9.3935242962646766e-07) 
+
+DR residual: (-8.12275877312e-16+1.28456201989e-15j)
+Smallest eigenvalue 1.09666167794e-11
+
+=====================================================================
+
+Computing index no. 6, k =   0.011
+start = [2.2361537003076446, -9.7580493915027027e-07]
+Running with k_par=0.0009587 and k_perp=0.01096.
+Converged after 7 iterations
+
+ RESULT: (2.2361537003164433, -9.7581985956686937e-07) 
+
+DR residual: (7.70784862176e-18+1.37215631091e-19j)
+Smallest eigenvalue 5.35465334922e-14
+
+=====================================================================
+
+Computing index no. 7, k =  0.0112
+start = [2.2361570292675332, -1.0137123943716736e-06]
+Running with k_par=0.0009771 and k_perp=0.01117.
+Converged after 17 iterations
+
+ RESULT: (2.2361570292578747, -1.0136970350540437e-06) 
+
+DR residual: (9.89605789699e-19+1.96069059281e-20j)
+Smallest eigenvalue 6.61679654199e-15
+
+=====================================================================
+
+Computing index no. 8, k =  0.0114
+start = [2.2361604874682439, -1.053038579081385e-06]
+Running with k_par=0.0009959 and k_perp=0.01138.
+Converged after 7 iterations
+
+ RESULT: (2.2361604874707832, -1.0530436822752249e-06) 
+
+DR residual: (-1.99506709156e-17+1.40363753694e-18j)
+Smallest eigenvalue 1.28725255733e-13
+
+=====================================================================
+
+Computing index no. 9, k =  0.0116
+start = [2.2361640799752656, -1.0939168394389869e-06]
+Running with k_par=0.001015 and k_perp= 0.0116.
+Converged after 4 iterations
+
+ RESULT: (2.23616407997504, -1.0939167700549022e-06) 
+
+DR residual: (2.3538343269e-18+2.4913069589e-20j)
+Smallest eigenvalue 1.45848156527e-14
+
+=====================================================================
+
+Computing index no. 10, k =  0.0119
+start = [2.23616781198568, -1.1363755470951317e-06]
+Running with k_par=0.001035 and k_perp=0.01183.
+Converged after 4 iterations
+
+ RESULT: (2.2361678119853599, -1.1363754322638466e-06) 
+
+DR residual: (-1.35311394564e-17-2.30584041579e-19j)
+Smallest eigenvalue 8.07116164902e-14
+
+=====================================================================
+
+Computing index no. 11, k =  0.0121
+start = [2.2361716889192786, -1.1804812112665923e-06]
+Running with k_par=0.001054 and k_perp=0.01205.
+Converged after 4 iterations
+
+ RESULT: (2.2361716889185299, -1.1804811158649534e-06) 
+
+DR residual: (-3.76703245804e-17-7.28178786165e-19j)
+Smallest eigenvalue 2.1630823518e-13
+
+=====================================================================
+
+Computing index no. 12, k =  0.0123
+start = [2.236175716402431, -1.2262977470338089e-06]
+Running with k_par=0.001075 and k_perp=0.01228.
+Converged after 4 iterations
+
+ RESULT: (2.2361757164019074, -1.226297633975135e-06) 
+
+DR residual: (2.56133515076e-17+5.31426168689e-19j)
+Smallest eigenvalue 1.41581736918e-13
+
+=====================================================================
+
+Computing index no. 13, k =  0.0126
+start = [2.2361799002818961, -1.2738913880831434e-06]
+Running with k_par=0.001095 and k_perp=0.01252.
+Converged after 4 iterations
+
+ RESULT: (2.2361799002818756, -1.2738912699821612e-06) 
+
+DR residual: (2.05439374313e-16+3.89668974638e-18j)
+Smallest eigenvalue 1.09309864889e-12
+
+=====================================================================
+
+Computing index no. 14, k =  0.0128
+start = [2.2361842466318778, -1.3233309964685868e-06]
+Running with k_par=0.001116 and k_perp=0.01276.
+Converged after 7 iterations
+
+ RESULT: (2.236184246629477, -1.3233308654964604e-06) 
+
+DR residual: (-2.20409486554e-18-4.16575765193e-20j)
+Smallest eigenvalue 1.12893783695e-14
+
+=====================================================================
+
+Computing index no. 15, k =  0.0131
+start = [2.2361887617538727, -1.3746880632371389e-06]
+Running with k_par=0.001138 and k_perp=0.01301.
+Converged after 7 iterations
+
+ RESULT: (2.2361887617549612, -1.3746879247004077e-06) 
+
+DR residual: (-5.3133785674e-18-1.1723527986e-19j)
+Smallest eigenvalue 2.6198992905e-14
+
+=====================================================================
+
+Computing index no. 16, k =  0.0133
+start = [2.2361934522125644, -1.4280368636409773e-06]
+Running with k_par=0.00116 and k_perp=0.01326.
+Converged after 7 iterations
+
+ RESULT: (2.2361934522114439, -1.428036711462235e-06) 
+
+DR residual: (-3.41515746448e-17-5.19522812745e-19j)
+Smallest eigenvalue 1.62075407161e-13
+
+=====================================================================
+
+Computing index no. 17, k =  0.0136
+start = [2.2361983248076256, -1.4834545219986025e-06]
+Running with k_par=0.001182 and k_perp=0.01351.
+Converged after 7 iterations
+
+ RESULT: (2.2361983248068151, -1.4834543610885692e-06) 
+
+DR residual: (6.44164091554e-17+1.20447356017e-18j)
+Smallest eigenvalue 2.94291728524e-13
+
+=====================================================================
+
+Computing index no. 18, k =  0.0138
+start = [2.2362033866141369, -1.5410211612355596e-06]
+Running with k_par=0.001205 and k_perp=0.01377.
+Converged after 7 iterations
+
+ RESULT: (2.2362033866125199, -1.5410209847656835e-06) 
+
+DR residual: (-1.90097822598e-18-3.57370007952e-20j)
+Smallest eigenvalue 8.36175762066e-15
+
+=====================================================================
+
+Computing index no. 19, k =  0.0141
+start = [2.2362086449762035, -1.6008199767789951e-06]
+Running with k_par=0.001228 and k_perp=0.01404.
+Converged after 4 iterations
+
+ RESULT: (2.2362086449761898, -1.6008197865715234e-06) 
+
+DR residual: (3.00134299811e-18+1.52629944305e-19j)
+Smallest eigenvalue 1.27175261745e-14
+
+=====================================================================
+
+Computing index no. 20, k =  0.0144
+start = [2.236214107530806, -1.6629373871824742e-06]
+Running with k_par=0.001252 and k_perp=0.01431.
+Converged after 7 iterations
+
+ RESULT: (2.2362141075293276, -1.6629371845694981e-06) 
+
+DR residual: (-3.43622419248e-18-6.54433515104e-20j)
+Smallest eigenvalue 1.40029351146e-14
+
+=====================================================================
+
+Computing index no. 21, k =  0.0146
+start = [2.2362197822012502, -1.7274631503102075e-06]
+Running with k_par=0.001276 and k_perp=0.01458.
+Converged after 7 iterations
+
+ RESULT: (2.2362197822003766, -1.7274629280180602e-06) 
+
+DR residual: (-2.22236431143e-17-4.37006674804e-19j)
+Smallest eigenvalue 8.71789054337e-14
+
+=====================================================================
+
+Computing index no. 22, k =  0.0149
+start = [2.2362256772265283, -1.7944904682308176e-06]
+Running with k_par= 0.0013 and k_perp=0.01486.
+Converged after 7 iterations
+
+ RESULT: (2.2362256772250761, -1.7944902311402078e-06) 
+
+DR residual: (3.43860653022e-18+4.90688645556e-20j)
+Smallest eigenvalue 1.29835864634e-14
+
+=====================================================================
+
+Computing index no. 23, k =  0.0152
+start = [2.2362318011604176, -1.8641161591809545e-06]
+Running with k_par=0.001325 and k_perp=0.01515.
+Converged after 7 iterations
+
+ RESULT: (2.2362318011592315, -1.8641159019500201e-06) 
+
+DR residual: (1.97009309541e-17+3.11991340244e-19j)
+Smallest eigenvalue 7.16068920033e-14
+
+=====================================================================
+
+Computing index no. 24, k =  0.0155
+start = [2.2362381628920658, -1.936440758684977e-06]
+Running with k_par=0.001351 and k_perp=0.01544.
+Converged after 7 iterations
+
+ RESULT: (2.236238162890801, -1.936440481671194e-06) 
+
+DR residual: (-1.46936294581e-17-2.78051963707e-19j)
+Smallest eigenvalue 5.14140200012e-14
+
+=====================================================================
+
+Computing index no. 25, k =  0.0158
+start = [2.236244771654138, -2.0115686860062342e-06]
+Running with k_par=0.001377 and k_perp=0.01574.
+Converged after 7 iterations
+
+ RESULT: (2.2362447716528346, -2.0115683866143244e-06) 
+
+DR residual: (-6.4526592155e-18-1.06810945067e-19j)
+Smallest eigenvalue 2.17344965904e-14
+
+=====================================================================
+
+Computing index no. 26, k =  0.0161
+start = [2.2362516370382162, -2.08960837986963e-06]
+Running with k_par=0.001403 and k_perp=0.01604.
+Converged after 7 iterations
+
+ RESULT: (2.2362516370361241, -2.0896080578286966e-06) 
+
+DR residual: (-1.14345236908e-19-2.34699086292e-21j)
+Smallest eigenvalue 3.7042876899e-16
+
+=====================================================================
+
+Computing index no. 27, k =  0.0164
+start = [2.2362587690059601, -2.1706724615105569e-06]
+Running with k_par=0.00143 and k_perp=0.01635.
+Converged after 7 iterations
+
+ RESULT: (2.236258769004388, -2.170672112273165e-06) 
+
+DR residual: (-5.45614447063e-18-1.06497227275e-19j)
+Smallest eigenvalue 1.70308490922e-14
+
+=====================================================================
+
+Computing index no. 28, k =  0.0167
+start = [2.2362661779098145, -2.2548778807403614e-06]
+Running with k_par=0.001458 and k_perp=0.01666.
+Converged after 7 iterations
+
+ RESULT: (2.2362661779082802, -2.2548775061247965e-06) 
+
+DR residual: (3.36668099723e-17+5.305519274e-19j)
+Smallest eigenvalue 1.01141977071e-13
+
+=====================================================================
+
+Computing index no. 29, k =   0.017
+start = [2.2362738745019146, -2.3423461026269206e-06]
+Running with k_par=0.001486 and k_perp=0.01698.
+Converged after 7 iterations
+
+ RESULT: (2.2362738744994606, -2.3423456953496762e-06) 
+
+DR residual: (1.06160025825e-17+2.01431323327e-19j)
+Smallest eigenvalue 3.07018223921e-14
+
+=====================================================================
+
+Computing index no. 30, k =  0.0174
+start = [2.2362818699495239, -2.4332032495791402e-06]
+Running with k_par=0.001514 and k_perp=0.01731.
+Converged after 7 iterations
+
+ RESULT: (2.2362818699477329, -2.4332028141098916e-06) 
+
+DR residual: (-1.87317964122e-18-1.78825894154e-19j)
+Smallest eigenvalue 5.23958317283e-15
+
+=====================================================================
+
+Computing index no. 31, k =  0.0177
+start = [2.236290175858421, -2.5275803193608716e-06]
+Running with k_par=0.001543 and k_perp=0.01764.
+Converged after 7 iterations
+
+ RESULT: (2.2362901758558493, -2.5275798451820975e-06) 
+
+DR residual: (2.72785843734e-18+6.73763690984e-20j)
+Smallest eigenvalue 7.31243443991e-15
+
+=====================================================================
+
+Computing index no. 32, k =   0.018
+start = [2.2362988042796634, -2.6256133201835211e-06]
+Running with k_par=0.001573 and k_perp=0.01798.
+Converged after 7 iterations
+
+ RESULT: (2.2362988042771614, -2.625612812196096e-06) 
+
+DR residual: (6.92065825121e-18+1.62519514802e-19j)
+Smallest eigenvalue 1.78575433984e-14
+
+=====================================================================
+
+Computing index no. 33, k =  0.0184
+start = [2.2363077677355463, -2.7274435163100799e-06]
+Running with k_par=0.001603 and k_perp=0.01833.
+Converged after 7 iterations
+
+ RESULT: (2.2363077677328604, -2.7274429660782372e-06) 
+
+DR residual: (9.02270580372e-18+2.03202827621e-19j)
+Smallest eigenvalue 2.24100433305e-14
+
+=====================================================================
+
+Computing index no. 34, k =  0.0188
+start = [2.2363170792330131, -2.8332175794680735e-06]
+Running with k_par=0.001634 and k_perp=0.01868.
+Converged after 7 iterations
+
+ RESULT: (2.2363170792300351, -2.8332169865195728e-06) 
+
+DR residual: (-3.69154321001e-18-1.01645533048e-19j)
+Smallest eigenvalue 8.82513624643e-15
+
+=====================================================================
+
+Computing index no. 35, k =  0.0191
+start = [2.2363267522838046, -2.9430878273759922e-06]
+Running with k_par=0.001666 and k_perp=0.01904.
+Converged after 7 iterations
+
+ RESULT: (2.2363267522805734, -2.9430871864744241e-06) 
+
+DR residual: (2.49597409404e-17+4.74833176636e-19j)
+Smallest eigenvalue 5.74332421873e-14
+
+=====================================================================
+
+Computing index no. 36, k =  0.0195
+start = [2.2363368009242501, -3.0572124185699021e-06]
+Running with k_par=0.001698 and k_perp= 0.0194.
+Converged after 7 iterations
+
+ RESULT: (2.2363368009209901, -3.0572117287464396e-06) 
+
+DR residual: (-7.20447895843e-18-1.99963860907e-19j)
+Smallest eigenvalue 1.59591439665e-14
+
+=====================================================================
+
+Computing index no. 37, k =  0.0199
+start = [2.2363472397360793, -3.1757555906580813e-06]
+Running with k_par=0.00173 and k_perp=0.01978.
+Converged after 7 iterations
+
+ RESULT: (2.2363472397320372, -3.1757548449454478e-06) 
+
+DR residual: (-2.09504650983e-18-6.96691172185e-20j)
+Smallest eigenvalue 4.46934845161e-15
+
+=====================================================================
+
+Computing index no. 38, k =  0.0202
+start = [2.2363580838646473, -3.2988878713583318e-06]
+Running with k_par=0.001764 and k_perp=0.02016.
+Converged after 7 iterations
+
+ RESULT: (2.2363580838610999, -3.2988870673995794e-06) 
+
+DR residual: (-1.50658890621e-18+5.58124622549e-21j)
+Smallest eigenvalue 3.09027170778e-15
+
+=====================================================================
+
+Computing index no. 39, k =  0.0206
+start = [2.2363693490472656, -3.4267863345630869e-06]
+Running with k_par=0.001798 and k_perp=0.02055.
+Converged after 7 iterations
+
+ RESULT: (2.2363693490426804, -3.4267854669261615e-06) 
+
+DR residual: (-1.81021865624e-17-3.75017492919e-19j)
+Smallest eigenvalue 3.57636976241e-14
+
+=====================================================================
+
+Computing index no. 40, k =   0.021
+start = [2.2363810516268003, -3.5596348364504495e-06]
+Running with k_par=0.001832 and k_perp=0.02094.
+Converged after 7 iterations
+
+ RESULT: (2.2363810516222062, -3.5596339002864588e-06) 
+
+DR residual: (-9.69306842873e-18-1.80776997249e-19j)
+Smallest eigenvalue 1.84348643557e-14
+
+=====================================================================
+
+Computing index no. 41, k =  0.0214
+start = [2.2363932085843539, -3.6976242766659699e-06]
+Running with k_par=0.001867 and k_perp=0.02134.
+Converged after 7 iterations
+
+ RESULT: (2.2363932085792113, -3.697623266312148e-06) 
+
+DR residual: (2.86220305729e-17+5.4483982417e-19j)
+Smallest eigenvalue 5.23985805743e-14
+
+=====================================================================
+
+Computing index no. 42, k =  0.0218
+start = [2.2364058375576392, -3.8409528620423318e-06]
+Running with k_par=0.001903 and k_perp=0.02175.
+Converged after 7 iterations
+
+ RESULT: (2.2364058375523315, -3.840951771899271e-06) 
+
+DR residual: (-4.38106034761e-17-5.82044766696e-19j)
+Smallest eigenvalue 7.71979697965e-14
+
+=====================================================================
+
+Computing index no. 43, k =  0.0223
+start = [2.2364189568703705, -3.9898263837198874e-06]
+Running with k_par=0.00194 and k_perp=0.02217.
+Converged after 7 iterations
+
+ RESULT: (2.2364189568646142, -3.9898252090969622e-06) 
+
+DR residual: (2.89132036268e-17+2.21970545477e-20j)
+Smallest eigenvalue 4.9039415981e-14
+
+=====================================================================
+
+Computing index no. 44, k =  0.0227
+start = [2.2364325855562903, -4.1444585066210055e-06]
+Running with k_par=0.001977 and k_perp= 0.0226.
+Converged after 7 iterations
+
+ RESULT: (2.2364325855497911, -4.1444572355609974e-06) 
+
+DR residual: (-8.96410333379e-18-1.69364669244e-19j)
+Smallest eigenvalue 1.46415467928e-14
+
+=====================================================================
+
+Computing index no. 45, k =  0.0231
+start = [2.2364467433870985, -4.3050710450816103e-06]
+Running with k_par=0.002015 and k_perp=0.02303.
+Converged after 7 iterations
+
+ RESULT: (2.2364467433803488, -4.3050696770554956e-06) 
+
+DR residual: (4.78349300319e-18+1.1960282934e-19j)
+Smallest eigenvalue 7.52001186247e-15
+
+=====================================================================
+
+Computing index no. 46, k =  0.0236
+start = [2.2364614509032146, -4.4718943071665573e-06]
+Running with k_par=0.002054 and k_perp=0.02348.
+Converged after 7 iterations
+
+ RESULT: (2.2364614508959728, -4.4718928302289818e-06) 
+
+DR residual: (1.16016714304e-17+2.18664104855e-19j)
+Smallest eigenvalue 1.75563407406e-14
+
+=====================================================================
+
+Computing index no. 47, k =   0.024
+start = [2.2364767294410615, -4.6451673746655795e-06]
+Running with k_par=0.002093 and k_perp=0.02393.
+Converged after 7 iterations
+
+ RESULT: (2.2364767294329249, -4.6451657806165586e-06) 
+
+DR residual: (4.68195893982e-17+8.55707808609e-19j)
+Smallest eigenvalue 6.81928298811e-14
+
+=====================================================================
+
+Computing index no. 48, k =  0.0245
+start = [2.2364926011639894, -4.8251384521412257e-06]
+Running with k_par=0.002134 and k_perp=0.02439.
+Converged after 10 iterations
+
+ RESULT: (2.2364926011553945, -4.8251367321930215e-06) 
+
+DR residual: (-8.41446571821e-17-1.58999757528e-18j)
+Smallest eigenvalue 1.17977598872e-13
+
+=====================================================================
+
+Computing index no. 49, k =   0.025
+start = [2.2365090890966903, -5.0120652041330446e-06]
+Running with k_par=0.002175 and k_perp=0.02486.
+Converged after 7 iterations
+
+ RESULT: (2.2365090890879742, -5.0120633491409604e-06) 
+
+DR residual: (-2.07557810893e-17-4.00077517246e-19j)
+Smallest eigenvalue 2.80130710301e-14
+
+=====================================================================
+
+Computing index no. 50, k =  0.0254
+start = [2.2365262171579032, -5.206215109834617e-06]
+Running with k_par=0.002217 and k_perp=0.02534.
+Converged after 7 iterations
+
+ RESULT: (2.2365262171473259, -5.2062131086607178e-06) 
+
+DR residual: (3.96249823939e-17+6.92818127978e-19j)
+Smallest eigenvalue 5.14810770949e-14
+
+=====================================================================
+
+Computing index no. 51, k =  0.0259
+start = [2.2365440101892267, -5.4078658256949824e-06]
+Running with k_par=0.002259 and k_perp=0.02582.
+Converged after 7 iterations
+
+ RESULT: (2.236544010178751, -5.4078636644750837e-06) 
+
+DR residual: (6.73315096148e-17+1.21642952061e-18j)
+Smallest eigenvalue 8.4205838191e-14
+
+=====================================================================
+
+Computing index no. 52, k =  0.0264
+start = [2.2365624940026234, -5.6173055592425648e-06]
+Running with k_par=0.002303 and k_perp=0.02632.
+Converged after 7 iterations
+
+ RESULT: (2.2365624939908759, -5.6173032306916893e-06) 
+
+DR residual: (1.32206045752e-17+2.56368003684e-19j)
+Smallest eigenvalue 1.59154509405e-14
+
+=====================================================================
+
+Computing index no. 53, k =  0.0269
+start = [2.2365816954060493, -5.8348334835213717e-06]
+Running with k_par=0.002347 and k_perp=0.02683.
+Converged after 7 iterations
+
+ RESULT: (2.2365816953936606, -5.8348309694841458e-06) 
+
+DR residual: (2.06024594287e-17-1.67494076943e-18j)
+Smallest eigenvalue 2.3950516894e-14
+
+=====================================================================
+
+Computing index no. 54, k =  0.0274
+start = [2.2366016422503008, -6.0607601110762722e-06]
+Running with k_par=0.002392 and k_perp=0.02734.
+Converged after 7 iterations
+
+ RESULT: (2.2366016422367645, -6.0607573963811238e-06) 
+
+DR residual: (-9.16565359081e-18-1.84994608879e-19j)
+Smallest eigenvalue 1.02244063285e-14
+
+=====================================================================
+
+Computing index no. 55, k =   0.028
+start = [2.2366223634645763, -6.2954077314371394e-06]
+Running with k_par=0.002438 and k_perp=0.02787.
+Converged after 7 iterations
+
+ RESULT: (2.2366223634498295, -6.2954048078489693e-06) 
+
+DR residual: (-8.49978389521e-17-1.6550682815e-18j)
+Smallest eigenvalue 9.12704597138e-14
+
+=====================================================================
+
+Computing index no. 56, k =  0.0285
+start = [2.2366438891003497, -6.5391108659394821e-06]
+Running with k_par=0.002485 and k_perp= 0.0284.
+Converged after 7 iterations
+
+ RESULT: (2.2366438890848443, -6.5391077093860587e-06) 
+
+DR residual: (8.6958309182e-18+2.45881783661e-19j)
+Smallest eigenvalue 8.99251129078e-15
+
+=====================================================================
+
+Computing index no. 57, k =  0.0291
+start = [2.2366662503759716, -6.7922166732672751e-06]
+Running with k_par=0.002533 and k_perp=0.02895.
+Converged after 7 iterations
+
+ RESULT: (2.2366662503587538, -6.7922132659571372e-06) 
+
+DR residual: (-2.96295550541e-17-4.80827774877e-19j)
+Smallest eigenvalue 2.94770836454e-14
+
+=====================================================================
+
+Computing index no. 58, k =  0.0296
+start = [2.2366894797175889, -7.0550854453226933e-06]
+Running with k_par=0.002581 and k_perp=0.02951.
+Converged after 7 iterations
+
+ RESULT: (2.2366894796993702, -7.0550817721281442e-06) 
+
+DR residual: (4.06907546336e-17+7.57469165028e-19j)
+Smallest eigenvalue 3.89721318671e-14
+
+=====================================================================
+
+Computing index no. 59, k =  0.0302
+start = [2.236713610811591, -7.3280910942519502e-06]
+Running with k_par=0.002631 and k_perp=0.03007.
+Converged after 7 iterations
+
+ RESULT: (2.2367136107919361, -7.3280871301588042e-06) 
+
+DR residual: (7.98486691521e-17+1.57066129993e-18j)
+Smallest eigenvalue 7.3618427714e-14
+
+=====================================================================
+
+Computing index no. 60, k =  0.0308
+start = [2.236738678649012, -7.6116216260563146e-06]
+Running with k_par=0.002682 and k_perp=0.03065.
+Converged after 7 iterations
+
+ RESULT: (2.2367386786273249, -7.6116173508677198e-06) 
+
+DR residual: (-8.52384707107e-17-1.60837889473e-18j)
+Smallest eigenvalue 7.56437516128e-14
+
+=====================================================================
+
+Computing index no. 61, k =  0.0314
+start = [2.2367647195764131, -7.906079679898813e-06]
+Running with k_par=0.002733 and k_perp=0.03124.
+Converged after 7 iterations
+
+ RESULT: (2.2367647195537943, -7.9060750673902398e-06) 
+
+DR residual: (-2.84550293739e-17-4.39371786671e-18j)
+Smallest eigenvalue 2.45985435179e-14
+
+=====================================================================
+
+Computing index no. 62, k =   0.032
+start = [2.2367917713532233, -8.2118830442844294e-06]
+Running with k_par=0.002786 and k_perp=0.03184.
+Converged after 7 iterations
+
+ RESULT: (2.2367917713280661, -8.2118780636166889e-06) 
+
+DR residual: (-3.99507363085e-17-8.15047643035e-19j)
+Smallest eigenvalue 3.28533188505e-14
+
+=====================================================================
+
+Computing index no. 63, k =  0.0326
+start = [2.2368198731976601, -8.5294652020603816e-06]
+Running with k_par=0.002839 and k_perp=0.03246.
+Converged after 7 iterations
+
+ RESULT: (2.2368198731710236, -8.5294598393726233e-06) 
+
+DR residual: (4.48346412063e-17+7.62615802638e-19j)
+Smallest eigenvalue 3.5488485804e-14
+
+=====================================================================
+
+Computing index no. 64, k =  0.0332
+start = [2.2368490658526463, -8.85927595567032e-06]
+Running with k_par=0.002894 and k_perp=0.03308.
+Converged after 7 iterations
+
+ RESULT: (2.2368490658234976, -8.8592701623318853e-06) 
+
+DR residual: (-4.88005388732e-18-3.35343825056e-20j)
+Smallest eigenvalue 3.71749701162e-15
+
+=====================================================================
+
+Computing index no. 65, k =  0.0338
+start = [2.2368793916368932, -9.2017819128594303e-06]
+Running with k_par=0.00295 and k_perp=0.03372.
+Converged after 7 iterations
+
+ RESULT: (2.236879391605918, -9.2017756670220598e-06) 
+
+DR residual: (2.8296282693e-17+4.71264102361e-19j)
+Smallest eigenvalue 2.0754964582e-14
+
+=====================================================================
+
+Computing index no. 66, k =  0.0345
+start = [2.2369108945124081, -9.5574671966468532e-06]
+Running with k_par=0.003006 and k_perp=0.03436.
+Converged after 7 iterations
+
+ RESULT: (2.2369108944785308, -9.5574604581529876e-06) 
+
+DR residual: (1.88910964447e-17+3.52906418292e-19j)
+Smallest eigenvalue 1.33417006754e-14
+
+=====================================================================
+
+Computing index no. 67, k =  0.0352
+start = [2.2369436201417892, -9.9268340076892034e-06]
+Running with k_par=0.003064 and k_perp=0.03503.
+Converged after 7 iterations
+
+ RESULT: (2.2369436201055475, -9.9268267385810263e-06) 
+
+DR residual: (-9.99608017749e-17+9.42017613995e-19j)
+Smallest eigenvalue 6.79284721398e-14
+
+=====================================================================
+
+Computing index no. 68, k =  0.0358
+start = [2.2369776159598631, -1.031040329836949e-05]
+Running with k_par=0.003123 and k_perp= 0.0357.
+Converged after 7 iterations
+
+ RESULT: (2.2369776159205776, -1.031039546085632e-05) 
+
+DR residual: (-1.38040244219e-17-2.91944526689e-19j)
+Smallest eigenvalue 9.03483665875e-15
+
+=====================================================================
+
+Computing index no. 69, k =  0.0365
+start = [2.2370129312375964, -1.0708715446795225e-05]
+Running with k_par=0.003183 and k_perp=0.03639.
+Converged after 7 iterations
+
+ RESULT: (2.2370129311951783, -1.0708706987776649e-05) 
+
+DR residual: (8.24938814396e-17+1.39548757849e-18j)
+Smallest eigenvalue 5.1949986397e-14
+
+=====================================================================
+
+Computing index no. 70, k =  0.0372
+start = [2.2370496171557019, -1.112233091091826e-05]
+Running with k_par=0.003245 and k_perp=0.03709.
+Converged after 7 iterations
+
+ RESULT: (2.2370496171101975, -1.1122321789763485e-05) 
+
+DR residual: (2.47484605736e-17+4.62023884137e-19j)
+Smallest eigenvalue 1.50023568523e-14
+
+=====================================================================
+
+Computing index no. 71, k =  0.0379
+start = [2.2370877268784306, -1.1551830992157325e-05]
+Running with k_par=0.003307 and k_perp= 0.0378.
+Converged after 7 iterations
+
+ RESULT: (2.2370877268290603, -1.1551821154397131e-05) 
+
+DR residual: (1.47575123645e-16+2.95871779355e-18j)
+Smallest eigenvalue 8.61145368847e-14
+
+=====================================================================
+
+Computing index no. 72, k =  0.0387
+start = [2.2371273156279012, -1.1997818530969242e-05]
+Running with k_par=0.003371 and k_perp=0.03853.
+Converged after 10 iterations
+
+ RESULT: (2.2371273155746119, -1.1997807919364533e-05) 
+
+DR residual: (9.35050877959e-17+1.70910909999e-18j)
+Smallest eigenvalue 5.25199066268e-14
+
+=====================================================================
+
+Computing index no. 73, k =  0.0394
+start = [2.2371684407662067, -1.2460918675107662e-05]
+Running with k_par=0.003435 and k_perp=0.03927.
+Converged after 7 iterations
+
+ RESULT: (2.2371684407090089, -1.2460907230053268e-05) 
+
+DR residual: (1.95155750242e-17+4.11447536225e-19j)
+Smallest eigenvalue 1.05534619581e-14
+
+=====================================================================
+
+Computing index no. 74, k =  0.0402
+start = [2.2372111618778026, -1.294177966315061e-05]
+Running with k_par=0.003501 and k_perp=0.04002.
+Converged after 7 iterations
+
+ RESULT: (2.2372111618156962, -1.294176731929093e-05) 
+
+DR residual: (-1.72311735025e-16-3.3248235831e-18j)
+Smallest eigenvalue 8.96839056911e-14
+
+=====================================================================
+
+Computing index no. 75, k =  0.0409
+start = [2.237255540852563, -1.3441073623721124e-05]
+Running with k_par=0.003569 and k_perp=0.04079.
+Converged after 7 iterations
+
+ RESULT: (2.2372555407859691, -1.3441060313716997e-05) 
+
+DR residual: (5.64330279993e-17-6.96547623527e-18j)
+Smallest eigenvalue 2.84796656417e-14
+
+=====================================================================
+
+Computing index no. 76, k =  0.0417
+start = [2.2373016419795633, -1.3959497413222495e-05]
+Running with k_par=0.003637 and k_perp=0.04158.
+Converged after 7 iterations
+
+ RESULT: (2.2373016419072922, -1.3959483049367529e-05) 
+
+DR residual: (-5.60224664291e-18-1.6282800904e-18j)
+Smallest eigenvalue 2.81783690087e-15
+
+=====================================================================
+
+Computing index no. 77, k =  0.0425
+start = [2.2373495320341599, -1.4497773422184817e-05]
+Running with k_par=0.003707 and k_perp=0.04238.
+Converged after 7 iterations
+
+ RESULT: (2.2373495319564278, -1.4497757943893973e-05) 
+
+DR residual: (-1.42085051124e-16-2.79433446212e-18j)
+Smallest eigenvalue 6.59514860021e-14
+
+=====================================================================
+
+Computing index no. 78, k =  0.0434
+start = [2.2373992803791607, -1.5056650554285924e-05]
+Running with k_par=0.003779 and k_perp=0.04319.
+Converged after 10 iterations
+
+ RESULT: (2.2373992802952616, -1.5056633855477316e-05) 
+
+DR residual: (-2.79478628649e-17-5.22260228414e-19j)
+Smallest eigenvalue 1.24940362135e-14
+
+=====================================================================
+
+Computing index no. 79, k =  0.0442
+start = [2.2374509590611051, -1.5636904997918728e-05]
+Running with k_par=0.003851 and k_perp=0.04402.
+Converged after 7 iterations
+
+ RESULT: (2.2374509589705447, -1.5636886990679257e-05) 
+
+DR residual: (-2.30507324317e-18-2.82534161529e-20j)
+Smallest eigenvalue 9.90477858539e-16
+
+=====================================================================
+
+Computing index no. 80, k =   0.045
+start = [2.2375046429152121, -1.6239341248845094e-05]
+Running with k_par=0.003925 and k_perp=0.04487.
+Converged after 7 iterations
+
+ RESULT: (2.2375046428174836, -1.6239321830724757e-05) 
+
+DR residual: (-2.68745004224e-17+1.60874620024e-18j)
+Smallest eigenvalue 1.11395324413e-14
+
+=====================================================================
+
+Computing index no. 81, k =  0.0459
+start = [2.2375604096727444, -1.6864793022596344e-05]
+Running with k_par=0.004001 and k_perp=0.04573.
+Converged after 7 iterations
+
+ RESULT: (2.2375604095674375, -1.6864772084827255e-05) 
+
+DR residual: (-7.10996921382e-17-1.22097023707e-18j)
+Smallest eigenvalue 2.8337626604e-14
+
+=====================================================================
+
+Computing index no. 82, k =  0.0468
+start = [2.2376183400730811, -1.7514124243938548e-05]
+Running with k_par=0.004078 and k_perp=0.04661.
+Converged after 7 iterations
+
+ RESULT: (2.2376183399591367, -1.7514101665073968e-05) 
+
+DR residual: (-2.81880072136e-17-4.73761398733e-19j)
+Smallest eigenvalue 1.08143939364e-14
+
+=====================================================================
+
+Computing index no. 83, k =  0.0477
+start = [2.2376785179778409, -1.8188230037496897e-05]
+Running with k_par=0.004156 and k_perp=0.04751.
+Converged after 7 iterations
+
+ RESULT: (2.2376785178553042, -1.8188205692319757e-05) 
+
+DR residual: (-3.96508163095e-17-9.0835364287e-19j)
+Smallest eigenvalue 1.46457999527e-14
+
+=====================================================================
+
+Computing index no. 84, k =  0.0486
+start = [2.2377410304948842, -1.88880377746392e-05]
+Running with k_par=0.004236 and k_perp=0.04842.
+Converged after 7 iterations
+
+ RESULT: (2.2377410303624754, -1.8888011525631594e-05) 
+
+DR residual: (-4.54390142534e-17-8.93719625225e-19j)
+Smallest eigenvalue 1.61532186965e-14
+
+=====================================================================
+
+Computing index no. 85, k =  0.0495
+start = [2.2378059680989986, -1.9614508118556276e-05]
+Running with k_par=0.004318 and k_perp=0.04935.
+Converged after 7 iterations
+
+ RESULT: (2.2378059679560245, -1.9614479816772057e-05) 
+
+DR residual: (4.81570780273e-17+9.10098928689e-19j)
+Smallest eigenvalue 1.6479863269e-14
+
+=====================================================================
+
+Computing index no. 86, k =  0.0505
+start = [2.2378734247642624, -2.0368636105342932e-05]
+Running with k_par=0.004401 and k_perp= 0.0503.
+Converged after 7 iterations
+
+ RESULT: (2.2378734246102239, -2.0368605591829815e-05) 
+
+DR residual: (5.18643081403e-17+1.1465609594e-18j)
+Smallest eigenvalue 1.70820131293e-14
+
+=====================================================================
+
+Computing index no. 87, k =  0.0515
+start = [2.2379434980989483, -2.1151452254985185e-05]
+Running with k_par=0.004485 and k_perp=0.05127.
+Converged after 7 iterations
+
+ RESULT: (2.2379434979326684, -2.115141935820088e-05) 
+
+DR residual: (-2.87094128464e-17-5.47522505189e-19j)
+Smallest eigenvalue 9.10224873958e-15
+
+=====================================================================
+
+Computing index no. 88, k =  0.0525
+start = [2.2380162894835798, -2.1964023701773927e-05]
+Running with k_par=0.004572 and k_perp=0.05225.
+Converged after 7 iterations
+
+ RESULT: (2.2380162893042317, -2.1963988237634615e-05) 
+
+DR residual: (-1.66984691564e-17-4.44134787369e-19j)
+Smallest eigenvalue 5.09844290506e-15
+
+=====================================================================
+
+Computing index no. 89, k =  0.0535
+start = [2.2380919042176912, -2.2807455354149481e-05]
+Running with k_par=0.00466 and k_perp=0.05326.
+Converged after 7 iterations
+
+ RESULT: (2.2380919040240754, -2.2807417121409645e-05) 
+
+DR residual: (4.73271323813e-17+7.58097814961e-19j)
+Smallest eigenvalue 1.38999973937e-14
+
+=====================================================================
+
+Computing index no. 90, k =  0.0545
+start = [2.2381704516693315, -2.3682891067827443e-05]
+Running with k_par=0.004749 and k_perp=0.05428.
+Converged after 7 iterations
+
+ RESULT: (2.2381704514605181, -2.3682849855476856e-05) 
+
+DR residual: (-3.8628901873e-18-4.38794388807e-19j)
+Smallest eigenvalue 1.10912997343e-15
+
+=====================================================================
+
+Computing index no. 91, k =  0.0555
+start = [2.2382520454326871, -2.4591514869181627e-05]
+Running with k_par=0.00484 and k_perp=0.05533.
+Converged after 7 iterations
+
+ RESULT: (2.2382520452074681, -2.459147044198652e-05) 
+
+DR residual: (-3.399122298e-16+9.01074833498e-18j)
+Smallest eigenvalue 9.25289017289e-14
+
+=====================================================================
+
+Computing index no. 92, k =  0.0566
+start = [2.2383368034897297, -2.5534552158764091e-05]
+Running with k_par=0.004934 and k_perp=0.05639.
+Converged after 7 iterations
+
+ RESULT: (2.2383368032466655, -2.5534504283125799e-05) 
+
+DR residual: (-6.13483089092e-17-1.89820888336e-17j)
+Smallest eigenvalue 1.67904282246e-14
+
+=====================================================================
+
+Computing index no. 93, k =  0.0577
+start = [2.2384248483785418, -2.6513271024869758e-05]
+Running with k_par=0.005028 and k_perp=0.05748.
+Converged after 7 iterations
+
+ RESULT: (2.2384248481163436, -2.6513219399876029e-05) 
+
+DR residual: (-7.38231047575e-17-1.48722758349e-18j)
+Smallest eigenvalue 1.862223867e-14
+
+=====================================================================
+
+Computing index no. 94, k =  0.0588
+start = [2.2385163073690197, -2.7528983365880876e-05]
+Running with k_par=0.005125 and k_perp=0.05858.
+Converged after 10 iterations
+
+ RESULT: (2.2385163070862464, -2.752892774930602e-05) 
+
+DR residual: (-8.43089437694e-17-1.56737214026e-18j)
+Smallest eigenvalue 2.04690006668e-14
+
+=====================================================================
+
+Computing index no. 95, k =  0.0599
+start = [2.2386113126442062, -2.858304643690637e-05]
+Running with k_par=0.005224 and k_perp=0.05971.
+Converged after 10 iterations
+
+ RESULT: (2.238611312339057, -2.858298648598559e-05) 
+
+DR residual: (-1.67858408916e-16-3.22895122923e-18j)
+Smallest eigenvalue 3.92216388416e-14
+
+=====================================================================
+
+Computing index no. 96, k =  0.0611
+start = [2.2387100014881431, -2.967686389186285e-05]
+Running with k_par=0.005324 and k_perp=0.06086.
+Converged after 7 iterations
+
+ RESULT: (2.238710001158938, -2.9676799286153863e-05) 
+
+DR residual: (9.4258059915e-17+1.63944197194e-18j)
+Smallest eigenvalue 2.11951076398e-14
+
+=====================================================================
+
+Computing index no. 97, k =  0.0623
+start = [2.2388125164823021, -3.0811887295959559e-05]
+Running with k_par=0.005427 and k_perp=0.06203.
+Converged after 10 iterations
+
+ RESULT: (2.2388125161272678, -3.0811817677652909e-05) 
+
+DR residual: (2.6798939308e-17+7.50191082737e-19j)
+Smallest eigenvalue 5.79851420251e-15
+
+=====================================================================
+
+Computing index no. 98, k =  0.0635
+start = [2.2389190057085568, -3.1989617401055175e-05]
+Running with k_par=0.005531 and k_perp=0.06322.
+Converged after 10 iterations
+
+ RESULT: (2.2389190053254282, -3.1989542382989299e-05) 
+
+DR residual: (-3.45434218922e-18-5.8750738571e-20j)
+Smallest eigenvalue 7.26662027117e-16
+
+=====================================================================
+
+Computing index no. 99, k =  0.0647
+start = [2.2390296229589093, -3.3211605509629474e-05]
+Running with k_par=0.005637 and k_perp=0.06444.
+Converged after 7 iterations
+
+ RESULT: (2.2390296225457842, -3.3211524680163605e-05) 
+
+DR residual: (9.93951392521e-18+2.16614665871e-19j)
+Smallest eigenvalue 1.9953651311e-15
+
+=====================================================================
+
+Computing index no. 100, k =  0.0659
+start = [2.2391445279558226, -3.4479454858284176e-05]
+Running with k_par=0.005746 and k_perp=0.06567.
+Converged after 10 iterations
+
+ RESULT: (2.2391445275100605, -3.4479367770167652e-05) 
+
+DR residual: (-4.39604726951e-17-7.17362110991e-19j)
+Smallest eigenvalue 8.49185822936e-15
+
+=====================================================================
+
+Computing index no. 101, k =  0.0672
+start = [2.2392638865771812, -3.5794821980146115e-05]
+Running with k_par=0.005856 and k_perp=0.06694.
+Converged after 7 iterations
+
+ RESULT: (2.2392638860963197, -3.5794728157411323e-05) 
+
+DR residual: (1.54151885426e-16+2.95298854436e-18j)
+Smallest eigenvalue 2.86550802107e-14
+
+=====================================================================
+
+Computing index no. 102, k =  0.0685
+start = [2.2393878710931046, -3.7159418104848067e-05]
+Running with k_par=0.005969 and k_perp=0.06822.
+Converged after 7 iterations
+
+ RESULT: (2.2393878705745567, -3.7159317030559859e-05) 
+
+DR residual: (-1.08060421447e-16-1.87884636166e-18j)
+Smallest eigenvalue 1.93347744337e-14
+
+=====================================================================
+
+Computing index no. 103, k =  0.0698
+start = [2.2395166604102097, -3.8575010526516368e-05]
+Running with k_par=0.006084 and k_perp=0.06954.
+Converged after 7 iterations
+
+ RESULT: (2.2395166598507434, -3.8574901650460193e-05) 
+
+DR residual: (1.45433680163e-16+2.77068749514e-18j)
+Smallest eigenvalue 2.50393873582e-14
+
+=====================================================================
+
+Computing index no. 104, k =  0.0711
+start = [2.2396504403238722, -4.0043424005857425e-05]
+Running with k_par=0.006201 and k_perp=0.07087.
+Converged after 10 iterations
+
+ RESULT: (2.2396504397204002, -4.0043306731949738e-05) 
+
+DR residual: (1.05266681519e-17+1.69956914777e-19j)
+Smallest eigenvalue 1.75021937775e-15
+
+=====================================================================
+
+Computing index no. 105, k =  0.0725
+start = [2.239789403782515, -4.1566542131864718e-05]
+Running with k_par=0.00632 and k_perp=0.07224.
+Converged after 7 iterations
+
+ RESULT: (2.2397894031317551, -4.1566415820753218e-05) 
+
+DR residual: (2.5444532356e-16+3.81002431793e-17j)
+Smallest eigenvalue 4.10419032069e-14
+
+=====================================================================
+
+Computing index no. 106, k =  0.0739
+start = [2.2399337511603585, -4.3146308695089229e-05]
+Running with k_par=0.006442 and k_perp=0.07363.
+Converged after 7 iterations
+
+ RESULT: (2.2399337504583512, -4.3146172674802106e-05) 
+
+DR residual: (1.41870805065e-16+2.9383213073e-18j)
+Smallest eigenvalue 2.17852461023e-14
+
+=====================================================================
+
+Computing index no. 107, k =  0.0753
+start = [2.240083690539362, -4.4784729083256601e-05]
+Running with k_par=0.006565 and k_perp=0.07504.
+Converged after 7 iterations
+
+ RESULT: (2.2400836897821872, -4.478458258869301e-05) 
+
+DR residual: (1.061933343e-16+2.6973996958e-18j)
+Smallest eigenvalue 1.56983020725e-14
+
+=====================================================================
+
+Computing index no. 108, k =  0.0768
+start = [2.2402394380040063, -4.6483871484024311e-05]
+Running with k_par=0.006692 and k_perp=0.07649.
+Converged after 10 iterations
+
+ RESULT: (2.2402394371873773, -4.648371375351584e-05) 
+
+DR residual: (-2.43073495121e-16-3.98521757197e-18j)
+Smallest eigenvalue 3.45808599883e-14
+
+=====================================================================
+
+Computing index no. 109, k =  0.0783
+start = [2.2404012179454851, -4.8245868377802503e-05]
+Running with k_par=0.00682 and k_perp=0.07796.
+Converged after 7 iterations
+
+ RESULT: (2.2404012170647607, -4.8245698548495235e-05) 
+
+DR residual: (1.46466379463e-16+1.92057601364e-18j)
+Smallest eigenvalue 2.00499915727e-14
+
+=====================================================================
+
+Computing index no. 110, k =  0.0798
+start = [2.2405692633776768, -5.0072917651619132e-05]
+Running with k_par=0.006952 and k_perp=0.07946.
+Converged after 7 iterations
+
+ RESULT: (2.2405692624278135, -5.007273481511974e-05) 
+
+DR residual: (2.5700903149e-16+4.90796487108e-18j)
+Smallest eigenvalue 3.38703590926e-14
+
+=====================================================================
+
+Computing index no. 111, k =  0.0813
+start = [2.2407438162647542, -5.196728390939776e-05]
+Running with k_par=0.007085 and k_perp=0.08098.
+Converged after 10 iterations
+
+ RESULT: (2.2407438152402883, -5.1967087088494767e-05) 
+
+DR residual: (-2.31477199172e-16-3.80580684184e-18j)
+Smallest eigenvalue 2.93698880564e-14
+
+=====================================================================
+
+Computing index no. 112, k =  0.0829
+start = [2.2409251278609585, -5.3931299633823662e-05]
+Running with k_par=0.007222 and k_perp=0.08254.
+Converged after 7 iterations
+
+ RESULT: (2.240925126756284, -5.3931087778626946e-05) 
+
+DR residual: (4.38493644308e-17+5.67247619466e-19j)
+Smallest eigenvalue 5.34682765789e-15
+
+=====================================================================
+
+Computing index no. 113, k =  0.0845
+start = [2.2411134590638819, -5.5967366309868453e-05]
+Running with k_par=0.00736 and k_perp=0.08413.
+Converged after 7 iterations
+
+ RESULT: (2.2411134578724137, -5.5967138296215362e-05) 
+
+DR residual: (-1.21923944707e-16-2.51080216775e-18j)
+Smallest eigenvalue 1.43234533143e-14
+
+=====================================================================
+
+Computing index no. 114, k =  0.0861
+start = [2.2413090807783167, -5.8077955489393193e-05]
+Running with k_par=0.007502 and k_perp=0.08575.
+Converged after 10 iterations
+
+ RESULT: (2.2413090794936337, -5.8077710111035274e-05) 
+
+DR residual: (1.13963140961e-16+1.99887783775e-18j)
+Smallest eigenvalue 1.28942560963e-14
+
+=====================================================================
+
+Computing index no. 115, k =  0.0877
+start = [2.2415122742974414, -6.0265609769553169e-05]
+Running with k_par=0.007646 and k_perp= 0.0874.
+Converged after 10 iterations
+
+ RESULT: (2.2415122729119563, -6.0265345731905493e-05) 
+
+DR residual: (-3.95670923661e-17-2.51564292459e-19j)
+Smallest eigenvalue 4.30366748935e-15
+
+=====================================================================
+
+Computing index no. 116, k =  0.0894
+start = [2.2417233316935481, -6.253294368275644e-05]
+Running with k_par=0.007793 and k_perp=0.08908.
+Converged after 7 iterations
+
+ RESULT: (2.2417233301996653, -6.2532659601321903e-05) 
+
+DR residual: (2.38697395656e-17+3.82965414871e-19j)
+Smallest eigenvalue 2.50261404146e-15
+
+=====================================================================
+
+Computing index no. 117, k =  0.0911
+start = [2.2419425562274835, -6.4882644498699939e-05]
+Running with k_par=0.007943 and k_perp=0.09079.
+Converged after 7 iterations
+
+ RESULT: (2.2419425546165246, -6.4882338887417402e-05) 
+
+DR residual: (8.9348440346e-17+1.20907464898e-18j)
+Smallest eigenvalue 9.01279781634e-15
+
+=====================================================================
+
+Computing index no. 118, k =  0.0929
+start = [2.2421702627692928, -6.7317472895373826e-05]
+Running with k_par=0.008096 and k_perp=0.09254.
+Converged after 7 iterations
+
+ RESULT: (2.2421702610324741, -6.7317144162980862e-05) 
+
+DR residual: (2.60297111085e-16+4.77593207598e-18j)
+Smallest eigenvalue 2.52622304366e-14
+
+=====================================================================
+
+Computing index no. 119, k =  0.0947
+start = [2.2424067782379828, -6.9840263514352803e-05]
+Running with k_par=0.008252 and k_perp=0.09432.
+Converged after 7 iterations
+
+ RESULT: (2.2424067763651454, -6.9839909958074731e-05) 
+
+DR residual: (5.71479876077e-17+1.16258806386e-18j)
+Smallest eigenvalue 5.3445702754e-15
+
+=====================================================================
+
+Computing index no. 120, k =  0.0965
+start = [2.2426524420531173, -7.245392537285402e-05]
+Running with k_par=0.00841 and k_perp=0.09613.
+Converged after 7 iterations
+
+ RESULT: (2.2426524400338428, -7.2453545169507091e-05) 
+
+DR residual: (-5.27647472761e-16-9.24942396233e-18j)
+Smallest eigenvalue 4.7442631549e-14
+
+=====================================================================
+
+Computing index no. 121, k =  0.0984
+start = [2.2429076066070266, -7.5161442112442299e-05]
+Running with k_par=0.008572 and k_perp=0.09798.
+Converged after 7 iterations
+
+ RESULT: (2.2429076044302003, -7.5161033309301194e-05) 
+
+DR residual: (-2.63289302892e-16-4.96964176251e-18j)
+Smallest eigenvalue 2.27871835826e-14
+
+=====================================================================
+
+Computing index no. 122, k =     0.1
+start = [2.2431726377523167, -7.7965872067709783e-05]
+Running with k_par=0.008737 and k_perp=0.09986.
+Converged after 7 iterations
+
+ RESULT: (2.2431726354051991, -7.7965432579186613e-05) 
+
+DR residual: (2.319211844e-16+4.23519583853e-18j)
+Smallest eigenvalue 1.93207758387e-14
+
+=====================================================================
+
+Computing index no. 123, k =   0.102
+start = [2.2434479153049254, -8.0870348153179453e-05]
+Running with k_par=0.008905 and k_perp= 0.1018.
+Converged after 7 iterations
+
+ RESULT: (2.2434479127747911, -8.0869875753320896e-05) 
+
+DR residual: (1.91557906423e-17-1.6125957509e-16j)
+Smallest eigenvalue 1.28765746922e-14
+
+=====================================================================
+
+Computing index no. 124, k =   0.104
+start = [2.2437338335707113, -8.3878077535563513e-05]
+Running with k_par=0.009076 and k_perp= 0.1037.
+Converged after 7 iterations
+
+ RESULT: (2.2437338308431327, -8.3877569804317225e-05) 
+
+DR residual: (1.50837237022e-16+3.41934691559e-18j)
+Smallest eigenvalue 1.16396833888e-14
+
+=====================================================================
+
+Computing index no. 125, k =   0.106
+start = [2.244030801885216, -8.6992340934545227e-05]
+Running with k_par=0.009251 and k_perp= 0.1057.
+Converged after 7 iterations
+
+ RESULT: (2.2440307989449302, -8.6991795392670016e-05) 
+
+DR residual: (1.34147796927e-16+3.03854059642e-18j)
+Smallest eigenvalue 9.95089409757e-15
+
+=====================================================================
+
+Computing index no. 126, k =   0.108
+start = [2.2443392451767146, -9.0216492102859958e-05]
+Running with k_par=0.009429 and k_perp= 0.1078.
+Converged after 7 iterations
+
+ RESULT: (2.2443392420073942, -9.0215905957932564e-05) 
+
+DR residual: (-6.80775968956e-17-1.79146899777e-18j)
+Smallest eigenvalue 4.8691723713e-15
+
+=====================================================================
+
+Computing index no. 127, k =    0.11
+start = [2.2446596045482825, -9.355395624248811e-05]
+Running with k_par=0.00961 and k_perp= 0.1098.
+Converged after 7 iterations
+
+ RESULT: (2.2446596011320761, -9.3553326624204426e-05) 
+
+DR residual: (-3.68540405304e-16-5.03436767791e-18j)
+Smallest eigenvalue 2.53624188189e-14
+
+=====================================================================
+
+Computing index no. 128, k =   0.112
+start = [2.2449923378797871, -9.7008228949649065e-05]
+Running with k_par=0.009795 and k_perp=  0.112.
+Converged after 7 iterations
+
+ RESULT: (2.2449923341977813, -9.7007552750194033e-05) 
+
+DR residual: (-6.37044413115e-17-8.68840470155e-19j)
+Smallest eigenvalue 4.21872869687e-15
+
+=====================================================================
+
+Computing index no. 129, k =   0.115
+start = [2.2453379204531312, -0.00010058287422998827]
+Running with k_par=0.009983 and k_perp= 0.1141.
+Converged after 7 iterations
+
+ RESULT: (2.2453379164847198, -0.00010058214814313505) 
+
+DR residual: (-3.20077311557e-16-7.72280203975e-18j)
+Smallest eigenvalue 2.04222009157e-14
+
+=====================================================================
+
+Computing index no. 130, k =   0.117
+start = [2.2456968455977901, -0.00010428152239701032]
+Running with k_par=0.01018 and k_perp= 0.1163.
+Converged after 7 iterations
+
+ RESULT: (2.2456968413210086, -0.00010428074289708246) 
+
+DR residual: (-4.31171444912e-16-8.99585157045e-18j)
+Smallest eigenvalue 2.64460530096e-14
+
+=====================================================================
+
+Computing index no. 131, k =   0.119
+start = [2.2460696253608345, -0.00010810786749323942]
+Running with k_par=0.01037 and k_perp= 0.1185.
+Converged after 10 iterations
+
+ RESULT: (2.2460696207518507, -0.00010810703082664956) 
+
+DR residual: (1.70430830119e-17-7.10362206841e-19j)
+Smallest eigenvalue 9.95459810513e-16
+
+=====================================================================
+
+Computing index no. 132, k =   0.121
+start = [2.246456791199114, -0.00011206566428905939]
+Running with k_par=0.01057 and k_perp= 0.1208.
+Converged after 7 iterations
+
+ RESULT: (2.2464567862325282, -0.00011206476645791319) 
+
+DR residual: (-7.42041110544e-17-2.40080236823e-18j)
+Smallest eigenvalue 4.22325106338e-15
+
+=====================================================================
+
+Computing index no. 133, k =   0.124
+start = [2.2468588946972345, -0.00011615872479059292]
+Running with k_par=0.01077 and k_perp= 0.1231.
+Converged after 7 iterations
+
+ RESULT: (2.2468588893454657, -0.00011615776154025831) 
+
+DR residual: (-3.30791156057e-17-7.24862942716e-20j)
+Smallest eigenvalue 1.81934904239e-15
+
+=====================================================================
+
+Computing index no. 134, k =   0.126
+start = [2.2472765083089747, -0.00012039091423448536]
+Running with k_par=0.01098 and k_perp= 0.1255.
+Converged after 7 iterations
+
+ RESULT: (2.2472765025424981, -0.00012038988104173774) 
+
+DR residual: (2.48488128465e-16+4.68228802516e-18j)
+Smallest eigenvalue 1.30741147545e-14
+
+=====================================================================
+
+Computing index no. 135, k =   0.128
+start = [2.2477102261259154, -0.00012476614652753805]
+Running with k_par=0.01119 and k_perp= 0.1279.
+Converged after 7 iterations
+
+ RESULT: (2.2477102199131642, -0.00012476503858593251) 
+
+DR residual: (3.85891449711e-16+6.47874679278e-18j)
+Smallest eigenvalue 1.95217018291e-14
+
+=====================================================================
+
+Computing index no. 136, k =   0.131
+start = [2.2481606646726195, -0.00012928837908100335]
+Running with k_par=0.01141 and k_perp= 0.1304.
+Converged after 7 iterations
+
+ RESULT: (2.2481606579791737, -0.0001292871912844962) 
+
+DR residual: (8.30933360807e-18+5.60407828939e-19j)
+Smallest eigenvalue 4.17048635378e-16
+
+=====================================================================
+
+Computing index no. 137, k =   0.133
+start = [2.2486284637274006, -0.00013396160699075021]
+Running with k_par=0.01163 and k_perp= 0.1329.
+Converged after 7 iterations
+
+ RESULT: (2.2486284565167951, -0.00013396033392340788) 
+
+DR residual: (-3.41129948712e-17-3.56315168346e-19j)
+Smallest eigenvalue 1.6035920193e-15
+
+=====================================================================
+
+Computing index no. 138, k =   0.136
+start = [2.2491142871744789, -0.00013878985653326714]
+Running with k_par=0.01185 and k_perp= 0.1355.
+Converged after 10 iterations
+
+ RESULT: (2.2491142794071912, -0.00013878849245117572) 
+
+DR residual: (-1.42080546933e-16-3.4844626057e-18j)
+Smallest eigenvalue 6.40984727742e-15
+
+=====================================================================
+
+Computing index no. 139, k =   0.139
+start = [2.2496188238822517, -0.00014377717790153285]
+Running with k_par=0.01208 and k_perp= 0.1381.
+Converged after 7 iterations
+
+ RESULT: (2.2496188155157939, -0.00014377571671906028) 
+
+DR residual: (-1.0816828129e-16-2.3943157511e-18j)
+Smallest eigenvalue 4.70005261976e-15
+
+=====================================================================
+
+Computing index no. 140, k =   0.141
+start = [2.2501427886128558, -0.0001489276371449531]
+Running with k_par=0.01231 and k_perp= 0.1407.
+Converged after 7 iterations
+
+ RESULT: (2.2501427796017301, -0.00014892607242110572) 
+
+DR residual: (-6.55999698682e-17-5.26320884897e-19j)
+Smallest eigenvalue 2.75661958921e-15
+
+=====================================================================
+
+Computing index no. 141, k =   0.144
+start = [2.2506869229626867, -0.0001542453072545127]
+Running with k_par=0.01255 and k_perp= 0.1434.
+Converged after 7 iterations
+
+ RESULT: (2.2506869132580718, -0.00015424363217815846) 
+
+DR residual: (-9.97908302754e-16-1.79792601582e-17j)
+Smallest eigenvalue 4.01624125423e-14
+
+=====================================================================
+
+Computing index no. 142, k =   0.147
+start = [2.2512519963342714, -0.00015973425833231894]
+Running with k_par=0.01279 and k_perp= 0.1462.
+Converged after 7 iterations
+
+ RESULT: (2.2512519858833842, -0.00015973246570575873) 
+
+DR residual: (-2.28704956938e-17-1.4945352621e-18j)
+Smallest eigenvalue 8.7211514613e-16
+
+=====================================================================
+
+Computing index no. 143, k =    0.15
+start = [2.2518388069395834, -0.00016539854678039977]
+Running with k_par=0.01303 and k_perp=  0.149.
+Converged after 7 iterations
+
+ RESULT: (2.2518387956861656, -0.00016539662900798714) 
+
+DR residual: (-1.08681270612e-16-2.43986633408e-18j)
+Smallest eigenvalue 4.04401984471e-15
+
+=====================================================================
+
+Computing index no. 144, k =   0.152
+start = [2.2524481828390592, -0.0001712422034599068]
+Running with k_par=0.01329 and k_perp= 0.1519.
+Converged after 10 iterations
+
+ RESULT: (2.2524481707223303, -0.00017124015253617048) 
+
+DR residual: (1.49018028667e-17+3.04703051958e-19j)
+Smallest eigenvalue 5.32935584494e-16
+
+=====================================================================
+
+Computing index no. 145, k =   0.155
+start = [2.25308098301223, -0.00017726922075076868]
+Running with k_par=0.01354 and k_perp= 0.1548.
+Converged after 10 iterations
+
+ RESULT: (2.2530809699672201, -0.00017726702824121405) 
+
+DR residual: (-2.31077233596e-16-1.83527537084e-18j)
+Smallest eigenvalue 7.95122980765e-15
+
+=====================================================================
+
+Computing index no. 146, k =   0.158
+start = [2.2537380984658388, -0.00018348353842304876]
+Running with k_par= 0.0138 and k_perp= 0.1577.
+Converged after 7 iterations
+
+ RESULT: (2.2537380844226353, -0.0001834811954613928) 
+
+DR residual: (5.72858942705e-19-4.21717827913e-18j)
+Smallest eigenvalue 4.34589139286e-17
+
+=====================================================================
+
+Computing index no. 147, k =   0.161
+start = [2.2544204533763632, -0.00018988902829948013]
+Running with k_par=0.01407 and k_perp= 0.1608.
+Converged after 7 iterations
+
+ RESULT: (2.2544204382599706, -0.00018988652557055957) 
+
+DR residual: (1.0489845422e-16+2.13650397589e-18j)
+Smallest eigenvalue 3.34967057487e-15
+
+=====================================================================
+
+Computing index no. 148, k =   0.165
+start = [2.2551290062703853, -0.00019648947758556007]
+Running with k_par=0.01434 and k_perp= 0.1639.
+Converged after 7 iterations
+
+ RESULT: (2.2551289900004963, -0.00019648680532253503) 
+
+DR residual: (3.45841686487e-16+4.42920707616e-18j)
+Smallest eigenvalue 1.06184633279e-14
+
+=====================================================================
+
+Computing index no. 149, k =   0.168
+start = [2.2558647512430947, -0.00020328857084308153]
+Running with k_par=0.01461 and k_perp=  0.167.
+Converged after 10 iterations
+
+ RESULT: (2.2558647337333673, -0.00020328571881428274) 
+
+DR residual: (-1.57673481433e-16-2.71971862953e-18j)
+Smallest eigenvalue 4.65293264744e-15
+
+=====================================================================
+
+Computing index no. 150, k =   0.171
+start = [2.2566287192146111, -0.0002102898704911776]
+Running with k_par=0.01489 and k_perp= 0.1702.
+Converged after 7 iterations
+
+ RESULT: (2.2566287003724677, -0.00021028682800225171) 
+
+DR residual: (3.8800901048e-16+5.88062044781e-18j)
+Smallest eigenvalue 1.10454239137e-14
+
+=====================================================================
+
+Computing index no. 151, k =   0.174
+start = [2.2574219792268098, -0.00021749679580743418]
+Running with k_par=0.01518 and k_perp= 0.1735.
+Converged after 7 iterations
+
+ RESULT: (2.2574219589531936, -0.00021749355169504631) 
+
+DR residual: (3.13199491363e-16+5.00887026763e-18j)
+Smallest eigenvalue 8.5722994015e-15
+
+=====================================================================
+
+Computing index no. 152, k =   0.178
+start = [2.2582456397811761, -0.00022491260031666684]
+Running with k_par=0.01547 and k_perp= 0.1769.
+Converged after 7 iterations
+
+ RESULT: (2.2582456179696626, -0.00022490914295402649) 
+
+DR residual: (9.33383830696e-17+3.56126017631e-18j)
+Smallest eigenvalue 2.45095845048e-15
+
+=====================================================================
+
+Computing index no. 153, k =   0.181
+start = [2.2591008502169334, -0.00023254034752821919]
+Running with k_par=0.01577 and k_perp= 0.1803.
+Converged after 10 iterations
+
+ RESULT: (2.2591008267536714, -0.00023253666482490808) 
+
+DR residual: (4.19713126359e-17+7.83448318982e-19j)
+Smallest eigenvalue 1.06326719315e-15
+
+=====================================================================
+
+Computing index no. 154, k =   0.184
+start = [2.2599888021331189, -0.0002403828849183577]
+Running with k_par=0.01607 and k_perp= 0.1837.
+Converged after 10 iterations
+
+ RESULT: (2.2599887768960141, -0.00024037896433619802) 
+
+DR residual: (-2.938516422e-16-5.81483050957e-18j)
+Smallest eigenvalue 7.18990199856e-15
+
+=====================================================================
+
+Computing index no. 155, k =   0.188
+start = [2.260910730852872, -0.0002484428161288935]
+Running with k_par=0.01638 and k_perp= 0.1873.
+Converged after 10 iterations
+
+ RESULT: (2.2609107037112306, -0.00024843864469221148) 
+
+DR residual: (1.68107669767e-16+2.67598362329e-18j)
+Smallest eigenvalue 3.95546968694e-15
+
+=====================================================================
+
+Computing index no. 156, k =   0.192
+start = [2.2618679169327178, -0.00025672247127963134]
+Running with k_par= 0.0167 and k_perp= 0.1909.
+Converged after 7 iterations
+
+ RESULT: (2.2618678877465448, -0.00025671803559515195) 
+
+DR residual: (-2.51303878156e-16-5.39419363334e-18j)
+Smallest eigenvalue 5.64968624182e-15
+
+=====================================================================
+
+Computing index no. 157, k =   0.195
+start = [2.262861687716466, -0.00026522387535153575]
+Running with k_par=0.01702 and k_perp= 0.1945.
+Converged after 7 iterations
+
+ RESULT: (2.2628616563360655, -0.00026521916163856291) 
+
+DR residual: (2.79706801775e-16+4.68820552513e-18j)
+Smallest eigenvalue 6.08254797328e-15
+
+=====================================================================
+
+Computing index no. 158, k =   0.199
+start = [2.263893418935778, -0.00027394871459190761]
+Running with k_par=0.01735 and k_perp= 0.1983.
+Converged after 7 iterations
+
+ RESULT: (2.2638933852006722, -0.00027394370871083602) 
+
+DR residual: (-1.21110737219e-16-1.89016086536e-18j)
+Smallest eigenvalue 2.51825739232e-15
+
+=====================================================================
+
+Computing index no. 159, k =   0.203
+start = [2.2649645363561413, -0.00028289830086452038]
+Running with k_par=0.01768 and k_perp= 0.2021.
+Converged after 7 iterations
+
+ RESULT: (2.2649645000949796, -0.00028289298836109742) 
+
+DR residual: (2.751203834e-16+3.61122189872e-18j)
+Smallest eigenvalue 5.51564138689e-15
+
+=====================================================================
+
+Computing index no. 160, k =   0.207
+start = [2.2660765174723698, -0.00029207353392891687]
+Running with k_par=0.01802 and k_perp=  0.206.
+Converged after 7 iterations
+
+ RESULT: (2.2660764785017364, -0.00029206790008471913) 
+
+DR residual: (1.20796359976e-15+1.98308980058e-17j)
+Smallest eigenvalue 2.33633458043e-14
+
+=====================================================================
+
+Computing index no. 161, k =   0.211
+start = [2.267230893250761, -0.00030147486160183825]
+Running with k_par=0.01837 and k_perp= 0.2099.
+Converged after 7 iterations
+
+ RESULT: (2.267230851374646, -0.00030146889149480256) 
+
+DR residual: (-5.51374190604e-16-1.01288797685e-17j)
+Smallest eigenvalue 1.02579162898e-14
+
+=====================================================================
+
+Computing index no. 162, k =   0.215
+start = [2.2684292499213639, -0.00031110223778061985]
+Running with k_par=0.01872 and k_perp=  0.214.
+Converged after 10 iterations
+
+ RESULT: (2.2684292049303099, -0.00031109591635344527) 
+
+DR residual: (-6.09837889523e-16-9.83805722561e-18j)
+Smallest eigenvalue 1.08994887267e-14
+
+=====================================================================
+
+Computing index no. 163, k =   0.219
+start = [2.2696732308197367, -0.00032095507830811709]
+Running with k_par=0.01908 and k_perp= 0.2181.
+Converged after 7 iterations
+
+ RESULT: (2.2696731824899139, -0.0003209483904577777) 
+
+DR residual: (1.43875417609e-16+6.58173690637e-19j)
+Smallest eigenvalue 2.46216476173e-15
+
+=====================================================================
+
+Computing index no. 164, k =   0.223
+start = [2.2709645382789936, -0.00033103221470980087]
+Running with k_par=0.01945 and k_perp= 0.2223.
+Converged after 10 iterations
+
+ RESULT: (2.2709644863715042, -0.0003310251453797024) 
+
+DR residual: (5.33016491386e-17+7.77125476488e-19j)
+Smallest eigenvalue 8.54759393229e-16
+
+=====================================================================
+
+Computing index no. 165, k =   0.227
+start = [2.2723049355735569, -0.00034133184578767585]
+Running with k_par=0.01982 and k_perp= 0.2265.
+Converged after 10 iterations
+
+ RESULT: (2.2723048798333849, -0.00034132438008302869) 
+
+DR residual: (-2.16958134268e-16-3.26067760763e-18j)
+Smallest eigenvalue 3.46495368641e-15
+
+=====================================================================
+
+Computing index no. 166, k =   0.232
+start = [2.2736962489141659, -0.00035185148714148191]
+Running with k_par= 0.0202 and k_perp= 0.2309.
+Converged after 7 iterations
+
+ RESULT: (2.2736961890691316, -0.00035184361045481139) 
+
+DR residual: (-1.93984289345e-16+3.22444616613e-19j)
+Smallest eigenvalue 2.97687327982e-15
+
+=====================================================================
+
+Computing index no. 167, k =   0.236
+start = [2.2751403694950105, -0.00036258791865476244]
+Running with k_par=0.02059 and k_perp= 0.2353.
+Converged after 10 iterations
+
+ RESULT: (2.2751403052548449, -0.00036257961681522653) 
+
+DR residual: (-1.00034068191e-16-1.37681064881e-18j)
+Smallest eigenvalue 1.52260758805e-15
+
+=====================================================================
+
+Computing index no. 168, k =   0.241
+start = [2.2766392555938428, -0.00037353713005291658]
+Running with k_par=0.02099 and k_perp= 0.2399.
+Converged after 7 iterations
+
+ RESULT: (2.276639186649144, -0.00037352838948885472) 
+
+DR residual: (3.40511285283e-16+3.07170157644e-18j)
+Smallest eigenvalue 4.93084865445e-15
+
+=====================================================================
+
+Computing index no. 169, k =   0.245
+start = [2.2781949347251995, -0.00038469426462506534]
+Running with k_par=0.02139 and k_perp= 0.2445.
+Converged after 10 iterations
+
+ RESULT: (2.2781948607462765, -0.00038468507254985529) 
+
+DR residual: (1.53564392562e-16+2.52269151652e-18j)
+Smallest eigenvalue 2.09684000287e-15
+
+=====================================================================
+
+Computing index no. 170, k =    0.25
+start = [2.2798095058469912, -0.00039605356126359679]
+Running with k_par= 0.0218 and k_perp= 0.2492.
+Converged after 7 iterations
+
+ RESULT: (2.2798094264824966, -0.00039604390588428599) 
+
+DR residual: (-7.94327617165e-16-1.37499416137e-17j)
+Smallest eigenvalue 1.04300505499e-14
+
+=====================================================================
+
+Computing index no. 171, k =   0.255
+start = [2.2814851416202626, -0.00040760829499655188]
+Running with k_par=0.02222 and k_perp=  0.254.
+Converged after 7 iterations
+
+ RESULT: (2.2814850564964302, -0.00040759816574534313) 
+
+DR residual: (-7.9377684234e-16-8.67770879293e-18j)
+Smallest eigenvalue 1.00255586318e-14
+
+=====================================================================
+
+Computing index no. 172, k =    0.26
+start = [2.2832240907242665, -0.00041935071622303886]
+Running with k_par=0.02265 and k_perp= 0.2589.
+Converged after 7 iterations
+
+ RESULT: (2.2832239994430288, -0.00041934010401185325) 
+
+DR residual: (1.19284849833e-15+2.40162656884e-17j)
+Smallest eigenvalue 1.44480206749e-14
+
+=====================================================================
+
+Computing index no. 173, k =   0.265
+start = [2.2850286802235575, -0.00043127198889863556]
+Running with k_par=0.02308 and k_perp= 0.2638.
+Converged after 7 iterations
+
+ RESULT: (2.2850285823617407, -0.00043126088640366888) 
+
+DR residual: (-9.3174168962e-16-1.5533241999e-17j)
+Smallest eigenvalue 1.08506480237e-14
+
+=====================================================================
+
+Computing index no. 174, k =    0.27
+start = [2.2869013179909849, -0.00044336212797704301]
+Running with k_par=0.02353 and k_perp= 0.2689.
+Converged after 10 iterations
+
+ RESULT: (2.2869012130987145, -0.00044335052995201827) 
+
+DR residual: (1.28015816527e-15+1.47454937627e-17j)
+Smallest eigenvalue 1.43508183128e-14
+
+=====================================================================
+
+Computing index no. 175, k =   0.275
+start = [2.2888444951837128, -0.00045560993645152911]
+Running with k_par=0.02398 and k_perp= 0.2741.
+Converged after 7 iterations
+
+ RESULT: (2.288844382782683, -0.00045559784006133183) 
+
+DR residual: (-3.80632449525e-16-1.52046194163e-17j)
+Smallest eigenvalue 4.10264579611e-15
+
+=====================================================================
+
+Computing index no. 176, k =    0.28
+start = [2.2908607887723509, -0.00046800294236484124]
+Running with k_par=0.02444 and k_perp= 0.2794.
+Converged after 10 iterations
+
+ RESULT: (2.290860668355033, -0.00046799034756371972) 
+
+DR residual: (-1.27487647599e-15-2.27027727739e-17j)
+Smallest eigenvalue 1.32645387335e-14
+
+=====================================================================
+
+Computing index no. 177, k =   0.286
+start = [2.292952864125724, -0.00048052733628112243]
+Running with k_par=0.02491 and k_perp= 0.2847.
+Converged after 10 iterations
+
+ RESULT: (2.2929527351530403, -0.00048051424620972223) 
+
+DR residual: (-9.81662437872e-17-5.06555754551e-18j)
+Smallest eigenvalue 1.01925408228e-15
+
+=====================================================================
+
+Computing index no. 178, k =   0.291
+start = [2.2951234776461367, -0.00049316790968231372]
+Running with k_par=0.02539 and k_perp= 0.2902.
+Converged after 7 iterations
+
+ RESULT: (2.2951233395463646, -0.0004931543311029184) 
+
+DR residual: (-9.63233761535e-17-8.65528448729e-18j)
+Smallest eigenvalue 9.59976321321e-16
+
+=====================================================================
+
+Computing index no. 179, k =   0.297
+start = [2.2973754794592063, -0.00050590799488335538]
+Running with k_par=0.02588 and k_perp= 0.2958.
+Converged after 7 iterations
+
+ RESULT: (2.297375331626105, -0.00050589393864503669) 
+
+DR residual: (1.00620202634e-15+1.74619738558e-17j)
+Smallest eigenvalue 9.25067266706e-15
+
+=====================================================================
+
+Computing index no. 180, k =   0.303
+start = [2.2997118161546752, -0.00051872940708664488]
+Running with k_par=0.02638 and k_perp= 0.3015.
+Converged after 10 iterations
+
+ RESULT: (2.2997116579458141, -0.00051871488862397332) 
+
+DR residual: (1.04837655445e-16+5.05552961173e-18j)
+Smallest eigenvalue 9.50564525255e-16
+
+=====================================================================
+
+Computing index no. 181, k =   0.308
+start = [2.3021355335787339, -0.00053161238928096368]
+Running with k_par=0.02688 and k_perp= 0.3073.
+Converged after 7 iterations
+
+ RESULT: (2.3021353643137217, -0.00053159742914231595) 
+
+DR residual: (-7.38774127761e-17+3.35745687557e-18j)
+Smallest eigenvalue 7.17738903807e-16
+
+=====================================================================
+
+Computing index no. 182, k =   0.314
+start = [2.3046497796765983, -0.00054453556074699904]
+Running with k_par= 0.0274 and k_perp= 0.3132.
+Converged after 7 iterations
+
+ RESULT: (2.30464959863524, -0.00054452018515512663) 
+
+DR residual: (-3.87715199073e-16-7.29888544433e-18j)
+Smallest eigenvalue 3.14911886726e-15
+
+=====================================================================
+
+Computing index no. 183, k =    0.32
+start = [2.307257807384294, -0.00055747587001567765]
+Running with k_par=0.02793 and k_perp= 0.3192.
+Converged after 7 iterations
+
+ RESULT: (2.3072576138045977, -0.00055746011145595023) 
+
+DR residual: (1.74070827766e-16+1.11710095283e-18j)
+Smallest eigenvalue 1.40342147775e-15
+
+=====================================================================
+
+Computing index no. 184, k =   0.327
+start = [2.3099629775681558, -0.00057040855318737102]
+Running with k_par=0.02846 and k_perp= 0.3253.
+Converged after 10 iterations
+
+ RESULT: (2.3099627706445962, -0.00057039245102219797) 
+
+DR residual: (4.8136991392e-16+3.06049158462e-18j)
+Smallest eigenvalue 3.73718431248e-15
+
+=====================================================================
+
+Computing index no. 185, k =   0.333
+start = [2.3127687620116011, -0.00058330709859739449]
+Running with k_par=0.02901 and k_perp= 0.3316.
+Converged after 7 iterations
+
+ RESULT: (2.3127685408929759, -0.00058329069970347906) 
+
+DR residual: (-3.16691773277e-16+4.98523940821e-18j)
+Smallest eigenvalue 2.31188743346e-15
+
+=====================================================================
+
+Computing index no. 186, k =   0.339
+start = [2.3156787464464741, -0.00059614321888397403]
+Running with k_par=0.02957 and k_perp=  0.338.
+Converged after 10 iterations
+
+ RESULT: (2.3156785102335773, -0.00059612657830907358) 
+
+DR residual: (1.18644065596e-16+1.72826929179e-18j)
+Smallest eigenvalue 8.41684718641e-16
+
+=====================================================================
+
+Computing index no. 187, k =   0.346
+start = [2.3186966336270469, -0.00060888683158764022]
+Running with k_par=0.03014 and k_perp= 0.3445.
+Converged after 7 iterations
+
+ RESULT: (2.3186963813710881, -0.00060887001321892386) 
+
+DR residual: (1.68964500465e-15+1.45616958079e-17j)
+Smallest eigenvalue 1.13173193567e-14
+
+=====================================================================
+
+Computing index no. 188, k =   0.352
+start = [2.3218262464470381, -0.00062150604946988063]
+Running with k_par=0.03072 and k_perp= 0.3511.
+Converged after 7 iterations
+
+ RESULT: (2.3218259771468461, -0.00062148912671079661) 
+
+DR residual: (-3.04076810434e-17-6.80148614142e-19j)
+Smallest eigenvalue 2.26746833839e-16
+
+=====================================================================
+
+Computing index no. 189, k =   0.359
+start = [2.3250715310937693, -0.0006339671818120173]
+Running with k_par=0.03131 and k_perp= 0.3579.
+Converged after 10 iterations
+
+ RESULT: (2.3250712436937939, -0.0006339502382562281) 
+
+DR residual: (2.67102757331e-16+4.38160713303e-18j)
+Smallest eigenvalue 1.67688661925e-15
+
+=====================================================================
+
+Computing index no. 190, k =   0.366
+start = [2.3284365602402057, -0.0006462347479980245]
+Running with k_par=0.03191 and k_perp= 0.3647.
+Converged after 10 iterations
+
+ RESULT: (2.3284362536280674, -0.00064621787809546064) 
+
+DR residual: (4.64543968174e-17-2.95987865412e-18j)
+Smallest eigenvalue 3.20437879473e-16
+
+=====================================================================
+
+Computing index no. 191, k =   0.373
+start = [2.3319255362705111, -0.00065827150474653926]
+Running with k_par=0.03252 and k_perp= 0.3718.
+Converged after 7 iterations
+
+ RESULT: (2.3319252092744374, -0.00065825481444570634) 
+
+DR residual: (2.62523977918e-16+7.07935464781e-18j)
+Smallest eigenvalue 1.5134332278e-15
+
+=====================================================================
+
+Computing index no. 192, k =    0.38
+start = [2.3355427945363543, -0.00067003848837628643]
+Running with k_par=0.03315 and k_perp= 0.3789.
+Converged after 7 iterations
+
+ RESULT: (2.3355424459225915, -0.00067002209573623344) 
+
+DR residual: (2.16618276395e-16-3.95533931511e-19j)
+Smallest eigenvalue 1.22805504105e-15
+
+=====================================================================
+
+Computing index no. 193, k =   0.388
+start = [2.3392928066408292, -0.00068149507353219591]
+Running with k_par=0.03379 and k_perp= 0.3862.
+Converged after 10 iterations
+
+ RESULT: (2.3392924351110271, -0.00068147910928427859) 
+
+DR residual: (-5.86100631076e-16-6.60337374556e-18j)
+Smallest eigenvalue 3.0547077299e-15
+
+=====================================================================
+
+Computing index no. 194, k =   0.395
+start = [2.3431801837465098, -0.00069259904978702662]
+Running with k_par=0.03444 and k_perp= 0.3936.
+Converged after 10 iterations
+
+ RESULT: (2.3431797879346505, -0.00069258365783728896) 
+
+DR residual: (-1.55723861347e-16+6.37617399734e-18j)
+Smallest eigenvalue 9.03682502295e-16
+
+=====================================================================
+
+Computing index no. 195, k =   0.403
+start = [2.3472096799026154, -0.00070330671754595929]
+Running with k_par= 0.0351 and k_perp= 0.4012.
+Converged after 10 iterations
+
+ RESULT: (2.3472092583720547, -0.00070329205539367164) 
+
+DR residual: (-5.42908349165e-16-6.37568383309e-18j)
+Smallest eigenvalue 2.64821811148e-15
+
+=====================================================================
+
+Computing index no. 196, k =    0.41
+start = [2.3513861953876694, -0.00071357300462666982]
+Running with k_par=0.03578 and k_perp= 0.4089.
+Converged after 7 iterations
+
+ RESULT: (2.3513857466279005, -0.00071355924368447917) 
+
+DR residual: (4.96960231075e-17+3.15637599259e-18j)
+Smallest eigenvalue 2.02249451991e-16
+
+=====================================================================
+
+Computing index no. 197, k =   0.418
+start = [2.355714780062149, -0.00072335160485025398]
+Running with k_par=0.03646 and k_perp= 0.4168.
+Converged after 7 iterations
+
+ RESULT: (2.3557143024852758, -0.00072333893064600017) 
+
+DR residual: (-2.92523463692e-15-4.12263139223e-17j)
+Smallest eigenvalue 1.32931656047e-14
+
+=====================================================================
+
+Computing index no. 198, k =   0.426
+start = [2.3602006367253829, -0.00073259513989650188]
+Running with k_par=0.03716 and k_perp= 0.4248.
+Converged after 10 iterations
+
+ RESULT: (2.3602001286623127, -0.00073258375212659395) 
+
+DR residual: (-5.0254758101e-16-4.84152985493e-18j)
+Smallest eigenvalue 2.30067822339e-15
+
+=====================================================================
+
+Computing index no. 199, k =   0.435
+start = [2.3648491244703438, -0.00074125534554407156]
+Running with k_par=0.03788 and k_perp=  0.433.
+Converged after 7 iterations
+
+ RESULT: (2.3648485841668041, -0.00074124545796333205) 
+
+DR residual: (-5.33313208637e-16+1.03998536445e-17j)
+Smallest eigenvalue 2.26803945938e-15
+
+=====================================================================
+
+Computing index no. 200, k =   0.443
+start = [2.3696657620296797, -0.00074928328330110068]
+Running with k_par=0.03861 and k_perp= 0.4413.
+Converged after 7 iterations
+
+ RESULT: (2.3696651876416239, -0.00074927512341775224) 
+
+DR residual: (1.91631545436e-15+4.42955688458e-17j)
+Smallest eigenvalue 7.77102986604e-15
+
+=====================================================================
+
+Computing index no. 201, k =   0.451
+start = [2.3746562311042894, -0.00075662957822861514]
+Running with k_par=0.03935 and k_perp= 0.4498.
+Converged after 7 iterations
+
+ RESULT: (2.3746556206930922, -0.00075662338677773484) 
+
+DR residual: (-4.50898199619e-16-1.54537414621e-17j)
+Smallest eigenvalue 1.76815392828e-15
+
+=====================================================================
+
+Computing index no. 202, k =    0.46
+start = [2.3798263796663437, -0.00076324468354346039]
+Running with k_par=0.04011 and k_perp= 0.4584.
+Converged after 7 iterations
+
+ RESULT: (2.3798257311932796, -0.00076324071371441774) 
+
+DR residual: (-5.28275555479e-16-4.31374246e-18j)
+Smallest eigenvalue 2.02774828096e-15
+
+=====================================================================
+
+Computing index no. 203, k =   0.469
+start = [2.3851822252260106, -0.00076907917233382656]
+Running with k_par=0.04088 and k_perp= 0.4672.
+Converged after 7 iterations
+
+ RESULT: (2.3851815365462699, -0.00076907768872050116) 
+
+DR residual: (2.64879687373e-15+2.99233042249e-17j)
+Smallest eigenvalue 9.52525813514e-15
+
+=====================================================================
+
+Computing index no. 204, k =   0.478
+start = [2.3907299580511294, -0.00077408405640425298]
+Running with k_par=0.04166 and k_perp= 0.4762.
+Converged after 7 iterations
+
+ RESULT: (2.3907292269070561, -0.00077408533365255175) 
+
+DR residual: (-2.84729020759e-15-2.86857791886e-17j)
+Smallest eigenvalue 9.8442438903e-15
+
+=====================================================================
+
+Computing index no. 205, k =   0.487
+start = [2.3964759443267898, -0.00077821113192564132]
+Running with k_par=0.04247 and k_perp= 0.4854.
+Converged after 7 iterations
+
+ RESULT: (2.3964751683403107, -0.00077821545304746951) 
+
+DR residual: (1.6054047543e-15+6.40880818252e-18j)
+Smallest eigenvalue 5.18049425425e-15
+
+=====================================================================
+
+Computing index no. 206, k =   0.497
+start = [2.4024267292405064, -0.00078141335115664142]
+Running with k_par=0.04328 and k_perp= 0.4947.
+Converged after 10 iterations
+
+ RESULT: (2.4024259059047086, -0.00078142100549064854) 
+
+DR residual: (1.64667311463e-16-6.14412839776e-18j)
+Smallest eigenvalue 5.73064063168e-16
+
+=====================================================================
+
+Computing index no. 207, k =   0.506
+start = [2.4085890399769947, -0.00078364521907908476]
+Running with k_par=0.04412 and k_perp= 0.5042.
+Converged after 7 iterations
+
+ RESULT: (2.408588166646259, -0.00078365649986998295) 
+
+DR residual: (3.10828989547e-16+2.80412997845e-20j)
+Smallest eigenvalue 9.41086043541e-16
+
+=====================================================================
+
+Computing index no. 208, k =   0.516
+start = [2.4149697886030586, -0.00078486321328485051]
+Running with k_par=0.04496 and k_perp= 0.5139.
+Converged after 10 iterations
+
+ RESULT: (2.4149688624825592, -0.00078487841485923022) 
+
+DR residual: (2.10819058713e-15+2.50526628855e-17j)
+Smallest eigenvalue 6.21935266445e-15
+
+=====================================================================
+
+Computing index no. 209, k =   0.526
+start = [2.4215760748236863, -0.00078502622491730036]
+Running with k_par=0.04583 and k_perp= 0.5238.
+Converged after 7 iterations
+
+ RESULT: (2.4215750929569499, -0.00078504563944825688) 
+
+DR residual: (-5.02463195548e-16-8.57098907286e-18j)
+Smallest eigenvalue 1.56912703689e-15
+
+=====================================================================
+
+Computing index no. 210, k =   0.536
+start = [2.4284151885839731, -0.00078409601792186361]
+Running with k_par=0.04671 and k_perp= 0.5339.
+Converged after 10 iterations
+
+ RESULT: (2.428414147838859, -0.00078411993176140035) 
+
+DR residual: (-2.66589171423e-16-4.78856368549e-18j)
+Smallest eigenvalue 7.16648294479e-16
+
+=====================================================================
+
+Computing index no. 211, k =   0.546
+start = [2.4354946124906318, -0.00078203770321783983]
+Running with k_par=0.04761 and k_perp= 0.5442.
+Converged after 10 iterations
+
+ RESULT: (2.4354935095437469, -0.00078206639280135762) 
+
+DR residual: (-2.16567163378e-15-1.96932391946e-17j)
+Smallest eigenvalue 5.60953924969e-15
+
+=====================================================================
+
+Computing index no. 212, k =   0.557
+start = [2.4428220240235423, -0.00077882022379629199]
+Running with k_par=0.04852 and k_perp= 0.5546.
+Converged after 7 iterations
+
+ RESULT: (2.442820855342327, -0.00077885395111694294) 
+
+DR residual: (2.31038948541e-16+1.36578515858e-18j)
+Smallest eigenvalue 7.36401739132e-16
+
+=====================================================================
+
+Computing index no. 213, k =   0.567
+start = [2.4504052975022907, -0.00077441684606651079]
+Running with k_par=0.04946 and k_perp= 0.5653.
+Converged after 10 iterations
+
+ RESULT: (2.4504040593246339, -0.00077445585373592599) 
+
+DR residual: (-1.29629427295e-16-4.55180388606e-18j)
+Smallest eigenvalue 2.69881041282e-16
+
+=====================================================================
+
+Computing index no. 214, k =   0.578
+start = [2.4582525057688156, -0.0007688056521164778]
+Running with k_par=0.05041 and k_perp= 0.5762.
+Converged after 10 iterations
+
+ RESULT: (2.4582511940804124, -0.0007688501580338234) 
+
+DR residual: (1.00906083461e-15+2.00515388943e-18j)
+Smallest eigenvalue 2.5240977837e-15
+
+=====================================================================
+
+Computing index no. 215, k =   0.589
+start = [2.4663719215435309, -0.00076197002687433115]
+Running with k_par=0.05138 and k_perp= 0.5872.
+Converged after 10 iterations
+
+ RESULT: (2.466370532051823, -0.00076202021854008834) 
+
+DR residual: (-1.60579927359e-16+4.92461930267e-18j)
+Smallest eigenvalue 3.84665841268e-16
+
+=====================================================================
+
+Computing index no. 216, k =   0.601
+start = [2.4747720184040114, -0.00075389913350438662]
+Running with k_par=0.05237 and k_perp= 0.5985.
+Converged after 10 iterations
+
+ RESULT: (2.4747705465090135, -0.00075395516202804251) 
+
+DR residual: (-3.55053175496e-16+8.94242539282e-18j)
+Smallest eigenvalue 7.28948407189e-16
+
+=====================================================================
+
+Computing index no. 217, k =   0.612
+start = [2.4834614713313403, -0.00074458836974458848]
+Running with k_par=0.05337 and k_perp= 0.6101.
+Converged after 10 iterations
+
+ RESULT: (2.4834599120927527, -0.00074465034360841171) 
+
+DR residual: (-6.91839577359e-16+5.73199002054e-18j)
+Smallest eigenvalue 1.42200642106e-15
+
+=====================================================================
+
+Computing index no. 218, k =   0.624
+start = [2.4924491567610589, -0.00073403979730950414]
+Running with k_par= 0.0544 and k_perp= 0.6218.
+Converged after 7 iterations
+
+ RESULT: (2.4924475048612584, -0.00073410777597246782) 
+
+DR residual: (-1.07694106341e-15+1.50386771581e-17j)
+Smallest eigenvalue 1.80244764182e-15
+
+=====================================================================
+
+Computing index no. 219, k =   0.636
+start = [2.5017441520679786, -0.00072226253598721717]
+Running with k_par=0.05545 and k_perp= 0.6337.
+Converged after 10 iterations
+
+ RESULT: (2.5017424017703216, -0.00072233652341926146) 
+
+DR residual: (-2.83436227249e-16+8.08481038244e-18j)
+Smallest eigenvalue 8.05887888268e-16
+
+=====================================================================
+
+Computing index no. 220, k =   0.648
+start = [2.5113557344049622, -0.00070927311361942838]
+Running with k_par=0.05651 and k_perp= 0.6459.
+Converged after 7 iterations
+
+ RESULT: (2.5113538795073169, -0.0007093530518880103) 
+
+DR residual: (-1.84875071285e-15-1.82994015699e-18j)
+Smallest eigenvalue 3.16567956293e-15
+
+=====================================================================
+
+Computing index no. 221, k =   0.661
+start = [2.5212933788072225, -0.00069509576287656873]
+Running with k_par= 0.0576 and k_perp= 0.6584.
+Converged after 10 iterations
+
+ RESULT: (2.521291412589771, -0.00069518152590973266) 
+
+DR residual: (1.04632569139e-16-3.8123222313e-18j)
+Smallest eigenvalue 2.62879402794e-16
+
+=====================================================================
+
+Computing index no. 222, k =   0.674
+start = [2.5315667554614167, -0.00067976265554807328]
+Running with k_par=0.05871 and k_perp=  0.671.
+Converged after 10 iterations
+
+ RESULT: (2.5315646706282635, -0.0006798540432331958) 
+
+DR residual: (-7.41876366568e-16-5.79122800071e-18j)
+Smallest eigenvalue 1.12462624812e-15
+
+=====================================================================
+
+Computing index no. 223, k =   0.687
+start = [2.5421857260273866, -0.00066331406510050542]
+Running with k_par=0.05984 and k_perp= 0.6839.
+Converged after 10 iterations
+
+ RESULT: (2.5421835146419558, -0.00066341079787525167) 
+
+DR residual: (-4.31789235208e-16+1.82546493304e-18j)
+Smallest eigenvalue 8.4130326419e-16
+
+=====================================================================
+
+Computing index no. 224, k =     0.7
+start = [2.5531603388887465, -0.00064579844841178757]
+Running with k_par=0.06099 and k_perp= 0.6971.
+Converged after 10 iterations
+
+ RESULT: (2.5531579923014016, -0.00064590016254159708) 
+
+DR residual: (5.84314617571e-16+5.68877899158e-18j)
+Smallest eigenvalue 1.13876866332e-15
+
+=====================================================================
+
+Computing index no. 225, k =   0.713
+start = [2.5645008231910467, -0.00062727243803614556]
+Running with k_par=0.06216 and k_perp= 0.7105.
+Converged after 10 iterations
+
+ RESULT: (2.5644983319589842, -0.00062737868176665338) 
+
+DR residual: (-1.8185104982e-16+4.92991306881e-18j)
+Smallest eigenvalue 3.49287526255e-16
+
+=====================================================================
+
+Computing index no. 226, k =   0.727
+start = [2.5762175815129003, -0.00060780073696967249]
+Running with k_par=0.06335 and k_perp= 0.7241.
+Converged after 10 iterations
+
+ RESULT: (2.576214935311286, -0.00060791096776753963) 
+
+DR residual: (1.57208741819e-15+1.44236542703e-17j)
+Smallest eigenvalue 2.31543312359e-15
+
+=====================================================================
+
+Computing index no. 227, k =   0.741
+start = [2.5883211809964268, -0.00058745590881520275]
+Running with k_par=0.06457 and k_perp= 0.7381.
+Converged after 10 iterations
+
+ RESULT: (2.5883183685201092, -0.00058756949190989359) 
+
+DR residual: (-1.45679445665e-15+7.27339271813e-18j)
+Smallest eigenvalue 1.83744164616e-15
+
+=====================================================================
+
+Computing index no. 228, k =   0.755
+start = [2.6008223427446211, -0.0005663180574180084]
+Running with k_par=0.06582 and k_perp= 0.7523.
+Converged after 10 iterations
+
+ RESULT: (2.6008193515992546, -0.00056643426586283608) 
+
+DR residual: (6.76606979473e-17+1.04882009608e-18j)
+Smallest eigenvalue 2.30285315483e-16
+
+=====================================================================
+
+Computing index no. 229, k =    0.77
+start = [2.6137319292709478, -0.00054447439152124487]
+Running with k_par=0.06708 and k_perp= 0.7667.
+Converged after 7 iterations
+
+ RESULT: (2.6137287458531517, -0.00054459240798836834) 
+
+DR residual: (1.14623485934e-15+9.26794566343e-18j)
+Smallest eigenvalue 1.40129349535e-15
+
+=====================================================================
+
+Computing index no. 230, k =   0.784
+start = [2.6270609297647698, -0.00052201867175878528]
+Running with k_par=0.06837 and k_perp= 0.7815.
+Converged after 10 iterations
+
+ RESULT: (2.6270575391294133, -0.00052213759226813915) 
+
+DR residual: (1.47994533722e-15+1.82463456519e-18j)
+Smallest eigenvalue 1.79947880882e-15
+
+=====================================================================
+
+Computing index no. 231, k =     0.8
+start = [2.6408204429075708, -0.00049905053935140567]
+Running with k_par=0.06969 and k_perp= 0.7965.
+Converged after 10 iterations
+
+ RESULT: (2.6408168286218987, -0.00049916937911998057) 
+
+DR residual: (-7.54837791038e-16-8.36531190817e-18j)
+Smallest eigenvalue 1.04044552146e-15
+
+=====================================================================
+
+Computing index no. 232, k =   0.815
+start = [2.6550216569494243, -0.00047567472821561231]
+Running with k_par=0.07103 and k_perp= 0.8118.
+Converged after 10 iterations
+
+ RESULT: (2.6550178009318017, -0.00047579242977808037) 
+
+DR residual: (1.48729085484e-15+4.82680982805e-18j)
+Smallest eigenvalue 1.71050876489e-15
+
+=====================================================================
+
+Computing index no. 233, k =   0.831
+start = [2.6696758267204759, -0.00045200016476673187]
+Running with k_par=0.07239 and k_perp= 0.8274.
+Converged after 10 iterations
+
+ RESULT: (2.6696717090628863, -0.00045211560848407894) 
+
+DR residual: (-9.19949688931e-16+1.02975401683e-18j)
+Smallest eigenvalue 1.02384342591e-15
+
+=====================================================================
+
+Computing index no. 234, k =   0.847
+start = [2.6847942472196924, -0.00042813896250181588]
+Running with k_par=0.07378 and k_perp= 0.8434.
+Converged after 10 iterations
+
+ RESULT: (2.6847898459913471, -0.00042825097952165045) 
+
+DR residual: (-2.69337166922e-15-7.59787902346e-18j)
+Smallest eigenvalue 2.80670952493e-15
+
+=====================================================================
+
+Computing index no. 235, k =   0.863
+start = [2.7003882233812351, -0.00040420532140242175]
+Running with k_par= 0.0752 and k_perp= 0.8596.
+Converged after 10 iterations
+
+ RESULT: (2.7003835144120316, -0.00040431270907048818) 
+
+DR residual: (-6.10883435261e-16-2.60965456474e-18j)
+Smallest eigenvalue 5.775193694e-16
+
+=====================================================================
+
+Computing index no. 236, k =   0.879
+start = [2.7164690355782195, -0.00038031434524173026]
+Running with k_par=0.07665 and k_perp= 0.8761.
+Converged after 10 iterations
+
+ RESULT: (2.7164639922185083, -0.00038041588489438725) 
+
+DR residual: (-2.11117930018e-15-4.25752343181e-18j)
+Smallest eigenvalue 1.9347866707e-15
+
+=====================================================================
+
+Computing index no. 237, k =   0.896
+start = [2.7330479003712567, -0.00035658079294824917]
+Running with k_par=0.07812 and k_perp=  0.893.
+Converged after 10 iterations
+
+ RESULT: (2.7330424932253261, -0.00035667526992497103) 
+
+DR residual: (3.03292349789e-15-5.26385624456e-19j)
+Smallest eigenvalue 2.80921740431e-15
+
+=====================================================================
+
+Computing index no. 238, k =   0.914
+start = [2.7501359259559059, -0.00033311778314074319]
+Running with k_par=0.07963 and k_perp= 0.9101.
+Converged after 10 iterations
+
+ RESULT: (2.7501301225849732, -0.00033320400876494621) 
+
+DR residual: (-9.72402271922e-17+2.69659099285e-18j)
+Smallest eigenvalue 6.75982622164e-16
+
+=====================================================================
+
+Computing index no. 239, k =   0.931
+start = [2.7677440616985995, -0.00031003547372893819]
+Running with k_par=0.08116 and k_perp= 0.9276.
+Converged after 10 iterations
+
+ RESULT: (2.7677378262889705, -0.0003101123088988295) 
+
+DR residual: (2.68800526092e-16-2.6862808955e-19j)
+Smallest eigenvalue 6.33434631663e-16
+
+=====================================================================
+
+Computing index no. 240, k =   0.949
+start = [2.785883041079801, -0.00028743974092000938]
+Running with k_par=0.08272 and k_perp= 0.9455.
+Converged after 10 iterations
+
+ RESULT: (2.7858763340696044, -0.00028750612084618341) 
+
+DR residual: (-7.66216291583e-16-5.53094803065e-19j)
+Smallest eigenvalue 4.97761284399e-16
+
+=====================================================================
+
+Computing index no. 241, k =   0.967
+start = [2.8045633172776281, -0.00026543088397549663]
+Running with k_par=0.08431 and k_perp= 0.9637.
+Converged after 10 iterations
+
+ RESULT: (2.8045560949357333, -0.00026548584349170409) 
+
+DR residual: (2.6352161831e-15+1.27610533539e-18j)
+Smallest eigenvalue 2.06055522135e-15
+
+=====================================================================
+
+Computing index no. 242, k =   0.986
+start = [2.8237949905315727, -0.00024410238347675637]
+Running with k_par=0.08593 and k_perp= 0.9822.
+Converged after 10 iterations
+
+ RESULT: (2.8237872044786463, -0.00024414508224812197) 
+
+DR residual: (-2.24485118809e-16-3.69193324998e-18j)
+Smallest eigenvalue 6.62183653078e-16
+
+=====================================================================
+
+Computing index no. 243, k =       1
+start = [2.84358772630973, -0.00022353974156372972]
+Running with k_par=0.08758 and k_perp=  1.001.
+Converged after 10 iterations
+
+ RESULT: (2.8435793229708271, -0.00022356948842259237) 
+
+DR residual: (-1.3183602107e-15+1.32092117919e-18j)
+Smallest eigenvalue 9.39394229376e-16
+
+=====================================================================
+
+Computing index no. 244, k =    1.02
+start = [2.8639506631727158, -0.00020381943248345014]
+Running with k_par=0.08927 and k_perp=   1.02.
+Converged after 10 iterations
+
+ RESULT: (2.8639415831461328, -0.00020383570804950802) 
+
+DR residual: (-2.33068093402e-15-3.80672006232e-18j)
+Smallest eigenvalue 1.26685750077e-15
+
+=====================================================================
+
+Computing index no. 245, k =    1.04
+start = [2.8848923090661103, -0.00018500799073271727]
+Running with k_par=0.09099 and k_perp=   1.04.
+Converged after 10 iterations
+
+ RESULT: (2.8848824863911955, -0.00018501046742198997) 
+
+DR residual: (2.16540233362e-15-4.07460636139e-19j)
+Smallest eigenvalue 1.23619372857e-15
+
+=====================================================================
+
+Computing index no. 246, k =    1.06
+start = [2.9064204245868632, -0.00016716126202006481]
+Running with k_par=0.09274 and k_perp=   1.06.
+Converged after 10 iterations
+
+ RESULT: (2.9064097858865083, -0.00016714982053374523) 
+
+DR residual: (3.45214194417e-15+2.00119357638e-18j)
+Smallest eigenvalue 2.63133030734e-15
+
+=====================================================================
+
+Computing index no. 247, k =    1.08
+start = [2.9285418915362484, -0.00015032383919155344]
+Running with k_par=0.09452 and k_perp=   1.08.
+Converged after 10 iterations
+
+ RESULT: (2.928530355005686, -0.00015029858059537347) 
+
+DR residual: (2.25360355151e-14+3.47254391586e-18j)
+Smallest eigenvalue 1.37441155492e-14
+
+=====================================================================
+
+Computing index no. 248, k =    1.11
+start = [2.9512625647974087, -0.00013452870115167586]
+Running with k_par=0.09634 and k_perp=  1.101.
+Converged after 10 iterations
+
+ RESULT: (2.9512500389991816, -0.00013448995373063915) 
+
+DR residual: (2.53900377138e-14+5.00238735045e-18j)
+Smallest eigenvalue 1.46042905316e-14
+
+=====================================================================
+
+Computing index no. 249, k =    1.13
+start = [2.9745871052261181, -0.00011979706775900158]
+Running with k_par=0.09819 and k_perp=  1.122.
+Converged after 10 iterations
+
+ RESULT: (2.974573487644832, -0.00011974538794775502) 
+
+DR residual: (2.2563516173e-14+5.94008098804e-18j)
+Smallest eigenvalue 1.18966740494e-14
+
+=====================================================================
+
+Computing index no. 250, k =    1.15
+start = [2.9985187908285229, -0.00010613847777684324]
+Running with k_par= 0.1001 and k_perp=  1.144.
+Converged after 10 iterations
+
+ RESULT: (2.9985039661174069, -0.00010607464464484959) 
+
+DR residual: (4.17838018118e-15+8.8031677415e-19j)
+Smallest eigenvalue 2.72860044974e-15
+
+=====================================================================
+
+Computing index no. 251, k =    1.17
+start = [3.0230593029564372, -9.3551090432905399e-05]
+Running with k_par=  0.102 and k_perp=  1.166.
+Converged after 10 iterations
+
+ RESULT: (3.0230431407937535, -9.347609342192136e-05) 
+
+DR residual: (7.4217834705e-15+1.52371988291e-18j)
+Smallest eigenvalue 3.6067756775e-15
+
+=====================================================================
+
+Computing index no. 252, k =    1.19
+start = [3.0482084835903613, -8.2022204188565966e-05]
+Running with k_par=  0.104 and k_perp=  1.188.
+Converged after 10 iterations
+
+ RESULT: (3.0481908360311114, -8.1937224072088004e-05) 
+
+DR residual: (2.17883687514e-14+3.38696655307e-18j)
+Smallest eigenvalue 1.06639850783e-14
+
+=====================================================================
+
+Computing index no. 253, k =    1.22
+start = [3.0739640589171211, -7.1528979259721012e-05]
+Running with k_par=  0.106 and k_perp=  1.211.
+Converged after 10 iterations
+
+ RESULT: (3.0739447570886984, -7.1435362595732285e-05) 
+
+DR residual: (6.31910997689e-14+7.25915438543e-18j)
+Smallest eigenvalue 2.85132752912e-14
+
+=====================================================================
+
+Computing index no. 254, k =    1.24
+start = [3.100321323306094, -6.2039343571238144e-05]
+Running with k_par=  0.108 and k_perp=  1.234.
+Converged after 10 iterations
+
+ RESULT: (3.1003001732399795, -6.1938571244312272e-05) 
+
+DR residual: (-1.38753004986e-14-1.65890326048e-18j)
+Smallest eigenvalue 5.6718887908e-15
+
+=====================================================================
+
+Computing index no. 255, k =    1.26
+start = [3.1272727763391441, -5.3513055523872217e-05]
+Running with k_par= 0.1101 and k_perp=  1.258.
+Converged after 10 iterations
+
+ RESULT: (3.1272495536510516, -5.3406706300516693e-05) 
+
+DR residual: (1.62791960054e-14+6.68535824619e-19j)
+Smallest eigenvalue 6.85341493784e-15
+
+=====================================================================
+
+Computing index no. 256, k =    1.29
+start = [3.1548077036292401, -4.5902891553198898e-05]
+Running with k_par= 0.1122 and k_perp=  1.282.
+Converged after 10 iterations
+
+ RESULT: (3.1547821466392802, -4.5792601909128345e-05) 
+
+DR residual: (-4.5807413288e-14-2.44569545463e-18j)
+Smallest eigenvalue 1.73074827901e-14
+
+=====================================================================
+
+Computing index no. 257, k =    1.31
+start = [3.182911689563678, -3.9155922367841963e-05]
+Running with k_par= 0.1144 and k_perp=  1.307.
+Converged after 10 iterations
+
+ RESULT: (3.1828834902690759, -3.9043344320028183e-05) 
+
+DR residual: (4.9770358013e-15-9.50291338285e-19j)
+Smallest eigenvalue 2.45217274738e-15
+
+=====================================================================
+
+Computing index no. 258, k =    1.34
+start = [3.2115660465369151, -3.321483980247837e-05]
+Running with k_par= 0.1166 and k_perp=  1.332.
+Converged after 10 iterations
+
+ RESULT: (3.2115348385584217, -3.3101600079586187e-05) 
+
+DR residual: (-6.21668690504e-15+2.31817252156e-19j)
+Smallest eigenvalue 1.68282914172e-15
+
+=====================================================================
+
+Computing index no. 259, k =    1.36
+start = [3.2407471401795238, -2.8019300308954574e-05]
+Running with k_par= 0.1188 and k_perp=  1.358.
+Converged after 10 iterations
+
+ RESULT: (3.240712482330824, -2.7906972441411202e-05) 
+
+DR residual: (9.59766571257e-16-1.90077614575e-19j)
+Smallest eigenvalue 4.13079858982e-16
+
+=====================================================================
+
+Computing index no. 260, k =    1.39
+start = [3.2704255827358581, -2.3507282323099012e-05]
+Running with k_par= 0.1211 and k_perp=  1.384.
+Converged after 10 iterations
+
+ RESULT: (3.2703869360352944, -2.3397424985994397e-05) 
+
+DR residual: (-1.97583780371e-14-8.66183565369e-19j)
+Smallest eigenvalue 6.55388105623e-15
+
+=====================================================================
+
+Computing index no. 261, k =    1.42
+start = [3.300565255588193, -1.9616618325679147e-05]
+Running with k_par= 0.1234 and k_perp=  1.411.
+Converged after 10 iterations
+
+ RESULT: (3.3005219500150242, -1.9511122374570997e-05) 
+
+DR residual: (7.95928303427e-15-2.01675328628e-18j)
+Smallest eigenvalue 2.42619150421e-15
+
+=====================================================================
+
+Computing index no. 262, k =    1.44
+start = [3.3311221042019312, -1.6287622924914154e-05]
+Running with k_par= 0.1258 and k_perp=  1.438.
+Converged after 10 iterations
+
+ RESULT: (3.331073288635134, -1.6190365935200465e-05) 
+
+DR residual: (9.63059314243e-15+1.17863138431e-19j)
+Smallest eigenvalue 3.46138575448e-15
+
+=====================================================================
+
+Computing index no. 263, k =    1.47
+start = [3.3620426191930668, -1.3470898080624209e-05]
+Running with k_par= 0.1282 and k_perp=  1.465.
+Converged after 10 iterations
+
+ RESULT: (3.36198718269066, -1.339436362183654e-05) 
+
+DR residual: (9.83196989881e-15+2.37581879461e-19j)
+Smallest eigenvalue 3.42238380837e-15
+
+=====================================================================
+
+Computing index no. 264, k =     1.5
+start = [3.3932618662945933, -1.115606675979573e-05]
+Running with k_par= 0.1307 and k_perp=  1.494.
+Converged after 10 iterations
+
+ RESULT: (3.3931983101339167, -1.1144738987126428e-05) 
+
+DR residual: (-6.74668581792e-15-1.61422428501e-19j)
+Smallest eigenvalue 2.25810481435e-15
+
+=====================================================================
+
+Computing index no. 265, k =    1.53
+start = [3.4247008412102202, -9.4753070446603133e-06]
+Running with k_par= 0.1332 and k_perp=  1.522.
+Converged after 10 iterations
+
+ RESULT: (3.4246270703788766, -9.6791971702251847e-06) 
+
+DR residual: (-1.84471399037e-14-3.61393334325e-19j)
+Smallest eigenvalue 4.82568787037e-15
+
+=====================================================================
+
+Computing index no. 266, k =    1.56
+start = [3.4562627894747102, -9.0449480079273035e-06]
+Running with k_par= 0.1357 and k_perp=  1.552.
+Converged after 10 iterations
+
+ RESULT: (3.4561757904492003, -9.9244715805170563e-06) 
+
+DR residual: (7.09457939851e-15-5.99647320653e-17j)
+Smallest eigenvalue 1.71352506448e-15
+
+=====================================================================
+
+Computing index no. 267, k =    1.59
+start = [3.4878279622350559, -1.198099938470561e-05]
+Running with k_par= 0.1384 and k_perp=  1.581.
+Converged after 10 iterations
+
+ RESULT: (3.4877233741669063, -1.4808948574464592e-05) 
+
+DR residual: (-1.08709472904e-14-3.88666997269e-20j)
+Smallest eigenvalue 2.66083734502e-15
+
+=====================================================================
+
+Computing index no. 268, k =    1.62
+start = [3.519246192090951, -2.4601831164402024e-05]
+Running with k_par=  0.141 and k_perp=  1.612.
+Converged after 10 iterations
+
+ RESULT: (3.5191179278078457, -3.2527705568336391e-05) 
+
+DR residual: (-1.07242542241e-14+8.49236248805e-20j)
+Smallest eigenvalue 2.05232027859e-15
+
+=====================================================================
+
+Computing index no. 269, k =    1.65
+start = [3.5503270027134866, -6.3822347033934412e-05]
+Running with k_par= 0.1437 and k_perp=  1.643.
+Converged after 10 iterations
+
+ RESULT: (3.5501674127651275, -8.3763457478301217e-05) 
+
+DR residual: (1.05551630262e-14+5.07889887814e-19j)
+Smallest eigenvalue 3.18782847212e-15
+
+=====================================================================
+
+Computing index no. 270, k =    1.68
+start = [3.5808283435037809, -0.00017044921343793012]
+Running with k_par= 0.1465 and k_perp=  1.674.
+Converged after 10 iterations
+
+ RESULT: (3.5806299110560027, -0.00021570021993849229) 
+
+DR residual: (-2.40402545294e-14+1.0891887193e-18j)
+Smallest eigenvalue 4.59197213735e-15
+
+=====================================================================
+
+Computing index no. 271, k =    1.71
+start = [3.6104481473377481, -0.00043298581934542169]
+Running with k_par= 0.1493 and k_perp=  1.707.
+Converged after 10 iterations
+
+ RESULT: (3.6102079505907394, -0.0005253531794034643) 
+
+DR residual: (1.87765377157e-14-4.6179725142e-18j)
+Smallest eigenvalue 3.48033192492e-15
+
+=====================================================================
+
+Computing index no. 272, k =    1.75
+start = [3.6388274210253888, -0.001022943302310203]
+Running with k_par= 0.1522 and k_perp=  1.739.
+Converged after 10 iterations
+
+ RESULT: (3.6385546063871157, -0.0011915362517471806) 
+
+DR residual: (-1.41717522071e-14+1.86936019009e-17j)
+Smallest eigenvalue 3.13359186841e-15
+
+=====================================================================
+
+Computing index no. 273, k =    1.78
+start = [3.6655762836807315, -0.0022347209192204454]
+Running with k_par= 0.1551 and k_perp=  1.773.
+Converged after 10 iterations
+
+ RESULT: (3.6652995808304412, -0.0025078513985553005) 
+
+DR residual: (1.40815469615e-14-1.676861489e-17j)
+Smallest eigenvalue 2.55669117088e-15
+
+=====================================================================
+
+Computing index no. 274, k =    1.81
+start = [3.6903286966641402, -0.0045115525011458768]
+Running with k_par= 0.1581 and k_perp=  1.807.
+Converged after 10 iterations
+
+ RESULT: (3.6900969360004665, -0.0049015354120332828) 
+
+DR residual: (3.40744742829e-14+1.71358901779e-17j)
+Smallest eigenvalue 5.24537759097e-15
+
+=====================================================================
+
+Computing index no. 275, k =    1.85
+start = [3.7128136032233545, -0.008434165104533875]
+Running with k_par= 0.1611 and k_perp=  1.842.
+Converged after 10 iterations
+
+ RESULT: (3.7126828054361654, -0.0089226925377988622) 
+
+DR residual: (-1.87169183315e-14+5.87686280167e-17j)
+Smallest eigenvalue 3.30667300962e-15
+
+=====================================================================
+
+Computing index no. 276, k =    1.88
+start = [3.7329102530966205, -0.014664038007469182]
+Running with k_par= 0.1642 and k_perp=  1.877.
+Converged after 10 iterations
+
+ RESULT: (3.7329205924252586, -0.015200808596407179) 
+
+DR residual: (2.41729214605e-15-4.74008042098e-17j)
+Smallest eigenvalue 1.06776103599e-15
+
+=====================================================================
+
+Computing index no. 277, k =    1.92
+start = [3.7506570808564224, -0.023863935848608797]
+Running with k_par= 0.1674 and k_perp=  1.913.
+Converged after 10 iterations
+
+ RESULT: (3.7508144946785005, -0.024383577651810807) 
+
+DR residual: (-1.04293470113e-14+3.90120581452e-16j)
+Smallest eigenvalue 1.72258493045e-15
+
+=====================================================================
+
+Computing index no. 278, k =    1.96
+start = [3.7662132935962296, -0.036634976141039832]
+Running with k_par= 0.1706 and k_perp=   1.95.
+Converged after 10 iterations
+
+ RESULT: (3.7664888271273926, -0.037081749656764348) 
+
+DR residual: (-9.19027277645e-14+7.10516324387e-16j)
+Smallest eigenvalue 1.33918212382e-14
+
+=====================================================================
+
+Computing index no. 279, k =       2
+start = [3.779801340437555, -0.053492596221015098]
+Running with k_par= 0.1739 and k_perp=  1.988.
+Converged after 10 iterations
+
+ RESULT: (3.7801464351948488, -0.053836716921682327) 
+
+DR residual: (5.3762264291e-14-2.66754834583e-16j)
+Smallest eigenvalue 6.93202533664e-15
+
+=====================================================================
+
+Computing index no. 280, k =    2.03
+start = [3.7916585060196639, -0.074874562650797394]
+Running with k_par= 0.1772 and k_perp=  2.026.
+Converged after 10 iterations
+
+ RESULT: (3.7920235960556576, -0.075113630888962474) 
+
+DR residual: (-5.05672375175e-14+1.09486301615e-15j)
+Smallest eigenvalue 4.9858963253e-15
+
+=====================================================================
+
+Computing index no. 281, k =    2.07
+start = [3.8020067231116497, -0.10116255489100379]
+Running with k_par= 0.1806 and k_perp=  2.065.
+Converged after 10 iterations
+
+ RESULT: (3.8023530569177377, -0.10131322353031286) 
+
+DR residual: (-1.92858860424e-14-1.92503817217e-15j)
+Smallest eigenvalue 2.93341351505e-15
+
+=====================================================================
+
+Computing index no. 282, k =    2.11
+start = [3.8110360759968298, -0.13270545022081492]
+Running with k_par= 0.1841 and k_perp=  2.104.
+Converged after 10 iterations
+
+ RESULT: (3.8113390434446934, -0.13279345727846587) 
+
+DR residual: (-1.30720749137e-14+1.53260479136e-15j)
+Smallest eigenvalue 2.02765859104e-15
+
+=====================================================================
+
+Computing index no. 283, k =    2.15
+start = [3.8188958286588357, -0.16984139673426046]
+Running with k_par= 0.1877 and k_perp=  2.145.
+Converged after 10 iterations
+
+ RESULT: (3.819143066626149, -0.1698946561472712) 
+
+DR residual: (-5.59138700754e-15-1.45882424493e-15j)
+Smallest eigenvalue 9.71037269353e-16
+
+=====================================================================
+
+Computing index no. 284, k =    2.19
+start = [3.825689781428701, -0.21291970238809643]
+Running with k_par= 0.1913 and k_perp=  2.186.
+Converged after 10 iterations
+
+ RESULT: (3.8258776766844478, -0.21296534692105537) 
+
+DR residual: (-1.54699052013e-14-1.02369266651e-15j)
+Smallest eigenvalue 1.52990189693e-15
+
+=====================================================================
+
+Computing index no. 285, k =    2.24
+start = [3.8314749468772931, -0.26232445162994811]
+Running with k_par= 0.1949 and k_perp=  2.228.
+Converged after 10 iterations
+
+ RESULT: (3.8316056372859326, -0.2623890739910133) 
+
+DR residual: (1.58397050348e-14-3.04393728062e-15j)
+Smallest eigenvalue 1.62137971736e-15
+
+=====================================================================
+
+Computing index no. 286, k =    2.28
+start = [3.8362634649432374, -0.31850257223414058]
+Running with k_par= 0.1987 and k_perp=  2.271.
+Converged after 10 iterations
+
+ RESULT: (3.8363431113100743, -0.31861497690936796) 
+
+DR residual: (-3.47564307993e-15-8.34531907967e-15j)
+Smallest eigenvalue 3.49394883718e-15
+
+=====================================================================
+
+Computing index no. 287, k =    2.32
+start = [3.8400283056625497, -0.38200112587142421]
+Running with k_par= 0.2025 and k_perp=  2.315.
+Converged after 10 iterations
+
+ RESULT: (3.8400667680589584, -0.38219779443036334) 
+
+DR residual: (1.05906203178e-14+2.37787786075e-15j)
+Smallest eigenvalue 4.80612558564e-16
+
+=====================================================================
+
+Computing index no. 288, k =    2.37
+start = [3.8427141994719829, -0.45352272847518815]
+Running with k_par= 0.2064 and k_perp=  2.359.
+Converged after 10 iterations
+
+ RESULT: (3.8427261250384861, -0.45385763867147783) 
+
+DR residual: (1.76211485334e-14-9.80171446798e-15j)
+Smallest eigenvalue 2.05836259973e-15
+
+=====================================================================
+
+Computing index no. 289, k =    2.41
+start = [3.8442566000143623, -0.53401603174361156]
+Running with k_par= 0.2104 and k_perp=  2.405.
+Converged after 10 iterations
+
+ RESULT: (3.8442641293575135, -0.53457894252837967) 
+
+DR residual: (4.44082027157e-14-1.05479232466e-15j)
+Smallest eigenvalue 4.61323367803e-15
+
+=====================================================================
+
+Computing index no. 290, k =    2.46
+start = [3.8446136807874405, -0.62483435886379457]
+Running with k_par= 0.2144 and k_perp=  2.451.
+Converged after 10 iterations
+
+ RESULT: (3.8446517219060405, -0.62578666499816027) 
+
+DR residual: (6.01973463457e-14-3.06888618823e-15j)
+Smallest eigenvalue 3.97048246208e-15
+
+=====================================================================
+
+Computing index no. 291, k =    2.51
+start = [3.8438209525981555, -0.72802943461516634]
+Running with k_par= 0.2185 and k_perp=  2.498.
+Converged after 13 iterations
+
+ RESULT: (3.8439490872739461, -0.72967716288242324) 
+
+DR residual: (9.75991481459e-14-1.49737177759e-14j)
+Smallest eigenvalue 2.55472423848e-15
+
+=====================================================================
+
+Computing index no. 292, k =    2.56
+start = [3.842092629367269, -0.84691876912518538]
+Running with k_par= 0.2227 and k_perp=  2.546.
+Converged after 13 iterations
+
+ RESULT: (3.8424345380542677, -0.84985721149024429) 
+
+DR residual: (-1.35290535668e-13-5.58260515254e-15j)
+Smallest eigenvalue 3.97121349895e-15
+
+=====================================================================
+
+Computing index no. 293, k =     2.6
+start = [3.8400614533090236, -0.98719510700293434]
+Running with k_par=  0.227 and k_perp=  2.595.
+Converged after 13 iterations
+
+ RESULT: (3.8410051207129334, -0.99247177495837313) 
+
+DR residual: (2.85216455847e-14-2.61187554581e-14j)
+Smallest eigenvalue 2.67907559662e-15
+
+=====================================================================
+
+Computing index no. 294, k =    2.66
+start = [3.8396669098358434, -1.1587338047392564]
+Running with k_par= 0.2314 and k_perp=  2.645.
+Converged after 13 iterations
+
+ RESULT: (3.8430634204818444, -1.1659956182484565) 
+
+DR residual: (2.44035196296e-13-2.04713146721e-13j)
+Smallest eigenvalue 1.09925159607e-14
+
+=====================================================================
+
+Computing index no. 295, k =    2.71
+start = [3.8488130274742263, -1.3721170438281689]
+Running with k_par= 0.2358 and k_perp=  2.696.
+(1.71948196176+0.847005846598j) (-2.31520585131-1.16699358141j)
+(1.71948196176+0.847005846598j) (-2.31520585131-1.16699358141j)
+(1.71948196176+0.847005846598j) (-2.31520585131-1.16699358141j)
+(1.7194818915+0.847006157468j) (-2.31520575511-1.16699400511j)
+(1.71948185093+0.84700582155j) (-2.31520570026-1.16699354712j)
+Converged after 16 iterations
+
+ RESULT: (3.8532171047783694, -1.3549667019780649) 
+
+DR residual: (1.73201508249e-13+1.07196424677e-13j)
+Smallest eigenvalue 1.243436961e-14
+
+=====================================================================
+
+Computing index no. 296, k =    2.76
+start = [3.871934713813145, -1.5601524030803002]
+Running with k_par= 0.2404 and k_perp=  2.748.
+(2.80292507367+2.1458247025j) (-3.7788413226-2.92827074724j)
+(2.80292507367+2.1458247025j) (-3.7788413226-2.92827074724j)
+(2.80292507367+2.1458247025j) (-3.7788413226-2.92827074724j)
+(2.8029247652+2.14582528025j) (-3.77884090322-2.92827153195j)
+(2.80292484088+2.14582457821j) (-3.77884100641-2.92827057825j)
+(2.43666570534+1.66997536647j) (-3.28156066287-2.28159073738j)
+(2.43666548957+1.66997584956j) (-3.28156036941-2.28159139353j)
+(2.43666551597+1.66997528189j) (-3.28156040567-2.28159062235j)
+Converged after 19 iterations
+
+ RESULT: (3.8311823842929051, -1.4922712110996004) 
+
+DR residual: (-1.30854025495e-12-3.9826846478e-13j)
+Smallest eigenvalue 1.94955324968e-14
+
+=====================================================================
+
+Computing index no. 297, k =    2.81
+start = [3.7750825799254883, -1.5747678636737703]
+Running with k_par=  0.245 and k_perp=    2.8.
+Converged after 13 iterations
+
+ RESULT: (3.7718879294924865, -1.5741508067981012) 
+
+DR residual: (-3.63830888476e-13+7.49367473022e-13j)
+Smallest eigenvalue 2.5458327839e-15
+
+=====================================================================
+
+Computing index no. 298, k =    2.87
+start = [3.6731866238350008, -1.5972845596555061]
+Running with k_par= 0.2497 and k_perp=  2.854.
+(3.50724043119+2.42176053059j) (-4.69740650457-3.27546923958j)
+(3.50724009322+2.42176124252j) (-4.69740604902-3.2754701984j)
+(3.50724011894+2.42176038236j) (-4.69740608403-3.27546903978j)
+Converged after 19 iterations
+
+ RESULT: (3.7022618711335706, -1.6267858405912179) 
+
+DR residual: (5.0810465265e-13-5.06467896432e-13j)
+Smallest eigenvalue 3.17065668907e-14
+
+=====================================================================
+
+Computing index no. 299, k =    2.92
+start = [3.6217485668605667, -1.6484170030971939]
+Running with k_par= 0.2545 and k_perp=  2.909.
+(4.008432223+2.56879823434j) (-5.3475171452-3.45694481011j)
+(4.00843187307+2.56879904188j) (-5.34751667582-3.45694589251j)
+(4.0084318525+2.56879807379j) (-5.3475166486-3.45694459477j)
+Converged after 16 iterations
+
+ RESULT: (3.6312980428851112, -1.6652857573062865) 
+
+DR residual: (9.36243510672e-13-1.51363282476e-12j)
+Smallest eigenvalue 1.98642867166e-14
+
+=====================================================================
+
+Computing index no. 300, k =    2.98
+start = [3.5589707670716448, -1.6887904555013584]
+Running with k_par= 0.2594 and k_perp=  2.965.
+Converged after 16 iterations
+
+ RESULT: (3.5611922187546656, -1.6963511094299926) 
+
+DR residual: (-8.32926915242e-13-3.23744374143e-14j)
+Smallest eigenvalue 8.30683751854e-15
+
+=====================================================================
+
+Computing index no. 301, k =    3.03
+start = [3.49204722301549, -1.719521436246902]
+Running with k_par= 0.2644 and k_perp=  3.022.
+Converged after 13 iterations
+
+ RESULT: (3.4924859215525599, -1.7231086368836392) 
+
+DR residual: (-8.98887056063e-13+5.19164862561e-13j)
+Smallest eigenvalue 5.69817229972e-15
+
+=====================================================================
+
+Computing index no. 302, k =    3.09
+start = [3.4253127795116818, -1.7452849932664387]
+Running with k_par= 0.2695 and k_perp=   3.08.
+Converged after 13 iterations
+
+ RESULT: (3.4252873986397598, -1.747160619175556) 
+
+DR residual: (-3.71410132564e-13-2.59379493507e-13j)
+Smallest eigenvalue 3.58724021979e-14
+
+=====================================================================
+
+Computing index no. 303, k =    3.15
+start = [3.3597355185925561, -1.768329967507448]
+Running with k_par= 0.2747 and k_perp=   3.14.
+Converged after 13 iterations
+
+ RESULT: (3.3595826616778659, -1.7693985427985819) 
+
+DR residual: (2.4682136926e-12-1.0981413716e-12j)
+Smallest eigenvalue 1.43304519513e-14
+
+=====================================================================
+
+Computing index no. 304, k =    3.21
+start = [3.2955086408343224, -1.7896991059610863]
+Running with k_par=   0.28 and k_perp=    3.2.
+Converged after 13 iterations
+
+ RESULT: (3.2953243483713308, -1.7903523637526497) 
+
+DR residual: (1.23383057133e-14+7.06182905468e-14j)
+Smallest eigenvalue 5.54689745209e-15
+
+=====================================================================
+
+Computing index no. 305, k =    3.27
+start = [3.2326455229892028, -1.8099309082914459]
+Running with k_par= 0.2853 and k_perp=  3.261.
+Converged after 13 iterations
+
+ RESULT: (3.2324589652597413, -1.8103542685899292) 
+
+DR residual: (9.05573159738e-13-2.07059979835e-13j)
+Smallest eigenvalue 3.88927603779e-14
+
+=====================================================================
+
+Computing index no. 306, k =    3.34
+start = [3.1711153900677571, -1.8293333318420468]
+Running with k_par= 0.2908 and k_perp=  3.324.
+Converged after 13 iterations
+
+ RESULT: (3.1709352272715581, -1.8296216533471819) 
+
+DR residual: (-5.47912282569e-14+2.17492909797e-13j)
+Smallest eigenvalue 1.62521060139e-14
+
+=====================================================================
+
+Computing index no. 307, k =     3.4
+start = [3.1108779937760929, -1.8480969271456553]
+Running with k_par= 0.2964 and k_perp=  3.388.
+Converged after 10 iterations
+
+ RESULT: (3.1107062352710755, -1.8483020003790023) 
+
+DR residual: (5.1792374453e-13+9.85588435693e-13j)
+Smallest eigenvalue 6.94711705921e-15
+
+=====================================================================
+
+Computing index no. 308, k =    3.47
+start = [3.0518931232563382, -1.8663468313227716]
+Running with k_par= 0.3021 and k_perp=  3.453.
+Converged after 10 iterations
+
+ RESULT: (3.0517296244671361, -1.8664985071090823) 
+
+DR residual: (-7.81354436887e-13-4.26594862117e-13j)
+Smallest eigenvalue 2.79872058529e-14
+
+=====================================================================
+
+Computing index no. 309, k =    3.53
+start = [2.9941231018123986, -1.8841691260290565]
+Running with k_par= 0.3079 and k_perp=   3.52.
+Converged after 10 iterations
+
+ RESULT: (2.993967094889479, -1.8842854096392274) 
+
+DR residual: (-5.50842802183e-13+1.47026531715e-12j)
+Smallest eigenvalue 4.92749872254e-14
+
+=====================================================================
+
+Computing index no. 310, k =     3.6
+start = [2.9375331941206815, -1.9016253325308443]
+Running with k_par= 0.3139 and k_perp=  3.587.
+Converged after 10 iterations
+
+ RESULT: (2.9373838113559994, -1.9017175117362559) 
+
+DR residual: (-5.84040213314e-13-7.19547932695e-13j)
+Smallest eigenvalue 2.89265931343e-14
+
+=====================================================================
+
+Computing index no. 311, k =    3.67
+start = [2.8820913918761288, -1.9187609262008527]
+Running with k_par= 0.3199 and k_perp=  3.656.
+Converged after 10 iterations
+
+ RESULT: (2.8819478319896223, -1.9188363174433865) 
+
+DR residual: (1.71269596945e-12-1.80866310542e-12j)
+Smallest eigenvalue 3.07966150319e-14
+
+=====================================================================
+
+Computing index no. 312, k =    3.74
+start = [2.8277680392513069, -1.9356106145884164]
+Running with k_par=  0.326 and k_perp=  3.727.
+Converged after 10 iterations
+
+ RESULT: (2.8276296057883772, -1.9356741013510941) 
+
+DR residual: (1.39781109419e-12+6.16279486839e-15j)
+Smallest eigenvalue 2.72727466086e-14
+
+=====================================================================
+
+Computing index no. 313, k =    3.81
+start = [2.7745354423535984, -1.952201759385422]
+Running with k_par= 0.3323 and k_perp=  3.798.
+Converged after 10 iterations
+
+ RESULT: (2.7744015386463681, -1.9522566873871297) 
+
+DR residual: (-1.02794424116e-12-1.86553296271e-13j)
+Smallest eigenvalue 3.4013462501e-14
+
+=====================================================================
+
+Computing index no. 314, k =    3.89
+start = [2.7223675030084937, -1.9685566808972799]
+Running with k_par= 0.3387 and k_perp=  3.871.
+Converged after 10 iterations
+
+ RESULT: (2.7222376156438521, -1.9686053957256893) 
+
+DR residual: (-8.43490545513e-13-2.7364091761e-12j)
+Smallest eigenvalue 4.41430040319e-14
+
+=====================================================================
+
+Computing index no. 315, k =    3.96
+start = [2.6712393843782163, -1.9846942603236029]
+Running with k_par= 0.3452 and k_perp=  3.946.
+Converged after 10 iterations
+
+ RESULT: (2.6711130671242374, -1.9847384388091855) 
+
+DR residual: (-2.41801461984e-13-1.0336398254e-12j)
+Smallest eigenvalue 3.59481569561e-14
+
+=====================================================================
+
+Computing index no. 316, k =    4.04
+start = [2.6211272075768495, -2.0006310828238907]
+Running with k_par= 0.3519 and k_perp=  4.022.
+Converged after 10 iterations
+
+ RESULT: (2.6210040695438868, -2.0006719417775596) 
+
+DR residual: (-8.3764516592e-13+2.00881930824e-13j)
+Smallest eigenvalue 1.8984251448e-14
+
+=====================================================================
+
+Computing index no. 317, k =    4.11
+start = [2.5720077777225683, -2.0163822682396937]
+Running with k_par= 0.3586 and k_perp=  4.099.
+Converged after 10 iterations
+
+ RESULT: (2.571887475755902, -2.0164206983988087) 
+
+DR residual: (-1.77257938722e-12+6.25367115068e-13j)
+Smallest eigenvalue 6.04919894345e-15
+
+=====================================================================
+
+Computing index no. 318, k =    4.19
+start = [2.5238583379806636, -2.0319620803514566]
+Running with k_par= 0.3655 and k_perp=  4.178.
+Converged after 10 iterations
+
+ RESULT: (2.5237405713824725, -2.03199873329166) 
+
+DR residual: (-1.85294389094e-12-8.92506095585e-13j)
+Smallest eigenvalue 9.17787071015e-15
+
+=====================================================================
+
+Computing index no. 319, k =    4.27
+start = [2.4766563484627255, -2.0473843704924923]
+Running with k_par= 0.3726 and k_perp=  4.258.
+Converged after 10 iterations
+
+ RESULT: (2.4765408535599391, -2.0474197141560588) 
+
+DR residual: (1.25101475169e-12+2.12933921477e-12j)
+Smallest eigenvalue 2.13427487999e-14
+
+=====================================================================
+
+Computing index no. 320, k =    4.36
+start = [2.4303792833934228, -2.0626628861860388]
+Running with k_par= 0.3797 and k_perp=   4.34.
+Converged after 10 iterations
+
+ RESULT: (2.4302658263119259, -2.0626972371358656) 
+
+DR residual: (7.30921888892e-13-3.33241068937e-12j)
+Smallest eigenvalue 2.74485852805e-14
+
+=====================================================================
+
+Computing index no. 321, k =    4.44
+start = [2.3850044370166383, -2.077811454219423]
+Running with k_par=  0.387 and k_perp=  4.424.
+Converged after 10 iterations
+
+ RESULT: (2.3848928052397218, -2.0778449906551932) 
+
+DR residual: (6.23425311246e-13+4.62071312847e-12j)
+Smallest eigenvalue 3.27069171605e-14
+
+=====================================================================
+
+Computing index no. 322, k =    4.53
+start = [2.3405087298555163, -2.0928440287003167]
+Running with k_par= 0.3945 and k_perp=  4.509.
+Converged after 10 iterations
+
+ RESULT: (2.3403987259284325, -2.0928767875517935) 
+
+DR residual: (-3.03006250462e-12-2.00596759071e-12j)
+Smallest eigenvalue 1.21701351203e-14
+
+=====================================================================
+
+Computing index no. 323, k =    4.61
+start = [2.296868514900436, -2.1077745808104913]
+Running with k_par= 0.4021 and k_perp=  4.596.
+Converged after 10 iterations
+
+ RESULT: (2.2967599573531357, -2.1078064444500795) 
+
+DR residual: (-1.18155169109e-12-3.80650320329e-12j)
+Smallest eigenvalue 2.75924195687e-14
+
+=====================================================================
+
+Computing index no. 324, k =     4.7
+start = [2.2540593973714689, -2.1226168032366179]
+Running with k_par= 0.4098 and k_perp=  4.684.
+Converged after 10 iterations
+
+ RESULT: (2.2539521328601468, -2.1226474848909564) 
+
+DR residual: (5.33863946905e-12-5.18569117326e-12j)
+Smallest eigenvalue 2.95078133077e-14
+
+=====================================================================
+
+Computing index no. 325, k =    4.79
+start = [2.2120560965761555, -2.1373836123246406]
+Running with k_par= 0.4177 and k_perp=  4.774.
+Converged after 10 iterations
+
+ RESULT: (2.2119500230049973, -2.1374126513126437) 
+
+DR residual: (4.54733662189e-12+3.10436387608e-12j)
+Smallest eigenvalue 4.99575318002e-14
+
+=====================================================================
+
+Computing index no. 326, k =    4.88
+start = [2.1708323862826653, -2.1520864532718318]
+Running with k_par= 0.4257 and k_perp=  4.866.
+Converged after 10 iterations
+
+ RESULT: (2.1707274810979493, -2.1521132292665697) 
+
+DR residual: (-5.71039328364e-12+1.21965244068e-13j)
+Smallest eigenvalue 1.70948065914e-14
+
+=====================================================================
+
+Computing index no. 327, k =    4.98
+start = [2.1303611455839411, -2.1667344403011262]
+Running with k_par= 0.4339 and k_perp=  4.959.
+Converged after 10 iterations
+
+ RESULT: (2.130257489859273, -2.1667582096633269) 
+
+DR residual: (1.62655448591e-12+5.45632887408e-13j)
+Smallest eigenvalue 1.32850734263e-14
+
+=====================================================================
+
+Computing index no. 328, k =    5.07
+start = [2.09061453665971, -2.1813333843702143]
+Running with k_par= 0.4422 and k_perp=  5.055.
+Converged after 10 iterations
+
+ RESULT: (2.0905123265533416, -2.1813533338762898) 
+
+DR residual: (1.09836784571e-11-5.95949652201e-12j)
+Smallest eigenvalue 8.76744216317e-14
+
+=====================================================================
+
+Computing index no. 329, k =    5.17
+start = [2.0515643066917484, -2.1958847686844201]
+Running with k_par= 0.4507 and k_perp=  5.152.
+Converged after 10 iterations
+
+ RESULT: (2.0514638491233965, -2.1959000766008065) 
+
+DR residual: (-5.15410049283e-13+1.73595280383e-12j)
+Smallest eigenvalue 9.12718242837e-15
+
+=====================================================================
+
+Computing index no. 330, k =    5.27
+start = [2.0131821975788426, -2.2103847274846311]
+Running with k_par= 0.4594 and k_perp=  5.251.
+Converged after 10 iterations
+
+ RESULT: (2.0130838936654452, -2.2103946214743093) 
+
+DR residual: (1.34683328101e-11+1.3685947493e-11j)
+Smallest eigenvalue 1.08727713287e-13
+
+=====================================================================
+
+Computing index no. 331, k =    5.37
+start = [1.975440444437166, -2.2248230726741816]
+Running with k_par= 0.4682 and k_perp=  5.352.
+Converged after 10 iterations
+
+ RESULT: (1.9753447689139378, -2.224826878175501) 
+
+DR residual: (1.35398127721e-12-1.92814782855e-12j)
+Smallest eigenvalue 2.32626642189e-14
+
+=====================================================================
+
+Computing index no. 332, k =    5.48
+start = [1.9383123518550396, -2.2391824039496431]
+Running with k_par= 0.4772 and k_perp=  5.455.
+Converged after 10 iterations
+
+ RESULT: (1.9382198375662676, -2.2391795830421866) 
+
+DR residual: (1.38678290378e-11-8.20588775295e-12j)
+Smallest eigenvalue 6.91505186561e-14
+
+=====================================================================
+
+Computing index no. 333, k =    5.58
+start = [1.9017729512203045, -2.2534373373869676]
+Running with k_par= 0.4864 and k_perp=   5.56.
+(17.1527377689+20.671668132j) (-19.2818653126-23.2279545996j)
+(17.1527377689+20.671668132j) (-19.2818653126-23.2279545996j)
+(17.1527377689+20.671668132j) (-19.2818653126-23.2279545996j)
+(17.1527353254+20.6716705423j) (-19.2818625586-23.2279573015j)
+(17.152734913+20.6716652367j) (-19.281862111-23.2279513364j)
+Converged after 10 iterations
+
+ RESULT: (1.9016841851227255, -2.2534275241167063) 
+
+DR residual: (-1.45237590654e-11+8.52650845012e-12j)
+Smallest eigenvalue 8.27448436233e-14
+
+=====================================================================
+
+Computing index no. 334, k =    5.69
+start = [1.8657997577266165, -2.267553898136617]
+Running with k_par= 0.4958 and k_perp=  5.667.
+(17.6246974517+21.7538093725j) (-19.7558258709-24.3464282683j)
+(17.6246974517+21.7538093725j) (-19.7558258709-24.3464282683j)
+(17.6246974517+21.7538093725j) (-19.7558258709-24.3464282683j)
+(17.6246949226+21.7538118103j) (-19.7558230304-24.346430993j)
+(17.6246944889+21.7538062988j) (-19.7558225595-24.3464248162j)
+Converged after 10 iterations
+
+ RESULT: (1.8657153901993104, -2.2675369403007926) 
+
+DR residual: (2.22302424105e-11-1.77639979261e-12j)
+Smallest eigenvalue 1.00449669084e-13
+
+=====================================================================
+
+Computing index no. 335, k =     5.8
+start = [1.8303736568618287, -2.2814891461615896]
+Running with k_par= 0.5053 and k_perp=  5.776.
+(18.1011782076+22.8822644745j) (-20.236026883-25.5070554016j)
+(18.1011782076+22.8822644745j) (-20.236026883-25.5070554016j)
+(18.1011782076+22.8822644745j) (-20.236026883-25.5070554016j)
+(18.101175594+22.8822669355j) (-20.2360239581-25.5070581449j)
+(18.10117514+22.8822612168j) (-20.2360234636-25.5070517558j)
+Converged after 10 iterations
+
+ RESULT: (1.8302944207581913, -2.2814651653350917) 
+
+DR residual: (5.2910695979e-12+5.57801845296e-12j)
+Smallest eigenvalue 4.26446531513e-14
+
+=====================================================================
+
+Computing index no. 336, k =    5.91
+start = [1.7954799523443459, -2.2951911397330811]
+Running with k_par=  0.515 and k_perp=  5.887.
+(18.5826965228+24.0589678219j) (-20.7230883411-26.7111491248j)
+(18.5826965228+24.0589678219j) (-20.7230883411-26.7111491248j)
+(18.5826965228+24.0589678219j) (-20.7230883411-26.7111491248j)
+(18.582693826+24.0589703013j) (-20.7230853339-26.7111518819j)
+(18.5826933533+24.0589643745j) (-20.7230848166-26.7111452806j)
+Converged after 10 iterations
+
+ RESULT: (1.7954066825509163, -2.2951606209342512) 
+
+DR residual: (-2.6161718122e-11-5.62338950652e-12j)
+Smallest eigenvalue 1.16441258265e-13
+
+=====================================================================
+
+Computing index no. 337, k =    6.02
+start = [1.7611095945071842, -2.3085993879273836]
+Running with k_par= 0.5249 and k_perp=      6.
+(19.0699012483+25.2860305871j) (-21.217618366-27.9602462374j)
+(19.0699012483+25.2860305871j) (-21.217618366-27.9602462374j)
+(19.0699012483+25.2860305871j) (-21.217618366-27.9602462374j)
+(19.0698984695+25.2860330797j) (-21.2176152788-27.9602490034j)
+(19.0698979807+25.2860269444j) (-21.2176147401-27.9602421905j)
+Converged after 10 iterations
+
+ RESULT: (1.7610432324538399, -2.3085633072676961) 
+
+DR residual: (-8.85186360506e-12+6.33102411058e-12j)
+Smallest eigenvalue 4.18344245384e-14
+
+=====================================================================
+
+Computing index no. 338, k =    6.14
+start = [1.7272605718275189, -2.3216459949867119]
+Running with k_par=  0.535 and k_perp=  6.116.
+(19.5635540234+26.5657600545j) (-21.7201505766-29.2561811563j)
+(19.5635540234+26.5657600545j) (-21.7201505766-29.2561811563j)
+(19.5635540234+26.5657600545j) (-21.7201505766-29.2561811563j)
+(19.5635511635+26.5657625549j) (-21.7201474114-29.2561839258j)
+(19.5635506625+26.5657562105j) (-21.720146854-29.2561769019j)
+Converged after 10 iterations
+
+ RESULT: (1.7272021322048192, -2.3216059861855398) 
+
+DR residual: (-1.0076078553e-11+2.81927668866e-12j)
+Smallest eigenvalue 5.09566894334e-14
+
+=====================================================================
+
+Computing index no. 339, k =    6.26
+start = [1.693939379028591, -2.3342577426645401]
+Running with k_par= 0.5453 and k_perp=  6.233.
+(20.0644918196+27.9006743591j) (-22.2310671839-30.6011692623j)
+(20.0644918196+27.9006743591j) (-22.2310671839-30.6011692623j)
+(20.0644918196+27.9006743591j) (-22.2310671839-30.6011692623j)
+(20.064488879+27.9006768617j) (-22.2310639423-30.60117203j)
+(20.0644883709+27.900670307j) (-22.2310633699-30.6011647954j)
+Converged after 10 iterations
+
+ RESULT: (1.6938898491639758, -2.3342162884101176) 
+
+DR residual: (-1.25616768364e-11+1.04795437641e-11j)
+Smallest eigenvalue 6.2855353876e-14
+
+=====================================================================
+
+Computing index no. 340, k =    6.38
+start = [1.6611623659600916, -2.3463593655122437]
+Running with k_par= 0.5558 and k_perp=  6.353.
+(20.5735672113+29.2935127483j) (-22.750512164-31.9978973438j)
+(20.5735672113+29.2935127483j) (-22.750512164-31.9978973438j)
+(20.5735672113+29.2935127483j) (-22.750512164-31.9978973438j)
+(20.5735641896+29.2935152478j) (-22.7505088467-31.9979001045j)
+(20.5735636807+29.2935084803j) (-22.7505082646-31.9978926582j)
+Converged after 10 iterations
+
+ RESULT: (1.6611225063634911, -2.3463199741437228) 
+
+DR residual: (1.1992137362e-11+8.75327284739e-12j)
+Smallest eigenvalue 5.14869018199e-14
+
+=====================================================================
+
+Computing index no. 341, k =     6.5
+start = [1.6289566276850995, -2.3578782069870341]
+Running with k_par= 0.5665 and k_perp=  6.475.
+(21.0915638635+30.7472437093j) (-23.2783029981-33.4496161309j)
+(21.0915638635+30.7472437093j) (-23.2783029981-33.4496161309j)
+(21.0915638635+30.7472437093j) (-23.2783029981-33.4496161309j)
+(21.0915607593+30.7472462007j) (-23.2782996046-33.4496188797j)
+(21.0915602572+30.747239216j) (-23.2782990193-33.4496112189j)
+Converged after 10 iterations
+
+ RESULT: (1.6289266543180629, -2.3578454988593731) 
+
+DR residual: (-4.5950247828e-12-5.87178473585e-12j)
+Smallest eigenvalue 2.05591732055e-14
+
+=====================================================================
+
+Computing index no. 342, k =    6.62
+start = [1.5973599516164985, -2.3687502501438886]
+Running with k_par= 0.5774 and k_perp=    6.6.
+(21.6190887806+32.2650754893j) (-23.8138534163-34.9602254767j)
+(21.6190887806+32.2650754893j) (-23.8138534163-34.9602254767j)
+(21.6190887806+32.2650754893j) (-23.8138534163-34.9602254767j)
+(21.6190855909+32.2650779687j) (-23.8138499445-34.9602282096j)
+(21.619085104+32.2650707593j) (-23.8138493637-34.9602203283j)
+Converged after 10 iterations
+
+ RESULT: (1.5973391189861905, -2.368729840702525) 
+
+DR residual: (2.21101023617e-11-1.66498643835e-11j)
+Smallest eigenvalue 1.01267208502e-13
+
+=====================================================================
+
+Computing index no. 343, k =    6.75
+start = [1.5664192705012328, -2.3789271595711181]
+Running with k_par= 0.5885 and k_perp=  6.727.
+Converged after 10 iterations
+
+ RESULT: (1.5664054474316818, -2.3789252132540923) 
+
+DR residual: (-8.07893935779e-12-4.36553558528e-12j)
+Smallest eigenvalue 2.41724798021e-14
+
+=====================================================================
+
+Computing index no. 344, k =    6.88
+start = [1.5361872002389383, -2.3883834804749715]
+Running with k_par= 0.5998 and k_perp=  6.856.
+Converged after 10 iterations
+
+ RESULT: (1.5361766222219002, -2.3884058615558033) 
+
+DR residual: (3.12362473262e-11+9.72149406592e-13j)
+Smallest eigenvalue 1.17493790602e-13
+
+=====================================================================
+
+Computing index no. 345, k =    7.01
+start = [1.5067166759989137, -2.3971226686313312]
+Running with k_par= 0.6114 and k_perp=  6.988.
+Converged after 10 iterations
+
+ RESULT: (1.5067041135234787, -2.3971737630813408) 
+
+DR residual: (-3.52909185835e-11+4.75858707022e-12j)
+Smallest eigenvalue 1.24357736146e-13
+
+=====================================================================
+
+Computing index no. 346, k =    7.15
+start = [1.4780544162712985, -2.4051804495021689]
+Running with k_par= 0.6231 and k_perp=  7.122.
+Converged after 10 iterations
+
+ RESULT: (1.4780339310264903, -2.4052619478180168) 
+
+DR residual: (2.37172657051e-11-2.35611664685e-12j)
+Smallest eigenvalue 6.93258230795e-14
+
+=====================================================================
+
+Computing index no. 347, k =    7.29
+start = [1.4502346764406377, -2.4126243977453381]
+Running with k_par= 0.6351 and k_perp=  7.259.
+Converged after 10 iterations
+
+ RESULT: (1.4502008982539607, -2.4127344893766747) 
+
+DR residual: (8.15584698872e-12-7.296143126e-12j)
+Smallest eigenvalue 2.95182698785e-14
+
+=====================================================================
+
+Computing index no. 348, k =    7.43
+start = [1.4232750397750826, -2.4195495979960615]
+Running with k_par= 0.6473 and k_perp=  7.399.
+Converged after 10 iterations
+
+ RESULT: (1.4232245714495582, -2.4196829670975468) 
+
+DR residual: (7.69433147949e-12+4.77211311181e-12j)
+Smallest eigenvalue 5.83302402309e-14
+
+=====================================================================
+
+Computing index no. 349, k =    7.57
+start = [1.3971754855021374, -2.4260713688074564]
+Running with k_par= 0.6598 and k_perp=  7.541.
+Converged after 10 iterations
+
+ RESULT: (1.3971078523679807, -2.4262200395768065) 
+
+DR residual: (1.8861423737e-11-1.25297861778e-12j)
+Smallest eigenvalue 7.91737333124e-14
+
+=====================================================================
+
+Computing index no. 350, k =    7.72
+start = [1.3719208045292679, -2.4323166278461259]
+Running with k_par= 0.6725 and k_perp=  7.686.
+Converged after 10 iterations
+
+ RESULT: (1.3718385004574356, -2.4324712427468493) 
+
+DR residual: (-2.11669184391e-11+1.01513605579e-11j)
+Smallest eigenvalue 4.1143802966e-14
+
+=====================================================================
+
+Computing index no. 351, k =    7.86
+start = [1.3474852264282635, -2.438415094453303]
+Running with k_par= 0.6854 and k_perp=  7.834.
+Converged after 10 iterations
+
+ RESULT: (1.3473928104600335, -2.4385658946247393) 
+
+DR residual: (2.91602026569e-12+9.17742593681e-12j)
+Smallest eigenvalue 2.48197544521e-14
+
+=====================================================================
+
+Computing index no. 352, k =    8.02
+start = [1.3238374836936297, -2.4444902357240395]
+Running with k_par= 0.6986 and k_perp=  7.985.
+Converged after 10 iterations
+
+ RESULT: (1.3237399996639161, -2.4446270257629057) 
+
+DR residual: (-4.9422356033e-12+2.96920008732e-12j)
+Smallest eigenvalue 3.68145886444e-14
+
+=====================================================================
+
+Computing index no. 353, k =    8.17
+start = [1.3009443667307066, -2.45064813765996]
+Running with k_par=  0.712 and k_perp=  8.138.
+Converged after 10 iterations
+
+ RESULT: (1.3008450224330432, -2.4507589674296404) 
+
+DR residual: (1.33498401941e-12-3.45193348694e-12j)
+Smallest eigenvalue 1.17932156048e-13
+
+=====================================================================
+
+Computing index no. 354, k =    8.33
+start = [1.2787695502274121, -2.4569613044002847]
+Running with k_par= 0.7257 and k_perp=  8.295.
+Converged after 10 iterations
+
+ RESULT: (1.2786649849783758, -2.4570313446741281) 
+
+DR residual: (-3.11348732094e-12-6.00385014707e-12j)
+Smallest eigenvalue 2.11649346751e-14
+
+=====================================================================
+
+Computing index no. 355, k =    8.49
+start = [1.2572585020121201, -2.4634477323261454]
+Running with k_par= 0.7397 and k_perp=  8.454.
+(28.4144309681+59.8772277259j) (-30.0926003599-62.7205239129j)
+(28.4144309681+59.8772277259j) (-30.0926003599-62.7205239129j)
+(28.4144309681+59.8772277259j) (-30.0926003599-62.7205239129j)
+(28.4144257324+59.8772302342j) (-30.0925948903-62.7205266072j)
+(28.4144260535+59.8772174672j) (-30.0925950809-62.7205131959j)
+Converged after 13 iterations
+
+ RESULT: (1.2571293917192865, -2.463466246759106) 
+
+DR residual: (3.77065101249e-12-8.566967566e-12j)
+Smallest eigenvalue 1.55188869215e-14
+
+=====================================================================
+
+Computing index no. 356, k =    8.65
+start = [1.23629222989423, -2.4700684262892554]
+Running with k_par= 0.7539 and k_perp=  8.617.
+(28.6803043864+62.7136146869j) (-30.2528871568-65.6138349945j)
+(28.6803043864+62.7136146869j) (-30.2528871568-65.6138349945j)
+(28.6803043864+62.7136146869j) (-30.2528871568-65.6138349945j)
+(28.6802988989+62.7136172131j) (-30.2528814312-65.613837698j)
+(28.6802993391+62.7136037232j) (-30.2528817552-65.613823555j)
+Converged after 13 iterations
+
+ RESULT: (1.2361047129753853, -2.4700593261737875) 
+
+DR residual: (-1.4020572199e-11+4.53714669274e-12j)
+Smallest eigenvalue 2.65477690403e-14
+
+=====================================================================
+
+Computing index no. 357, k =    8.82
+start = [1.2156367009407005, -2.4768149616860731]
+Running with k_par= 0.7684 and k_perp=  8.783.
+(28.9068136019+65.5578299251j) (-30.3649331201-68.5136337616j)
+(28.9068136019+65.5578299251j) (-30.3649331201-68.5136337616j)
+(28.9068136019+65.5578299251j) (-30.3649331201-68.5136337616j)
+(28.9068078593+65.5578324687j) (-30.3649271349-68.5136364733j)
+(28.9068084192+65.5578182248j) (-30.3649275953-68.513621567j)
+Converged after 13 iterations
+
+ RESULT: (1.2154023201480542, -2.4768558179424986) 
+
+DR residual: (8.00615990922e-12-1.01366996914e-11j)
+Smallest eigenvalue 9.45606553648e-14
+
+=====================================================================
+
+Computing index no. 358, k =    8.99
+start = [1.1950566306707682, -2.4838626093699538]
+Running with k_par= 0.7832 and k_perp=  8.952.
+(29.1815115301+68.4070466269j) (-30.5207721359-71.4157981713j)
+(29.1815115301+68.4070466269j) (-30.5207721359-71.4157981713j)
+(29.1815115301+68.4070466269j) (-30.5207721359-71.4157981713j)
+(29.1815055306+68.4070491941j) (-30.5207658893-71.4158008967j)
+(29.1815061941+68.4070341573j) (-30.5207664713-71.4157851882j)
+Converged after 13 iterations
+
+ RESULT: (1.1948759581446686, -2.4839858039681295) 
+
+DR residual: (-1.24628074896e-11+9.70445519327e-13j)
+Smallest eigenvalue 6.4425215741e-14
+
+=====================================================================
+
+Computing index no. 359, k =    9.16
+start = [1.1745513110404269, -2.4914635731400709]
+Running with k_par= 0.7982 and k_perp=  9.124.
+Converged after 13 iterations
+
+ RESULT: (1.17448496253971, -2.4915912662999449) 
+
+DR residual: (-5.87030766716e-12+9.43983914031e-12j)
+Smallest eigenvalue 7.03229797175e-14
+
+=====================================================================
+
+Computing index no. 360, k =    9.33
+start = [1.1542525246570476, -2.4996944892649808]
+Running with k_par= 0.8136 and k_perp=  9.299.
+Converged after 13 iterations
+
+ RESULT: (1.1542569070362634, -2.4997631493586301) 
+
+DR residual: (-2.50604143155e-12-7.80185560574e-13j)
+Smallest eigenvalue 9.37188897093e-14
+
+=====================================================================
+
+Computing index no. 361, k =    9.51
+start = [1.1342164829861536, -2.5085286632438448]
+Running with k_par= 0.8292 and k_perp=  9.478.
+Converged after 10 iterations
+
+ RESULT: (1.1342362590232653, -2.5085423839153473) 
+
+DR residual: (-1.36704252149e-13+1.64896310816e-11j)
+Smallest eigenvalue 1.58397924388e-13
+
+=====================================================================
+
+Computing index no. 362, k =     9.7
+start = [1.114450170257526, -2.5179581337566583]
+Running with k_par= 0.8452 and k_perp=   9.66.
+Converged after 10 iterations
+
+ RESULT: (1.1144614271280084, -2.5179420099636252) 
+
+DR residual: (-3.3719158214e-12-1.69137992131e-11j)
+Smallest eigenvalue 1.02885051382e-13
+
+=====================================================================
+
+Computing index no. 363, k =    9.88
+start = [1.0949616384837602, -2.5279914948625191]
+Running with k_par= 0.8614 and k_perp=  9.846.
+Converged after 10 iterations
+
+ RESULT: (1.0949598895909762, -2.527963992254445) 
+
+DR residual: (6.71074750818e-12-3.12534252052e-11j)
+Smallest eigenvalue 1.37241888439e-13
+
+=====================================================================
+
+Computing index no. 364, k =    10.1
+start = [1.0757622855362197, -2.5386374488699097]
+Running with k_par=  0.878 and k_perp=  10.04.
+(31.8305565287+87.5623801056j) (-32.3720125919-90.9044819069j)
+(31.8305565287+87.5623801056j) (-32.3720125919-90.9044819069j)
+(31.8305565287+87.5623801056j) (-32.3720125919-90.9044819069j)
+(31.8305487858+87.5623829215j) (-32.3720045715-90.9044848133j)
+(31.8305498835+87.5623618336j) (-32.3720057334-90.9044629799j)
+Converged after 10 iterations
+
+ RESULT: (1.0757493930523909, -2.5386080094163299) 
+
+DR residual: (-1.01233735471e-11-1.92843030811e-11j)
+Smallest eigenvalue 2.91743693098e-13
+
+=====================================================================
+
+Computing index no. 365, k =    10.3
+start = [1.0568614030155921, -2.549902696037897]
+Running with k_par= 0.8949 and k_perp=  10.23.
+(32.319813367+91.1263163869j) (-32.708103615-94.5256684169j)
+(32.319813367+91.1263163869j) (-32.708103615-94.5256684169j)
+(32.319813367+91.1263163869j) (-32.708103615-94.5256684169j)
+(32.3198052977+91.1263192499j) (-32.7080952626-94.5256713571j)
+(32.3198064594+91.1262969179j) (-32.7080965212-94.525648265j)
+Converged after 10 iterations
+
+ RESULT: (1.0568403026188633, -2.5498751555013559) 
+
+DR residual: (-2.3388311137e-11-3.40058581548e-11j)
+Smallest eigenvalue 1.36293065293e-13
+
+=====================================================================
+
+Computing index no. 366, k =    10.5
+start = [1.0382644682921054, -2.5617936640345813]
+Running with k_par= 0.9121 and k_perp=  10.43.
+(32.8041670938+94.7970554753j) (-33.0325667478-98.253645272j)
+(32.8041670938+94.7970554753j) (-33.0325667478-98.253645272j)
+(32.8041670938+94.7970554753j) (-33.0325667478-98.253645272j)
+(32.8041586877+94.7970583852j) (-33.0325580532-98.2536482452j)
+(32.8041599141+94.7970347343j) (-33.0325594119-98.2536238192j)
+Converged after 10 iterations
+
+ RESULT: (1.0382377045013707, -2.5617690591044107) 
+
+DR residual: (-1.56984704232e-11+1.05059048181e-11j)
+Smallest eigenvalue 2.29096819321e-13
+
+=====================================================================
+
+Computing index no. 367, k =    10.7
+start = [1.0199735189269097, -2.5743176990440428]
+Running with k_par= 0.9296 and k_perp=  10.63.
+(33.2783619029+98.5741726961j) (-33.3398901529-102.087823288j)
+(33.2783619029+98.5741726961j) (-33.3398901529-102.087823288j)
+(33.2783619029+98.5741726961j) (-33.3398901529-102.087823288j)
+(33.2783531498+98.574175652j) (-33.3398811058-102.087826293j)
+(33.2783544425+98.574150604j) (-33.3398825694-102.087800454j)
+Converged after 10 iterations
+
+ RESULT: (1.0199430183682388, -2.5742958622719647) 
+
+DR residual: (-2.16030896031e-11+3.43541480549e-11j)
+Smallest eigenvalue 1.15341538154e-13
+
+=====================================================================
+
+Computing index no. 368, k =    10.9
+start = [1.0019880179664753, -2.5874834323553673]
+Running with k_par= 0.9475 and k_perp=  10.83.
+(33.7382211431+102.457130204j) (-33.6256895999-106.027513225j)
+(33.7382211431+102.457130204j) (-33.6256895999-106.027513225j)
+(33.7382211431+102.457130204j) (-33.6256895999-106.027513225j)
+(33.7382120328+102.457133205j) (-33.6256801901-106.027516259j)
+(33.7382133941+102.457106678j) (-33.6256817643-106.027488925j)
+Converged after 10 iterations
+
+ RESULT: (1.0019551741903834, -2.5874637885298499) 
+
+DR residual: (-4.20970098753e-11+1.56848722092e-11j)
+Smallest eigenvalue 8.1700439892e-14
+
+=====================================================================
+
+Computing index no. 369, k =    11.1
+start = [0.98430565360436706, -2.6013007100407664]
+Running with k_par= 0.9657 and k_perp=  11.04.
+(34.1804565018+106.445404761j) (-33.8865059401-110.072057183j)
+(34.1804565018+106.445404761j) (-33.8865059401-110.072057183j)
+(34.1804565018+106.445404761j) (-33.8865059401-110.072057183j)
+(34.180447024+106.445407805j) (-33.8864961574-110.072060245j)
+(34.1804484568+106.445379713j) (-33.8864978485-110.072031329j)
+Converged after 10 iterations
+
+ RESULT: (0.98427145423209106, -2.6012826364464989) 
+
+DR residual: (2.61035585914e-11-7.13957123627e-12j)
+Smallest eigenvalue 1.29664047629e-13
+
+=====================================================================
+
+Computing index no. 370, k =    11.3
+start = [0.96692295314069376, -2.6157803683124414]
+Running with k_par= 0.9843 and k_perp=  11.25.
+(34.6024680426+110.538517069j) (-34.1195945093-114.220857511j)
+(34.6024680426+110.538517069j) (-34.1195945093-114.220857511j)
+(34.6024680426+110.538517069j) (-34.1195945093-114.220857511j)
+(34.6024581871+110.538520155j) (-34.1195843435-114.220860597j)
+(34.6024596946+110.538490408j) (-34.1195861586-114.22083001j)
+Converged after 10 iterations
+
+ RESULT: (0.96688808715170216, -2.6157633344808766) 
+
+DR residual: (-8.09437516796e-11-4.11660335015e-11j)
+Smallest eigenvalue 2.48313005877e-13
+
+=====================================================================
+
+Computing index no. 371, k =    11.5
+start = [0.94983572145708473, -2.6309339933426275]
+Running with k_par=  1.003 and k_perp=  11.47.
+(35.0021726086+114.73601455j) (-34.3227452104-118.473357493j)
+(35.0021726086+114.73601455j) (-34.3227452104-118.473357493j)
+(35.0021726086+114.73601455j) (-34.3227452104-118.473357493j)
+(35.0021623653+114.736017676j) (-34.3227346514-118.473360602j)
+(35.0021639511+114.735986178j) (-34.3227365982-118.473328246j)
+Converged after 10 iterations
+
+ RESULT: (0.9498006604899818, -2.6309175965878171) 
+
+DR residual: (-5.15742979479e-12-7.88999441868e-11j)
+Smallest eigenvalue 3.87771715573e-13
+
+=====================================================================
+
+Computing index no. 372, k =    11.7
+start = [0.933039342204105, -2.6467737193453797]
+Running with k_par=  1.023 and k_perp=  11.69.
+(35.3778692467+119.037437614j) (-34.4941418658-122.829005206j)
+(35.3778692467+119.037437614j) (-34.4941418658-122.829005206j)
+(35.3778692467+119.037437614j) (-34.4941418658-122.829005206j)
+(35.3778586055+119.037440777j) (-34.4941309036-122.829008335j)
+(35.3778602734+119.037407427j) (-34.4941329903-122.828974109j)
+Converged after 10 iterations
+
+ RESULT: (0.93300440114904382, -2.646757675972085) 
+
+DR residual: (-3.25499156478e-13-9.86004808282e-11j)
+Smallest eigenvalue 4.63630070215e-13
+
+=====================================================================
+
+Computing index no. 373, k =      12
+start = [0.91652897888967089, -2.6633120776439165]
+Running with k_par=  1.042 and k_perp=  11.91.
+(35.7281395062+123.442284488j) (-34.632258242-127.287216216j)
+(35.7281395062+123.442284488j) (-34.632258242-127.287216216j)
+(35.7281395062+123.442284488j) (-34.632258242-127.287216216j)
+(35.7281284569+123.442287687j) (-34.6322468665-127.287219361j)
+(35.7281302112+123.44225238j) (-34.632249102-127.28718316j)
+Converged after 10 iterations
+
+ RESULT: (0.91649436122345951, -2.6632961992059005) 
+
+DR residual: (-4.37187316403e-11-5.11683366398e-11j)
+Smallest eigenvalue 4.4080742106e-13
+
+=====================================================================
+
+Computing index no. 374, k =    12.2
+start = [0.90029970569198459, -2.6805618922603345]
+Running with k_par=  1.062 and k_perp=  12.14.
+(36.0517768268+127.949980957j) (-34.7357844676-131.847341679j)
+(36.0517768268+127.949980957j) (-34.7357844676-131.847341679j)
+(36.0517768268+127.949980957j) (-34.7357844676-131.847341679j)
+(36.0517653593+127.949984189j) (-34.7357726686-131.847344838j)
+(36.0517672044+127.949946813j) (-34.7357750623-131.847306549j)
+Converged after 10 iterations
+
+ RESULT: (0.90026553736377601, -2.6805460602486266) 
+
+DR residual: (-4.25439707099e-11+5.24368707516e-11j)
+Smallest eigenvalue 6.63217817591e-14
+
+=====================================================================
+
+Computing index no. 375, k =    12.4
+start = [0.88434659024278961, -2.6985362121279501]
+Running with k_par=  1.083 and k_perp=  12.37.
+(36.3477385867+132.559856763j) (-34.8035769981-136.508643616j)
+(36.3477385867+132.559856763j) (-34.8035769981-136.508643616j)
+(36.3477385867+132.559856763j) (-34.8035769981-136.508643616j)
+(36.3477266909+132.559860025j) (-34.8035647658-136.508646786j)
+(36.3477286316+132.559820463j) (-34.8035673277-136.50860629j)
+Converged after 10 iterations
+
+ RESULT: (0.88431294467860488, -2.6985203563522582) 
+
+DR residual: (-5.34577076191e-11-2.21980045446e-10j)
+Smallest eigenvalue 4.84587562342e-13
+
+=====================================================================
+
+Computing index no. 376, k =    12.7
+start = [0.86866474434354179, -2.7172482697753857]
+Running with k_par=  1.103 and k_perp=  12.61.
+(36.6151149601+137.271128279j) (-34.8346259628-141.270276873j)
+(36.6151149601+137.271128279j) (-34.8346259628-141.270276873j)
+(36.6151149601+137.271128279j) (-34.8346259628-141.270276873j)
+(36.6151026262+137.271131569j) (-34.8346132873-141.27028005j)
+(36.6151046672+137.271089697j) (-34.8346160279-141.270237224j)
+Converged after 10 iterations
+
+ RESULT: (0.86863166049030704, -2.7172323518176342) 
+
+DR residual: (-1.44584868307e-11-5.64847661539e-11j)
+Smallest eigenvalue 4.42027833314e-13
+
+=====================================================================
+
+Computing index no. 377, k =    12.9
+start = [0.85324935381304567, -2.7367114580521097]
+Running with k_par=  1.125 and k_perp=  12.86.
+(36.8531096894+142.082886241j) (-34.8280347755-146.131276463j)
+(36.8531096894+142.082886241j) (-34.8280347755-146.131276463j)
+(36.8531096894+142.082886241j) (-34.8280347755-146.131276463j)
+(36.8530969074+142.082889557j) (-34.8280216469-146.131279642j)
+(36.8530990538+142.082845244j) (-34.8280245774-146.131234354j)
+Converged after 10 iterations
+
+ RESULT: (0.85321684875214066, -2.736695459478355) 
+
+DR residual: (1.16619088e-10+3.99817827113e-10j)
+Smallest eigenvalue 5.55767878932e-13
+
+=====================================================================
+
+Computing index no. 378, k =    13.2
+start = [0.83809569502395398, -2.7569393186084579]
+Running with k_par=  1.146 and k_perp=   13.1.
+(37.0610290243+146.994087184j) (-34.7830081141-151.090548834j)
+(37.0610290243+146.994087184j) (-34.7830081141-151.090548834j)
+(37.0610290243+146.994087184j) (-34.7830081141-151.090548834j)
+(37.0610157844+146.994090523j) (-34.7829945227-151.090552014j)
+(37.0610180415+146.994043631j) (-34.7829976549-151.090504125j)
+Converged after 10 iterations
+
+ RESULT: (0.83806377250049091, -2.7569232330220759) 
+
+DR residual: (-3.51259207439e-11-6.36459656293e-13j)
+Smallest eigenvalue 1.71059004546e-13
+
+=====================================================================
+
+Computing index no. 379, k =    13.4
+start = [0.8231991432064012, -2.777945537750611]
+Running with k_par=  1.168 and k_perp=  13.35.
+(37.2382759908+152.003547403j) (-34.6988453353-156.146865813j)
+(37.2382759908+152.003547403j) (-34.6988453353-156.146865813j)
+(37.2382759908+152.003547403j) (-34.6988453353-156.146865813j)
+(37.2382622831+152.003550762j) (-34.6988312716-156.146868989j)
+(37.2382646566+152.003501146j) (-34.6988346178-156.146818353j)
+Converged after 10 iterations
+
+ RESULT: (0.82316779917409411, -2.7779293656874389) 
+
+DR residual: (1.33615550911e-10-3.99956809986e-11j)
+Smallest eigenvalue 4.00555352061e-13
+
+=====================================================================
+
+Computing index no. 380, k =    13.7
+start = [0.80855517575554048, -2.7997439467842691]
+Running with k_par=  1.191 and k_perp=  13.61.
+(37.3843480175+157.109938494j) (-34.5749372941-161.298860207j)
+(37.3843480175+157.109938494j) (-34.5749372941-161.298860207j)
+(37.3843480175+157.109938494j) (-34.5749372941-161.298860207j)
+(37.3843338326+157.10994187j) (-34.5749227484-161.298863376j)
+(37.3843363281+157.109889377j) (-34.574926322-161.298809841j)
+Converged after 10 iterations
+
+ RESULT: (0.80852440185002228, -2.7997276925794563) 
+
+DR residual: (-1.49744676533e-10+5.73989007772e-11j)
+Smallest eigenvalue 3.0738649944e-13
+
+=====================================================================
+
+Computing index no. 381, k =    13.9
+start = [0.79415937261657743, -2.822348525026408]
+Running with k_par=  1.214 and k_perp=  13.87.
+(37.4988365347+162.311783805j) (-34.4107651465-166.545022369j)
+(37.4988365347+162.311783805j) (-34.4107651465-166.545022369j)
+(37.4988365347+162.311783805j) (-34.4107651465-166.545022369j)
+(37.498821863+162.311787195j) (-34.4107501094-166.545025527j)
+(37.4988244866+162.311731663j) (-34.4107539242-166.544968929j)
+Converged after 10 iterations
+
+ RESULT: (0.794129158229821, -2.8223321949703437) 
+
+DR residual: (-9.50918379869e-11-2.23209065907e-10j)
+Smallest eigenvalue 1.46428862374e-13
+
+=====================================================================
+
+Computing index no. 382, k =    14.2
+start = [0.78000741496388049, -2.8457734043610627]
+Running with k_par=  1.237 and k_perp=  14.14.
+(37.5814276908+167.607455268j) (-34.2059002626-171.883697153j)
+(37.5814276908+167.607455268j) (-34.2059002626-171.883697153j)
+(37.5814276908+167.607455268j) (-34.2059002626-171.883697153j)
+(37.581412523+167.60745867j) (-34.205884725-171.883700296j)
+(37.5814152809+167.60739993j) (-34.2058887955-171.883640466j)
+Converged after 10 iterations
+
+ RESULT: (0.77997774845141243, -2.8457570056681187) 
+
+DR residual: (-8.6421910328e-11-2.70851053795e-10j)
+Smallest eigenvalue 7.38702432996e-13
+
+=====================================================================
+
+Computing index no. 383, k =    14.5
+start = [0.76609508297846629, -2.870032874703214]
+Running with k_par=  1.261 and k_perp=  14.41.
+(37.6319035592+172.995170312j) (-33.9600046109-177.31308096j)
+(37.6319035592+172.995170312j) (-33.9600046109-177.31308096j)
+(37.6319035592+172.995170312j) (-33.9600046109-177.31308096j)
+(37.6318878861+172.995173722j) (-33.9599885638-177.313084085j)
+(37.6318907847+172.995111596j) (-33.9599929055-177.313020843j)
+Converged after 13 iterations
+
+ RESULT: (0.76606595230718166, -2.8700164149537852) 
+
+DR residual: (-1.99418756611e-10+1.19613384628e-10j)
+Smallest eigenvalue 6.00473162844e-14
+
+=====================================================================
+
+Computing index no. 384, k =    14.7
+start = [0.75241825308720567, -2.8951413899756266]
+Running with k_par=  1.285 and k_perp=  14.69.
+(37.6501435764+178.472988542j) (-33.6728313499-182.831218544j)
+(37.6501435764+178.472988542j) (-33.6728313499-182.831218544j)
+(37.6501435764+178.472988542j) (-33.6728313499-182.831218544j)
+(37.6501273891+178.472991957j) (-33.6728147843-182.831221647j)
+(37.6501304351+178.472926257j) (-33.6728194136-182.831154804j)
+Converged after 13 iterations
+
+ RESULT: (0.75238964619866056, -2.8951248768401849) 
+
+DR residual: (-1.70916117684e-11+1.16563128965e-10j)
+Smallest eigenvalue 8.460990115e-13
+
+=====================================================================
+
+Computing index no. 385, k =      15
+start = [0.73897289500421603, -2.9211135744276406]
+Running with k_par=   1.31 and k_perp=  14.97.
+(37.6361259022+184.038808091j) (-33.3442253142-188.435999469j)
+(37.6361259022+184.038808091j) (-33.3442253142-188.435999469j)
+(37.6361259022+184.038808091j) (-33.3442253142-188.435999469j)
+(37.6361091917+184.038811509j) (-33.3442082214-188.436002545j)
+(37.636112392+184.038742036j) (-33.3442131554-188.435931903j)
+Converged after 13 iterations
+
+ RESULT: (0.7389447999659684, -2.9210970155248095) 
+
+DR residual: (-7.40464641204e-11+1.95760724747e-10j)
+Smallest eigenvalue 3.98559575502e-13
+
+=====================================================================
+
+Computing index no. 386, k =    15.3
+start = [0.72575506858136318, -2.9479642291466233]
+Running with k_par=  1.335 and k_perp=  15.26.
+(37.5899287712+189.69036139j) (-32.9741234693-194.125153979j)
+(37.5899287712+189.69036139j) (-32.9741234693-194.125153979j)
+(37.5899287712+189.69036139j) (-32.9741234693-194.125153979j)
+(37.5899115291+189.690364807j) (-32.9741058408-194.125157025j)
+(37.5899148907+189.690291353j) (-32.9741110975-194.125082374j)
+Converged after 13 iterations
+
+ RESULT: (0.72572747368907309, -2.9479476319907447) 
+
+DR residual: (1.71269465219e-10-2.01195822462e-11j)
+Smallest eigenvalue 3.72076522373e-14
+
+=====================================================================
+
+Computing index no. 387, k =    15.6
+start = [0.71276092068421049, -2.9757083387583814]
+Running with k_par=  1.361 and k_perp=  15.55.
+(37.5117316155+195.425210356j) (-32.5625551074-199.896248272j)
+(37.5117316155+195.425210356j) (-32.5625551074-199.896248272j)
+(37.5117316155+195.425210356j) (-32.5625551074-199.896248272j)
+(37.5117138333+195.42521377j) (-32.562536935-199.896251284j)
+(37.5117173637+195.425136118j) (-32.5625425336-199.896172405j)
+Converged after 13 iterations
+
+ RESULT: (0.71273381447516915, -2.9756917107316525) 
+
+DR residual: (1.04759286197e-10+8.12286577539e-12j)
+Smallest eigenvalue 1.32592945698e-13
+
+=====================================================================
+
+Computing index no. 388, k =    15.9
+start = [0.69998668198059755, -3.0043610782505996]
+Running with k_par=  1.387 and k_perp=  15.85.
+(37.4018161781+201.240740799j) (-32.1096420147-205.746678972j)
+(37.4018161781+201.240740799j) (-32.1096420147-205.746678972j)
+(37.4018161781+201.240740799j) (-32.1096420147-205.746678972j)
+(37.4017978478+201.240744206j) (-32.1096232905-205.746681946j)
+(37.4018015543+201.240662125j) (-32.1096292509-205.746598607j)
+Converged after 13 iterations
+
+ RESULT: (0.69996005326398913, -3.004344426594443) 
+
+DR residual: (-2.74731585947e-10-1.37003861779e-11j)
+Smallest eigenvalue 4.76589575844e-13
+
+=====================================================================
+
+Computing index no. 389, k =    16.2
+start = [0.68742866379760192, -3.0339378199263929]
+Running with k_par=  1.414 and k_perp=  16.16.
+(37.2605674506+207.134155986j) (-31.6155984374-211.673666768j)
+(37.2605674506+207.134155986j) (-31.6155984374-211.673666768j)
+(37.2605674506+207.134155986j) (-31.6155984374-211.673666768j)
+(37.2605485643+207.134159384j) (-31.6155791535-211.6736697j)
+(37.2605524547+207.134072633j) (-31.6155854969-211.67358166j)
+Converged after 13 iterations
+
+ RESULT: (0.6874025016426768, -3.0339211517465419) 
+
+DR residual: (4.65022773291e-12+3.36269619305e-10j)
+Smallest eigenvalue 5.31959266855e-13
+
+=====================================================================
+
+Computing index no. 390, k =    16.5
+start = [0.67508325493709487, -3.0644541405033507]
+Running with k_par=  1.441 and k_perp=  16.47.
+(37.0884746916+213.102469301j) (-31.0807311083-217.674249129j)
+(37.0884746916+213.102469301j) (-31.0807311083-217.674249129j)
+(37.0884746916+213.102469301j) (-31.0807311083-217.674249129j)
+(37.0884552417+213.102472687j) (-31.0807112575-217.674252015j)
+(37.0884593238+213.102381011j) (-31.0807180059-217.674159018j)
+Converged after 13 iterations
+
+ RESULT: (0.67505754867253609, -3.0644374627556008) 
+
+DR residual: (-5.49945330541e-11-1.89009906774e-10j)
+Smallest eigenvalue 6.45097432337e-13
+
+=====================================================================
+
+Computing index no. 391, k =    16.8
+start = [0.66294691851677912, -3.0959258282928035]
+Running with k_par=  1.468 and k_perp=  16.78.
+(36.8861324831+219.142495773j) (-30.5054392951-223.745271904j)
+(36.8861324831+219.142495773j) (-30.5054392951-223.745271904j)
+(36.8861324831+219.142495773j) (-30.5054392951-223.745271904j)
+(36.8861124624+219.142499143j) (-30.50541887-223.745274741j)
+(36.8861167442+219.142402277j) (-30.5054260469-223.74517652j)
+Converged after 13 iterations
+
+ RESULT: (0.66292165773417022, -3.0959091478054628) 
+
+DR residual: (-3.29194984005e-10+2.49591290054e-11j)
+Smallest eigenvalue 1.01257602148e-12
+
+=====================================================================
+
+Computing index no. 392, k =    17.2
+start = [0.65101618884064916, -3.1283688905770672]
+Running with k_par=  1.497 and k_perp=  17.11.
+(36.6542419403+225.250842615j) (-29.8902149798-229.883379936j)
+(36.6542419403+225.250842615j) (-29.8902149798-229.883379936j)
+(36.6542419403+225.250842615j) (-29.8902149798-229.883379936j)
+(36.6542213419+225.250845968j) (-29.8901939737-229.883382719j)
+(36.6542258315+225.250743632j) (-29.8902016035-229.883278994j)
+Converged after 13 iterations
+
+ RESULT: (0.65099136335443031, -3.1283522140160036) 
+
+DR residual: (-1.72916709031e-09-3.60090428943e-10j)
+Smallest eigenvalue 3.4273678488e-13
+
+=====================================================================
+
+Computing index no. 393, k =    17.5
+start = [0.63928766816897875, -3.1617995609989231]
+Running with k_par=  1.526 and k_perp=  17.44.
+(36.3936123917+231.423898261j) (-29.2356435041-236.085006191j)
+(36.3936123917+231.423898261j) (-29.2356435041-236.085006191j)
+(36.3936123917+231.423898261j) (-29.2356435041-236.085006191j)
+(36.3935912089+231.423901593j) (-29.2356219105-236.085008918j)
+(36.3935959146+231.423793495j) (-29.2356300189-236.084899393j)
+Converged after 13 iterations
+
+ RESULT: (0.63926326804719857, -3.1617828948915072) 
+
+DR residual: (-2.12176932543e-09+3.04208682053e-10j)
+Smallest eigenvalue 4.70282817828e-13
+
+=====================================================================
+
+Computing index no. 394, k =    17.8
+start = [0.62775802360689625, -3.1962343071643797]
+Running with k_par=  1.555 and k_perp=  17.77.
+(36.105163279+237.657820246j) (-28.5424044126-242.346359772j)
+(36.105163279+237.657820246j) (-28.5424044126-242.346359772j)
+(36.105163279+237.657820246j) (-28.5424044126-242.346359772j)
+(36.1051415056+237.657823554j) (-28.5423822254-242.346362438j)
+(36.1051464356+237.657709386j) (-28.5423908394-242.346246806j)
+Converged after 13 iterations
+
+ RESULT: (0.62773403911904258, -3.196217657880926) 
+
+DR residual: (7.00842730863e-11+1.43520364062e-09j)
+Smallest eigenvalue 4.04785429397e-13
+
+=====================================================================
+
+Computing index no. 395, k =    18.2
+start = [0.61642398382302388, -3.2316898382972781]
+Running with k_par=  1.585 and k_perp=  18.11.
+(35.7899269734+243.94852141j) (-27.8112732141-248.663412281j)
+(35.7899269734+243.94852141j) (-27.8112732141-248.663412281j)
+(35.7899269734+243.94852141j) (-27.8112732141-248.663412281j)
+(35.7899046037+243.948524692j) (-27.8112504275-248.663414883j)
+(35.7899097661+243.948404134j) (-27.8112595754-248.66329282j)
+Converged after 13 iterations
+
+ RESULT: (0.61640040543757169, -3.2316732120275562) 
+
+DR residual: (-1.19360205357e-09-1.0454534498e-09j)
+Smallest eigenvalue 8.11793969515e-13
+
+=====================================================================
+
+Computing index no. 396, k =    18.5
+start = [0.60528233577834523, -3.2681831129543708]
+Running with k_par=  1.615 and k_perp=  18.46.
+(35.449052323+250.291654337j) (-27.0431238707-255.031882485j)
+(35.449052323+250.291654337j) (-27.0431238707-255.031882485j)
+(35.449052323+250.291654337j) (-27.0431238707-255.031882485j)
+(35.4490293515+250.291657591j) (-27.0431004796-255.031885018j)
+(35.4490347546+250.291530304j) (-27.0431101909-255.031756186j)
+Converged after 13 iterations
+
+ RESULT: (0.60525915414289366, -3.2681665157187401) 
+
+DR residual: (1.11213835352e-09+3.0412558678e-10j)
+Smallest eigenvalue 2.86285890489e-13
+
+=====================================================================
+
+Computing index no. 397, k =    18.9
+start = [0.59432992135996532, -3.305731346886331]
+Running with k_par=  1.646 and k_perp=  18.82.
+(35.0838093943+256.682594044j) (-26.2389324851-261.447219298j)
+(35.0838093943+256.682594044j) (-26.2389324851-261.447219298j)
+(35.0838093943+256.682594044j) (-26.2389324851-261.447219298j)
+(35.083785816+256.682597267j) (-26.2389084845-261.44722176j)
+(35.0837914677+256.682462899j) (-26.2389187902-261.447085803j)
+Converged after 13 iterations
+
+ RESULT: (0.59430712724888113, -3.3057147844723374) 
+
+DR residual: (-1.36316299816e-09+4.81501506635e-10j)
+Smallest eigenvalue 3.58573363305e-12
+
+=====================================================================
+
+Computing index no. 398, k =    19.3
+start = [0.58356363381592447, -3.3443520207938917]
+Running with k_par=  1.678 and k_perp=  19.18.
+(34.6955958583+263.116418087j) (-25.3997826607-267.904582287j)
+(34.6955958583+263.116418087j) (-25.3997826607-267.904582287j)
+(34.6955958583+263.116418087j) (-25.3997826607-267.904582287j)
+(34.6955716688+263.116421277j) (-25.3997580462-267.904584675j)
+(34.6955775769+263.116279459j) (-25.3997689785-267.904441224j)
+Converged after 13 iterations
+
+ RESULT: (0.58354121810384252, -3.344335498786088) 
+
+DR residual: (-1.48075720208e-09+3.12385843484e-10j)
+Smallest eigenvalue 1.55444830938e-12
+
+=====================================================================
+
+Computing index no. 399, k =    19.6
+start = [0.57298041404312361, -3.3840628882677999]
+Running with k_par=   1.71 and k_perp=  19.55.
+(34.2859453315+269.587884615j) (-24.5268728346-274.398820244j)
+(34.2859453315+269.587884615j) (-24.5268728346-274.398820244j)
+(34.2859453315+269.587884615j) (-24.5268728346-274.398820244j)
+(34.2859205269+269.587887769j) (-24.5268476023-274.398822553j)
+(34.2859266987+269.587738117j) (-24.5268591951-274.39867122j)
+Converged after 13 iterations
+
+ RESULT: (0.57295836767842367, -3.384046411938523) 
+
+DR residual: (1.21005580221e-09+1.00747342112e-08j)
+WARNING: Large residual, root may not be properly converged!
+Eigenvalue smallness condition not fulfilled, or solver error
+start = [0.90885168697038377, -3.3840628882677999]
+(93.8327102352-255.22486273j) (-105.065586258+257.125645613j)
+start = [0.81047726873574699, -3.1465660335751764]
+(-13.6405468657-15.8996246164j) (13.2252426313+16.7944143212j)
+start = [0.57298041404312361, -3.0481916153405395]
+start = [0.33548355935050023, -3.1465660335751764]
+(9.20672559951-18.8100220669j) (-10.1252676439+18.5457869642j)
+start = [0.2371091411158634, -3.3840628882677999]
+(-154.785562834-223.639450517j) (146.905010318+230.729902773j)
+start = [0.33548355935050023, -3.6215597429604234]
+(1548.56675338-3155.02257232j) (-1663.48904099+3125.95184021j)
+start = [0.57298041404312361, -3.7199341611950603]
+start = [0.81047726873574699, -3.6215597429604234]
+(-2288.63062347-2666.79383181j) (2244.22244073+2785.5744067j)
+start = [0.81047726873574699, -3.6215597429604234]
+Running with k_par=   1.71 and k_perp=  19.55.
+(-2288.63062347-2666.79383181j) (2244.22244073+2785.5744067j)
+(-2288.63062347-2666.79383181j) (2244.22244073+2785.5744067j)
+(-2288.63062347-2666.79383181j) (2244.22244073+2785.5744067j)
+(-2288.63027658-2666.79412974j) (2244.22207912+2785.57469943j)
+(-2288.62929216-2666.79228175j) (2244.22113267+2785.57279085j)
+(-1644.72116624-1882.34972375j) (1612.79910934+1968.47238024j)
+(-1644.72092162-1882.34993766j) (1612.79885406+1968.4725904j)
+(-1644.7202178-1882.34863914j) (1612.79817749+1968.47124833j)
+(-1179.53040041-1317.55337516j) (1156.89861894+1379.73753781j)
+(-1179.53022942-1317.55352835j) (1156.89844026+1379.73768835j)
+(-1179.52972627-1317.55262273j) (1156.89795648+1379.73675153j)
+(-843.294540107-911.166800159j) (827.56553639+955.801309271j)
+(-843.294422076-911.16690948j) (827.565412849+955.801416751j)
+(-843.294062565-911.166284571j) (827.565066891+955.800769615j)
+(-600.062557643-619.165471413j) (589.449300267+650.93203748j)
+(-600.062477644-619.165548999j) (589.449216358+650.932113828j)
+(-600.062221085-619.16512439j) (589.448969081+650.931673493j)
+(-423.841853452-409.961259307j) (417.000345344+432.291514628j)
+(-423.841800676-409.961313905j) (417.000289831+432.291568433j)
+(-423.841618122-409.961031834j) (417.000113434+432.291275354j)
+(-295.816109972-260.979481253j) (291.725175844+276.390305825j)
+(-295.81607655-260.979519158j) (291.725140543+276.390343261j)
+(-295.815947493-260.979337989j) (291.725015376+276.390154507j)
+(-202.349879416-156.219206711j) (200.217973466+166.559605177j)
+(-202.349859558-156.219232442j) (200.217952358+166.559630669j)
+(-202.349769579-156.219121948j) (200.217864649+166.559515075j)
+(-133.604920758-84.5258250227j) (132.796601323+91.1613210537j)
+(-133.604910127-84.525841827j) (132.796589899+91.1613377727j)
+(-133.604849191-84.5257797482j) (132.796530119+91.1612724011j)
+(-82.7275899268-38.3364818011j) (82.7072794885+42.2942439345j)
+(-82.7275851753-38.3364920462j) (82.7072742716+42.2942541837j)
+(-82.7275462897-38.3364615631j) (82.7072358337+42.294221714j)
+(-45.693078427-12.4728044453j) (45.9987212775+14.5700520739j)
+(-45.693076907-12.4728099906j) (45.9987195159+14.570057658j)
+(-45.6930547694-12.4727979606j) (45.9986974544+14.5700445587j)
+(-21.3075657771-1.99794582931j) (21.5973657712+2.94655270512j)
+(-21.3075655322-1.99794836105j) (21.5973654193+2.94655527147j)
+(-21.3075549961-1.99794478668j) (21.5973548428+2.94655120667j)
+(-8.57094546396+0.169216797155j) (8.72534911088+0.21274433039j)
+(-8.57094547586+0.169215792433j) (8.72534908007+0.212745353474j)
+(-8.57094124335+0.16921674715j) (8.72534481314+0.212744200998j)
+(-3.26900026064+0.167351089906j) (3.32822127021-0.0168523743811j)
+(-3.26900027205+0.167350707463j) (3.32822126463-0.0168519844821j)
+(-3.26899869727+0.167351043281j) (3.32821967636-0.0168523972246j)
+Converged after 67 iterations
+
+ RESULT: (0.86087879090387276, -2.7754526393432992) 
+
+DR residual: (7.38275450544e-11-6.30241938488e-11j)
+Smallest eigenvalue 2.3132506531e-13
+Discontinuity in amplitudes, 1.5181e+00, 3.1588e+00
+Discontinuity in cross phases, 2.1789e+00, 5.5969e+00
+start = [1.2447229598976439, -3.3840628882677999]
+start = [1.0479741234283704, -2.9090691788825529]
+start = [0.57298041404312361, -2.7123203424132796]
+start = [0.097986704657876844, -2.9090691788825533]
+start = [-0.098762131811396814, -3.3840628882677999]
+start = [0.097986704657876844, -3.8590565976530464]
+(-39232.5549+22962.9088559j) (39940.7744512-21903.3219837j)
+start = [0.57298041404312361, -4.0558054341223206]
+start = [1.0479741234283704, -3.8590565976530469]
+(43720.5735447+12416.3793583j) (-44326.0433427-13800.6015666j)
+start = [1.0479741234283704, -3.8590565976530469]
+Running with k_par=   1.71 and k_perp=  19.55.
+(43720.5735447+12416.3793583j) (-44326.0433427-13800.6015666j)
+(43720.5735447+12416.3793583j) (-44326.0433427-13800.6015666j)
+(43720.5735447+12416.3793583j) (-44326.0433427-13800.6015666j)
+(43720.5714623+12416.3867126j) (-44326.0410417-13800.6090233j)
+(43720.5464633+12416.3716902j) (-44326.0158842-13800.5930934j)
+(31532.2720252+8948.1981581j) (-31968.5737284-9966.24126276j)
+(31532.2705245+8948.20346224j) (-31968.5720668-9966.24664066j)
+(31532.2526461+8948.19267514j) (-31968.5540798-9966.23519197j)
+(22744.8078843+6458.90338804j) (-23059.0749711-7207.76766328j)
+(22744.8068011+6458.90721419j) (-23059.0737694-7207.77154254j)
+(22744.7940158+6458.89946162j) (-23059.0609101-7207.76330757j)
+(16409.1250895+4672.44350617j) (-16635.3214903-5223.48029476j)
+(16409.1243058+4672.44626678j) (-16635.3206194-5223.48309359j)
+(16409.1151634+4672.44068832j) (-16635.3114268-5223.47716331j)
+(11841.0495624+3390.5806475j) (-12003.6567289-3796.26218061j)
+(11841.0489936+3390.58263992j) (-12003.6560958-3796.2642005j)
+(11841.0424567+3390.57861906j) (-12003.6495252-3796.25992298j)
+(8547.34650709+2470.96991101j) (-8664.01598413-2769.87593883j)
+(8547.34609248+2470.97134959j) (-8664.01552213-2769.87739712j)
+(8547.34141907+2470.9684446j) (-8664.01082639-2769.8743048j)
+(6172.421892+1811.41214415j) (-6255.88416088-2031.90199512j)
+(6172.42158794+1811.41318342j) (-6255.88382182-2031.9030485j)
+(6172.41824734+1811.41107782j) (-6255.88046673-2031.90080607j)
+(4459.9015093+1338.54345569j) (-4519.3399162-1501.45928418j)
+(4459.90128449+1338.54420705j) (-4519.3396655-1501.4600456j)
+(4459.89889717+1338.5426741j) (-4519.3372691-1501.45841258j)
+(3224.93445763+999.711057686j) (-3266.97433072-1120.36731247j)
+(3224.93428958+999.711601446j) (-3266.97414346-1120.36786336j)
+(3224.93258414+999.710478663j) (-3266.97243267-1120.36666728j)
+(2334.22619882+757.140865445j) (-2363.64695633-846.788068014j)
+(2334.22607138+757.141259493j) (-2363.64681459-846.788467065j)
+(2334.22485379+757.140430454j) (-2363.64559422-846.787584225j)
+(1691.6430223+583.751281501j) (-1711.89077007-650.652744839j)
+(1691.64292387+583.751567556j) (-1711.89066095-650.653034353j)
+(1691.64205543+583.750948814j) (-1711.88979151-650.652376j)
+(1227.83209819+460.151506348j) (-1241.38837265-510.375179337j)
+(1227.83202041+460.151714465j) (-1241.38828681-510.375389788j)
+(1227.83140205+460.151246181j) (-1241.3876687-510.374892224j)
+(892.737062704+372.493170267j) (-901.383687993-410.493971471j)
+(892.736999526+372.493322084j) (-901.383618694-410.494124796j)
+(892.736560555+372.4929613j) (-901.383180856-410.493742256j)
+(650.201637499+310.940301725j) (-655.210290604-339.988610347j)
+(650.201584514+310.940412799j) (-655.210232913-339.988722317j)
+(650.201274585+310.940128607j) (-655.209924764-339.988421853j)
+(474.085356447+268.592780486j) (-476.35226861-291.090546627j)
+(474.08531039+268.592861973j) (-476.35221888-291.090628547j)
+(474.085093776+268.592632022j) (-476.352004544-291.090386326j)
+(345.489275865+240.75503789j) (-345.629627615-258.471221489j)
+(345.489234237+240.755097763j) (-345.629583066-258.471281433j)
+(345.489085739+240.7549057j) (-345.629437263-258.471080024j)
+(250.844579672+224.483383983j) (-249.257680052-238.734996277j)
+(250.844540442+224.483427918j) (-249.257638443-238.735039985j)
+(250.844442435+224.483261441j) (-249.257543522-238.734866303j)
+(180.822692613+218.330199749j) (-177.741324816-230.134927091j)
+(180.822653964+218.330231832j) (-177.741284166-230.134958685j)
+(180.822594113+218.330081093j) (-177.741227817-230.134802291j)
+(130.291810888+221.801658636j) (-125.851931562-232.025123352j)
+(130.291771085+221.801682079j) (-125.851889998-232.025146062j)
+(130.291740065+221.801538386j) (-125.851862953-232.024997779j)
+(98.4476489323+232.618511802j) (-92.8564315697-242.060869412j)
+(98.4476067281+232.61852972j) (-92.8563877163-242.060886387j)
+(98.4475954072+232.61838573j) (-92.8563808595-242.060738413j)
+(83.1992803412+243.664661931j) (-76.8608887879-252.882566261j)
+(83.19923587+243.664677172j) (-76.8608426946-252.882580423j)
+(83.1992350551+243.664529791j) (-76.8608467066-252.882429301j)
+(77.0027831834+251.017642182j) (-70.2664243222-260.217432281j)
+(77.0027372511+251.017656328j) (-70.2663767654-260.217445277j)
+(77.0027412328+251.017505975j) (-70.2663857841-260.217291258j)
+(78.3364224519+257.655949021j) (-71.4159532816-267.067093806j)
+(78.3363752948+257.655963416j) (-71.4159044623-267.067107018j)
+(78.3363797438+257.655809115j) (-71.4159140818-267.066948968j)
+Converged after 82 iterations
+
+ RESULT: (1.1404245405037408, -3.3827227983898269) 
+
+DR residual: (4.63606867052e-09-9.59156063488e-09j)
+WARNING: Large residual, root may not be properly converged!
+Eigenvalue smallness condition not fulfilled, or solver error
+start = [2.2523367786794246, -3.3840628882677999]
+(215.103826611+178.212082819j) (-220.882200679-191.32242172j)
+start = [1.7604646875062404, -2.1965786148046833]
+start = [0.5729804140431235, -1.7047065236314989]
+start = [-0.61450385941999319, -2.1965786148046833]
+start = [-1.1063759505931774, -3.3840628882677999]
+(-163.819463971+226.52569142j) (167.134279047-215.247650307j)
+start = [-0.61450385941999319, -4.5715471617309165]
+start = [0.5729804140431235, -5.0634192529041009]
+start = [1.7604646875062404, -4.5715471617309165]
+start = [1.7604646875062404, -4.5715471617309165]
+Running with k_par=   1.71 and k_perp=  19.55.
+(85.7907379989+255.76291079j) (-81.4943741762-267.871636206j)
+(85.7906674094+255.762934637j) (-81.4943003521-267.871658965j)
+(85.7906911246+255.762772037j) (-81.4943294411-267.871491095j)
+(89.32346766+245.378033585j) (-85.4442691721-257.206347323j)
+(89.3234000345+245.378058368j) (-85.4441983928-257.206371129j)
+(89.3234189226+245.377900593j) (-85.444222357-257.20620813j)
+(86.510354922+235.896574267j) (-82.7925737962-247.300870893j)
+(86.5102899189+235.896598265j) (-82.7925057532-247.300893955j)
+(86.510307771+235.896446551j) (-82.7925284854-247.300737204j)
+Converged after 155 iterations
+
+ RESULT: (1.7180722430143371, -3.3754680477989494) 
+
+DR residual: (1.64137487039e-09+1.78006943844e-09j)
+Smallest eigenvalue 6.34630410851e-13
+
+=====================================================================
+
+Computing index no. 400, k =      20
+start = [4.0644126022123146, -3.3986487681215962]
+Running with k_par=  1.743 and k_perp=  19.92.
+(285.179315599+201.578334338j) (-301.184785672-212.59163736j)
+(126.169671905+180.036001063j) (-133.475446081-190.002630422j)
+(126.16955612+180.036082988j) (-133.475324031-190.002716968j)
+(126.169601548+180.035901628j) (-133.475371756-190.002525607j)
+(126.306540344+179.897996376j) (-133.619674983-189.85690429j)
+(126.306424651+179.898078387j) (-133.61955303-189.856990927j)
+(126.306469912+179.897897018j) (-133.619600578-189.856799557j)
+Converged after 38 iterations
+
+ RESULT: (3.95241223968952, -3.3943518880897829) 
+
+DR residual: (-2.25787847103e-09-1.71475336654e-09j)
+Smallest eigenvalue 2.25899643133e-12
