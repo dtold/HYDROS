@@ -18,7 +18,7 @@ by Told et al. (New J. Phys., 2016).
 
 ===== How to use the code =====
 
-The HYDROS code is called by running "./hydros.py <inputfile>", where "<inputfile>" is an arbitrarily named
+The HYDROS code is called by running "./hydros.py \<inputfile\>", where "\<inputfile\>" is an arbitrarily named
 file modeled after the "1dscan" template shipped with the code. In the following, all parameters are described
 in detail:
 
