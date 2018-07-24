@@ -4,11 +4,11 @@ A dispersion relation solver for the hybrid-kinetic model of plasma physics.
 ===== HYDROS === HYbrid Dispersion RelatiOn Solver =====
 
 The HYDROS code is intended to enable an easy-to-use interface for obtaining solutions of the hybrid-kinetic
-dispersion relation. The derivation of the model is described in Told et al. (NJP xxxxxx, 2016), and is closely
-related to many space plasma physics simulation codes. The model includes a fully kinetic ion description, and
-a massless fluid electron species using a simple isothermal or adiabatic equation of state. The Ohm's law that
-determines the electric field can include a resistive term to model the wave physics seen in a turbulence simulation
-with finite resistivity.
+dispersion relation. The derivation of the model is described in Told et al. (New J. Phys. 18 (2016) 075001), 
+and is closely related to many space plasma physics simulation codes. The model includes a fully kinetic ion 
+description, and a massless fluid electron species using a simple isothermal or adiabatic equation of state. 
+The Ohm's law that determines the electric field can include a resistive term to model the wave physics seen 
+in a turbulence simulation with finite resistivity.
 
 The code is written in Python and runs on both Python 2.7/3, provided that the Numpy/Scipy modules are included. 
 You are welcome to use this code, and to adapt it to your own purposes. If you produce enhancements which may be
@@ -101,4 +101,4 @@ The scanvar, scan_range, nval, log, scan_list variables for the second scan dime
    procedures are saved. It is recommended that this file be inspected in case of any unexpected problems. 
 
 Finally, if there are any further questions about aspects not covered in this brief manual, do not hesitate to send
-an e-mail to dtold &AT& physics.ucla.edu.
+an e-mail to dtold &AT& ipp.mpg.de.
